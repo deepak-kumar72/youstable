@@ -49,6 +49,15 @@ include ('inc/header.php');
         /*padding: 20px 0;*/
         width: 100%;
     }
+    h1.Banner-Heading.padding-heading {
+        font-size: 46px !important;
+    }
+
+    .demo-sec{
+        border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 40px
+    }
 </style>
 
 <!-- Banner section -->
@@ -62,16 +71,16 @@ include ('inc/header.php');
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/newImages/domain_1.svg" alt="ssd"></span>Free Domain
+                                        src="assets/img/newImages/domain_1.svg" alt="ssd"></span>Latest NVMe SSD storage
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/newImages/ssl.svg" alt="manage"></span>Free SSL</li>
+                                        src="assets/img/newImages/ssl.svg" alt="manage"></span>Easy to manage</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/newImages/email.svg" alt="migration"></span>Free Emails</li>
+                                        src="assets/img/newImages/email.svg" alt="migration"></span>Free Migration</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/newImages/migration.svg" alt="support"></span>Free Migration
+                                        src="assets/img/newImages/migration.svg" alt="support"></span>24*7 Support
                             </li>
                         </ul>
                     </div>
@@ -152,24 +161,21 @@ include ('inc/header.php');
                         <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
                         <h4 class="hosting-heading">DEDICATED SERVER</h4>
                         <div class="price-container">
-                            <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>4999</p>
-                            <p class="hosting-price usa-host-price"><span class="hin-rs">$</span>60.00</p>
-
+                            <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>10,694</p>
                             <p class="per_month">/month</p>
                         </div>
 
-                        <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
+                        <!-- <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
                                 ₹6,665/month</span></p>
-                        <p class="regular-price regular-usa-price">Regular price<span class="cross-price">
-                                $79.97/month</span></p>
+                        <p class="regular-price ">Regular price<span class="cross-price">
+                                $79.97/month</span></p> -->
 
-                        <a href="dedicated-servers.php"><button class="btn-yellow exploreplan-btn" type="submit">Get
-                                Started</button></a>
+                        <a href="dedicated-servers.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
 
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>4 CPU</p>
+                                <p> Intel Xeon E-2274G</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -177,11 +183,11 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>480 GB SSD</p>
+                                <p>2x480 GB SSD</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>10TB/1Gbps Bandwidth</p>
+                                <p>10 TB Bandwidth</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -189,11 +195,11 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>IN/NL/USA Location</p>
+                                <p>Multiple Location</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p class="m-0">Free Control Panel</p>
+                                <p class="m-0">Free Direct Admin</p>
                             </div>
                         </div>
                         <div class="free_setup btn-yellow ">
@@ -213,15 +219,14 @@ include ('inc/header.php');
                         <h4 class="hosting-heading">VPS HOSTING</h4>
                         <div class="price-container">
                             <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>574</p>
-                            <p class="hosting-price usa-host-price"><span class="hin-rs">$</span>7.23</p>
+                            <!-- <p class="hosting-price usa-host-price"><span class="hin-rs">$</span>7.23</p> -->
                             <p class="per_month">/month</p>
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
                                 ₹1,149/month</span></p>
-                        <p class="regular-price regular-usa-price">Regular price<span class="cross-price">
-                                $13.779/month</span></p>
-                        <a href="vps-hosting.php"><button class="btn-purple exploreplan-btn" type="submit">Get
-                                Started</button></a>
+                        <!-- <p class="regular-price regular-usa-price">Regular price<span class="cross-price">
+                                $13.779/month</span></p> -->
+                        <a href="vps-hosting.php"><button class="btn-purple exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -245,7 +250,7 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>IN/NL/USA Location</p>
+                                <p>Free Control Panel</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -265,15 +270,14 @@ include ('inc/header.php');
                         <h4 class="hosting-heading">SHARED PLAN</h4>
                         <div class="price-container">
                             <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>49</p>
-                            <p class="hosting-price usa-host-price"><span class="hin-rs">$</span>0.6</p>
+                            <!-- <p class="hosting-price usa-host-price"><span class="hin-rs">$</span>0.6</p> -->
                             <p class="per_month">/month</p>
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
                                 ₹199/month</span></p>
-                        <p class="regular-price regular-usa-price">Regular price<span class="cross-price">
-                                $2.38/month</span></p>
-                        <a href="shared-hosting.php"><button class="btn-yellow exploreplan-btn" type="submit">Get
-                                Started</button></a>
+                        <!-- <p class="regular-price regular-usa-price">Regular price<span class="cross-price">
+                                $2.38/month</span></p> -->
+                        <a href="shared-hosting.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -293,16 +297,16 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>Free SSL Certificate</p>
+                                <p>DirectAdmin Panel</p>
                             </div>
-                            <div class="d-flex gap-2 specifications">
+                            <!-- <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
                                 <p>DirectAdmin Panel</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
                                 <p>99.9% Uptime</p>
-                            </div>
+                            </div> -->
 
                         </div>
                         <div class="free_setup btn-yellow ">
@@ -320,36 +324,52 @@ include ('inc/header.php');
     <div class="container">
         <div class="right-cols-awesome">
             <div class="padding-r-l text-center">
-                <h2 class="ay_heading">What Makes YouStable<span class="awesome-q line-1 anim-typewriter">
+                <h2 class="ay_heading">Discover India’s Best Web Hosting Features<span class="awesome-q line-1 anim-typewriter">
                         Awesome?</span></h2>
-                <p class="server-title title-sides-width">At YouStable, get everything for your online business, from
-                    static websites to e-commerce stores or CRMs. <br class="remove-mobile"> Enjoy lightning-fast
-                    performance, unmatched security, scalable plans, and 24/7 customer support.</p>
+                <p class="server-title title-sides-width">Our hosting is focused on your success! That’s why we provide the best quality features to make you stand apart from the competition.</p>
             </div>
             <div class="sides-width">
                 <div class="row">
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
                             <img src="assets/img/newImages/incredible-security.svg" alt="uptime">
-                            <h5 class="ay-heading">Incredible Security</h5>
-                            <p class="ay-title">Get advanced security with DDoS Protection, offering attack detection
-                                and mitigation to block harmful traffic from accessing your website.</p>
+                            <h5 class="ay-heading">Latest Technologies</h5>
+                            <p class="ay-title">Supercharge your website's security with YouStable's cutting-edge technology, Latest PHP, NVMe SSDs, Imunify360, and more!.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
                             <img src="assets/img/newImages/123.svg" alt="refund">
-                            <h5 class="ay-heading">Multiple Data Centers</h5>
-                            <p class="ay-title">Targeting a global audience? YouStable lets you select a <a href="https://www.youstable.com/data-center.php" target="_blank">data center</a>
-                                location to enhance your website's local search visibility.</p>
+                            <h5 class="ay-heading">Free SSL Certificate</h5>
+                            <p class="ay-title">Gain your customers trust with a free industry standard SSL certificate that provides you an encryption based network communication protocol and makes your website much safer.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
                             <img src="assets/img/newImages/uptime.svg" alt="support">
-                            <h5 class="ay-heading">99.99% Uptime</h5>
-                            <p class="ay-title">Ensure your website is available 24/7 to the visitors of your website.
-                                Get 99.99% committed Uptime and enjoy uninterrupted services at YouStable.</p>
+                            <h5 class="ay-heading">LiteSpeed Web Server</h5>
+                            <p class="ay-title">LiteSpeed web server is one of the fastest webservers that makes your website lightening fast on the internet with smart cache storage!</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 cols-aws-you">
+                        <div class="left-cols-awesome">
+                            <img src="assets/img/newImages/uptime.svg" alt="support">
+                            <h5 class="ay-heading">Free Site Migration</h5>
+                            <p class="ay-title">Not happy with your existing service provider? No worries!! We provide you completely free of cost website migration to our quality Server without any data loss.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 cols-aws-you">
+                        <div class="left-cols-awesome">
+                            <img src="assets/img/newImages/uptime.svg" alt="support">
+                            <h5 class="ay-heading">Daily Backups</h5>
+                            <p class="ay-title">Experience peace of mind with Local Indian Web Hosting Company. with our smart features create automatic backups, effortlessly restore your data from the past 7 days, anytime, without any limitations.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 cols-aws-you">
+                        <div class="left-cols-awesome">
+                            <img src="assets/img/newImages/uptime.svg" alt="support">
+                            <h5 class="ay-heading">Prioritized Local Support</h5>
+                            <p class="ay-title">Our 24/7 technical experts provide dedicated support at every step of your online journey. Get seamless assistance with local Hindi and English call support.</p>
                         </div>
                     </div>
                 </div>
@@ -412,63 +432,33 @@ include ('inc/header.php');
     <div class="container">
         <div class="right-cols-awesome">
             <div class="text-center">
-                <h2 class="ay_heading">Features that keep Us ahead</span></h2>
-                <p class="server-title title_sides_width">Boost your online business with Us! We specifically focus on
-                    the growth of your website,<br class="remove-mobile"> by offering the Top Best Quality Hosting
-                    features that make us stand apart.</p>
+                <h2 class="ay_heading">Why Choose YouStable for Your Web Hosting Needs?</span></h2>
+                <p class="server-title title_sides_width">Grab the India’s Best web hosting services with guaranteed uptime, blazing fast performance and on-demand technical support.</p>
             </div>
             <div class="features-awesome ">
                 <div class="row text-left">
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/NVMessd.svg" alt="ssd-storage">
-                            <h5 class="ay-heading">NVMe Storage</h5>
-                            <p class="ay-title m-0 w-100">Ensure instant data transfer and boost the website loading
-                                speed to engage a maximum number of viewers with the Latest NVMe Storage.</p>
+                            <h5 class="ay-heading">99.99% Uptime</h5>
+                            <p class="ay-title m-0 w-100">Get uninterrupted website performance with our services, backed by an incredible 99.99% uptime guarantee. Your site stays live 24/7!</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/SSL-certificate.svg" alt="ssl-certificate">
-                            <h5 class="ay-heading">Free SSL Certificate</h5>
-                            <p class="ay-title m-0 w-100">Get a Free LetsEncrypt SSL Certificate to secure a 100%
-                                encrypted connection with the visitors of the website and ensure the finest data
-                                security.</p>
+                            <h5 class="ay-heading">30 Days Refund Policy</h5>
+                            <p class="ay-title m-0 w-100">We have full confidence on our services that’s why we provide you 30-days money back guarantee that you can avail anytime without extra formalities.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/newImages/Advanced-Security.svg" alt="speed-web-server">
-                            <h5 class="ay-heading">Advanced Security</h5>
-                            <p class="ay-title m-0 w-100">We offer amazing security features that include WAF,
-                                Multi-layered Security and Standard DDoS Protection for Fully protected Hosting grounds.
+                            <h5 class="ay-heading">24/7/365 Local Support</h5>
+                            <p class="ay-title m-0 w-100">our dedicated team of technical experts works round the clock to support you at every step of your online journey. Plus, we offer local call support in Hindi and English for seamless assistance.
+
+
                             </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row text-left mt-4">
-                    <div class="col-md-4 cols-awesome-youstable">
-                        <div class="feature_cols_desciption">
-                            <img src="assets/img/icons/site-migration.svg" alt="Free Migration">
-                            <h5 class="ay-heading">Free Site Migration</h5>
-                            <p class="ay-title m-0 w-100">Having a website registered with an existing hosting firm &
-                                eager to shift? Take no worries, as We provide Free Website Migration to YouStable.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 cols-awesome-youstable">
-                        <div class="feature_cols_desciption">
-                            <img src="assets/img/icons/daily-backup.svg" alt="auto-backup">
-                            <h5 class="ay-heading">Free Backup*</h5>
-                            <p class="ay-title m-0 w-100">Here, At YouStable, we offer Free BackUp along with One-Click
-                                Data Restoration, allowing swift access to your backup data within a few seconds.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 cols-awesome-youstable">
-                        <div class="feature_cols_desciption">
-                            <img src="assets/img/newImages/Expert-Support.svg" alt="support24">
-                            <h5 class="ay-heading">Expert Support</h5>
-                            <p class="ay-title m-0 w-100">24/7 Expert LiveChat, Ticket Support, Call and email help with
-                                full expert assistance to ensure your technical issues are resolved instantly.</p>
                         </div>
                     </div>
                 </div>
@@ -636,7 +626,7 @@ include ('inc/header.php');
 
 <!--Performance section-->
 <section class="performance-sec plans">
-    <div class="container">
+    <!-- <div class="container">
         <div class="text-center">
             <h2 class="Banner-Heading">Get the Best Results with<br></h2>
             <h2 class="Banner-Heading fw-bold awesome-q line-1 anim-typewriter purple-text_dark managed-vps-hosting"> #1
@@ -645,112 +635,149 @@ include ('inc/header.php');
             <p class="server-title">From online project managers to professional web
                 portfolios, SMBs, and web developers, <br class="remove-mobile">users trust our <a href="https://www.youstable.com/vps-hosting.php" target="_blank">managed VPS hosting</a>
                 solutions to boost their online presence.</p>
-        </div>
-
-        <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
-            <div class="col-lg-4 tab-wid">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link active teb-bg-purple" id="pills-home-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
-                        aria-selected="true">
-                        <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/CP.svg"
-                                    alt="migration"></span>Multiple Control Panel</li>
-                    </button>
-                </p>
-            </div>
-            <div class="col-lg-4 tab-wid">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link teb-bg-purple" id="pills-profile-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
-                        aria-selected="false">
-                        <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/DP.svg"
-                                    alt="migration"></span>Anti DDoS Protection*</li>
-                    </button>
-                </p>
-            </div>
-            <div class="col-lg-4 tab-wid">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link teb-bg-purple" id="pills-contact-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
-                        aria-selected="false">
-                        <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/RA.svg"
-                                    alt="migration"></span>Full Root Access</li>
-                    </button>
-                </p>
-            </div>
-        </div>
-
-        <div class="tab-content" id="pills-tabContent">
-            <div class="tab-pane fade show active border tab-titles" id="pills-home" role="tabpanel"
-                aria-labelledby="pills-home-tab">
-                <div class="container">
+        </div> -->
+        <div class="container">
                     <section class="">
-                        <div class="row reverse">
+                        <div class="row reverse demo-sec">
                             <div class="col-lg-6">
                                 <div class="mt-4"
                                     style="height: 100%;display: flex;flex-direction: column;justify-content: center;">
-                                    <h2 class="ay_heading text-start">Multiple Control Panel</h2>
-                                    <p class="server-titles py-4">Install control Panel which includes <a href="https://www.youstable.com/cpanel-vps" target="_blank">cPanel</a>,
-                                        DirectAdmin, Cloud Panel, Plesk, and Free Premium <a href="https://www.youstable.com/cyberpanel-vps" target="_blank">CyberPanel with Addons</a> like
-                                        Backupsv2, worth <strong>$139</strong> for Free.</p>
+                                    <h2 class="ay_heading text-start">Easily manage your tasks with DirectAdmin.l</h2>
+                                    <p class="server-titles py-4">Our GUI-based control panel ensures smooth and effortless website file management. The best part? It's included in our services, absolutely free of cost!.</p>
+
+                                        <a href=""><button class="btn-yellow btn-explore-plan">Try Demo<i
+                            class="fa-solid fa-arrow-right"></i></button></a>
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <img class="thinking-girl" src="assets/img/newImages/multiple-control-panel.png">
+                                <img class="thinking-girl" src="">
                             </div>
                         </div>
                     </section>
                 </div>
-            </div>
+
+</section>
 
 
-            <div class="tab-pane fade border tab-titles" id="pills-profile" role="tabpanel"
-                aria-labelledby="pills-profile-tab">
-                <div class="container">
-                    <section class="">
-                        <div class="row reverse">
-                            <div class="col-lg-6">
-                                <div class="mt-4"
-                                    style="height: 100%;display: flex;flex-direction: column;justify-content: center;">
-                                    <h2 class="ay_heading text-start">Anti DDoS Protection*</h2>
-                                    <p class="server-titles py-4">Be assured of the Security of your website! Enhanced
-                                        DDoS Protection
-                                        ensures Quick mitigation of online traffic attacks and secures your website.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <img class="thinking-girl" src="assets/img/newImages/anti-DDoS-protection.png">
-                            </div>
+<section class="explore-section mt-5 plans-mobile-one" id="explore">
+    <div class="text-center shared-hosting-plan-heading web-host">
+        <h2 class="server-heading shared-heading-plan">Looking for Something More? <br> Avail it as per Your Needs</h2>
+        <p class="server-title choose">Whether you’re in need of WordPress Hosting, VPS Hosting, Dedicated Server or any other web hosting services, we’ve got you Everything covered!
+        </p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">VPS Hosting</h4>
+
+                        <p class="">Experience ultra-high performance at a very low cost, an ideal hosting for those who are running a high-traffic website.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹574</span>/mo</p>
+                            
                         </div>
-                    </section>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
                 </div>
             </div>
-            <div class="tab-pane fade border tab-titles" id="pills-contact" role="tabpanel"
-                aria-labelledby="pills-contact-tab">
+        </div>
+        <div class="col-md-4 mb-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">Dedicated Server</h4>
 
-                <div class="container">
-                    <section class="">
-                        <div class="row reverse">
-                            <div class="col-lg-6">
-                                <div class="mt-4"
-                                    style="height: 100%;display: flex;flex-direction: column;justify-content: center;">
-                                    <h2 class="ay_heading text-start">Full Root Access</h2>
-                                    <p class="server-titles py-4">Want to make changes to your server settings? We give
-                                        you complete
-                                        Root access to your <a href="https://www.youstable.com/vps-hosting.php" target="_blank">Virtual private server</a> letting you configure it as per your
-                                        requirements.</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <img class="thinking-girl" src="assets/img/newImages/full-root-access.png">
-                            </div>
+                        <p class="">Do you want to experience full control on your server? If yes, then a Dedicated Server plan will be the best pick for you.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹10,694</span>/mo</p>
+                            
                         </div>
-                    </section>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">Domain</h4>
+
+                        <p class="">Choose the best name that represents your business or website with multiple domain extensions available.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹69</span>/y</p>
+                            
+                        </div>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">WordPress Hosting</h4>
+
+                        <p class="">So are you comfortable with WordPress? Well, avail ultra-smooth WordPress hosting at a very affordable price.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹49</span>/mo</p>
+                            
+                        </div>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">cPanel Hosting</h4>
+
+                        <p class="">Get full control of your resources with cPanel hosting and manage your website in just a few clicks.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹149</span>/mo</p>
+                            
+                        </div>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+                    <div class="p-4" style="border: 1px solid #cacaca; border-radius:30px;">
+                        <h4 class="hosting-heading text-center mb-3">Python Hosting</h4>
+
+                        <p class="">Launch your Application with the most powerful python web hosting servers and enjoy unhindered performance.</p>
+                        <h5 class="text-center">Starting At</h5>
+                        <div class="text-center">
+                            
+                            <p class="hosting-price;" style="font-size: 20px; font-weight:400  margin:0px;"><span class="" style="font-size:30px; font-weight:800;">₹259</span>/mo</p>
+                            
+                        </div>
+
+                        <a href=""><button class="btn-yellow exploreplan-btn" type="submit">View Options</button></a>
+
+                        <div class="hosting_specification">
                 </div>
             </div>
         </div>
     </div>
+         </div>
 </section>
 
 
@@ -775,9 +802,7 @@ include ('inc/customer-reviews.php');
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">YouStable is located in Lucknow, popularly known as the City of Nawabs,
-                        in India. In spite of its location, YouStable, with 4+ data centers worldwide, offers
-                        high-performing web hosting services across the globe.</div>
+                    <div class="accordion-body">While YouStable offers top-notch web hosting services worldwide, its headquarters is strategically based in the vibrant city of Lucknow, India. Experience seamless global connectivity with our high-quality hosting solutions.</div>
                 </div>
             </div>
 
@@ -785,13 +810,12 @@ include ('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        Can I upgrade my web hosting plan later?
+                        Why Choose YouStable Web Hosting Company in India?
                     </button>
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable’s Web Hosting Plans are Highly Scalable, allowing users
-                        to easily upgrade web resources as needed by their websites.</div>
+                    <div class="accordion-body">YouStable stands out for its exceptional web hosting services in India, combining top-notch quality and lightning-fast performance, all at remarkably affordable rates. If you seek the perfect balance of quality and affordability, YouStable is the ideal choice for you!</div>
                 </div>
             </div>
 
@@ -799,14 +823,12 @@ include ('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingThree">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Does YouStable provide different types of web hosting services?
+                        What features are offered in YouStable web hosting Plan?
                     </button>
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable provides web hosting services from <a href="https://www.youstable.com/shared-hosting.php" target="_blank">shared</a>, <a href="https://www.youstable.com/wordpress-hosting.php" target="_blank">WordPress</a>,
-                        VPS to <a href="https://www.youstable.com/dedicated-servers.php" target="_blank">dedicated servers</a> for storage and memory optimisation depending upon the specific needs
-                        of the individual and enterprise.</div>
+                    <div class="accordion-body">Experience the incredible speed of your website with YouStable! We host your site on cutting-edge servers, equipped with state-of-the-art hardware, ensuring it's blazing fast on the internet..</div>
                 </div>
             </div>
 
@@ -814,15 +836,12 @@ include ('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingFour">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                        Can I buy hosting without a domain name?
+                        Can I upgrade my web hosting plan later?
                     </button>
                 </h2>
                 <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes! You can buy web hosting services without a Domain name. However,
-                        if you do not have a Domain then you can take advantage of our Yearly Hosting Plan and grab a
-                        free domain or else get your existing Domain Transfer to YouStable from your current Domain
-                        provider.</div>
+                    <div class="accordion-body">Yes, Our servers are designed to be highly resilient, enabling you to upgrade your resources at any time. Whether you’re launching a new venture or expanding your existing business, you can seamlessly upgrade to any Web Hosting plan without worrying about any hidden charges.</div>
                 </div>
             </div>
 
@@ -830,15 +849,13 @@ include ('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingFive">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFour">
-                        Do I Need Technical Knowledge to Use Web Hosting?
+                        Does YouStable provide different types of web hosting services?
 
                     </button>
                 </h2>
                 <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">No! Even if you have Zero Technical knowledge of how to handle servers
-                        and manage websites, our <a href="https://www.youstable.com/contact-us.php" target="_blank">dedicated expert staff</a> will assist you with server configuration at
-                        all times.</div>
+                    <div class="accordion-body">Discover a wide array of web hosting services tailored to your needs at YouStable. Choose from shared hosting, VPS, dedicated servers, and more, ensuring the perfect fit for your requirements and goals.</div>
                 </div>
             </div>
 
@@ -846,17 +863,46 @@ include ('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingSix">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
-                        How do I Know What kind of web hosting I need?
+                        Will you help me to migrate my website from another host to YouStable?
 
                     </button>
                 </h2>
                 <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">If you want to start a new Blogging, Choose <a href="https://www.youstable.com/shared-hosting.php" target="_blank">Shared Hosting services</a>
-                        with minimum hosting requirements. However, if you still have concerns, then Connect with our
-                        Technical experts for friendly guidance.</div>
+                    <div class="accordion-body">Absolutely! YouStable offers seamless and cost-free website migration (up to 5GB*) to their top-notch servers. If you're trapped with a subpar service provider, it's time to make a smart switch and elevate your online experience.</div>
                 </div>
+
+                
             </div>
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingSix">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Are YouStable's hosting plans suitable for individuals with no technical expertise?
+
+                    </button>
+                </h2>
+                <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Yes, With our fully managed web hosting services in India, you can effortlessly handle and maintain your website, even if you lack technical expertise. Focus on your content while we take care of the technicalities for you.</div>
+                </div>
+                
+            </div>
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingSix">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Do you offer a money-back Guaranteed?
+
+                    </button>
+                </h2>
+                <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Yes, we guarantee a full refund if our services fail to meet your expectations. Enjoy the freedom to cancel anytime within 30 days for a hassle-free, money-back experience.</div>
+                </div>
+                
+            </div>
+
         </div>
     </div>
 </section>
