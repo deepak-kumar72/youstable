@@ -3,10 +3,10 @@
     <div class="container">
         <div class="bg-purple">
             <div class="text-center customer-review-content">
-                <h2>What Our Customer Says</h2>
-                <p class="server-title What-Our-Customer">We confidently say that your success is our achievement! And we are proving
-                    it since 2015, by serving thousands of customers with best in class services
-                    for complete satisfaction.</p>
+                <h2>Customer Testimonials</h2>
+                <p class="server-title What-Our-Customer">Founded in 2015, YouStable is a renowned Indian brand that has
+                    made remarkable progress and continues to pursue excellence. We deeply appreciate the overwhelming
+                    support from our numerous satisfied customers spread across the world.</p>
             </div>
             <!--Review Slider -->
             <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
