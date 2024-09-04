@@ -1,6 +1,6 @@
 <?php
 $page = 'cpanel-hosting';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <head>
@@ -129,25 +129,26 @@ include ('inc/header.php');
     <div class="row align-items-center reverse-column">
       <div class="col-md-6">
         <div class="banner-left-content">
-          <h1 class="Banner-Heading padding-heading robust-one"> cPanel Web Hosting</h1>
-          <p class="Banner-title p-0">Ready to boost your site’s performance? Start your journey with an
-            industry-leading control panel at the best value today!</p>
+          <h1 class="Banner-Heading padding-heading robust-one"> Best & Secure cPanel Hosting in India.</h1>
+          <p class="Banner-title p-0">Empower your digital success effortlessly by harnessing our Affordable cPanel
+            hosting in India. Our hosting service offers blazing-fast speeds, cutting-edge security tools, and
+            dependable uptime, ensuring you have full control over your website.</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Flexible-management.svg" alt="tick"
-                  class="tick-square">Flexible management</li>
+                  class="tick-square">1 Free Domain</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Automatic-security-patches.svg" alt="tick"
-                  class="tick-square">Automatic security patches</li>
+                  class="tick-square">Malware Protection</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/One-click-app-installer.svg" alt="tick"
-                  class="tick-square">One-click app installer</li>
+                  class="tick-square">LiteSpeed Web Server</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Shared-SSH-access.svg" alt="tick"
-                  class="tick-square">Shared SSH access</li>
+                  class="tick-square">Auto Backup</li>
             </ul>
           </div>
         </div>
-        <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore"><button class="btn-yellow btn-explore-plan">Start Now <i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
@@ -208,9 +209,9 @@ include ('inc/header.php');
 <!--Explore Section-->
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
   <div class="text-center shared-hosting-plan-heading">
-    <h2 class="server-heading">Introducing Affordable and Quality-rich<br class="remove-mobile"> Hosting Plans</h2>
-    <p class="server-title choose">We provide the best cPanel hosting to manage your website and scale your business to
-      the next level!</p>
+    <h2 class="server-heading">Powerfull cPanel Hosting in India Plans<br class="remove-mobile">and Pricing</h2>
+    <p class="server-title choose">We provide the best and affordable cPanel hosting in India to manage your website and
+      scale your business to the next level!</p>
   </div>
   <div class="container">
     <div class="row flex_unset">
@@ -232,11 +233,11 @@ include ('inc/header.php');
 
             <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
               class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
-                type="submit">Get Started</button></a>
+                type="submit">Order Now</button></a>
 
             <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
               class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
-                type="submit">Get Started</button></a>
+                type="submit">Order Now</button></a>
 
             <div class="hosting_specification">
               <div class="d-flex gap-2 specifications">
@@ -286,10 +287,10 @@ include ('inc/header.php');
 
 
             <a href="https://www.youstable.com/manage/order.php?currency=2&pid=22" class="text-white indian-host-price"
-              target="_self"><button class="btn-purple exploreplan-btn" type="submit">Get Started</button></a>
+              target="_self"><button class="btn-purple exploreplan-btn" type="submit">Order Now</button></a>
 
             <a href="https://www.youstable.com/manage/order.php?currency=1&pid=22" class="text-white usa-host-price"
-              target="_self"><button class="btn-purple exploreplan-btn" type="submit">Get Started</button></a>
+              target="_self"><button class="btn-purple exploreplan-btn" type="submit">Order Now</button></a>
 
             <div class="hosting_specification">
               <div class="d-flex gap-2 specifications">
@@ -336,11 +337,11 @@ include ('inc/header.php');
 
             <a href="https://www.youstable.com/manage/order.php?currency=2&pid=23"
               class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
-                type="submit">Get Started</button></a>
+                type="submit">Order Now</button></a>
 
             <a href="https://www.youstable.com/manage/order.php?currency=1&pid=23"
               class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
-                type="submit">Get Started</button></a>
+                type="submit">Order Now</button></a>
 
             <div class="hosting_specification">
               <div class="d-flex gap-2 specifications">
@@ -1030,7 +1031,7 @@ include ('inc/header.php');
     <!-- <p class="reveal-type" data-bg-color="#cccccc" data-font-family="poppins" data-fg-color="#6B46F2">Experience's top-rated SMB Hosting provider with a <em class="fw-bold" style="color:#6B46F2;">4.7-star rating</em> powering websites from over 200 countries.</p>-->
 
     <!--</section>-->
-    <?php include ('animate-text.php') ?>
+    <?php include('animate-text.php') ?>
 
     <!--<div class="text-start">-->
     <!--     <img src="assets/img/floating-imgs2.png" class="floating">-->
@@ -1094,9 +1095,10 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Make the best out of the cPanel Hosting Features</span></h2>
-        <p class="server-title title_sides_width pb-3">The most popular control panel with some over-the-top
-          features.<br class="remove-phone"> Is there something else you are looking for?</p>
+        <h2 class="ay_heading">Maximize the advantages of cPanel Hosting Features</span></h2>
+        <p class="server-title title_sides_width pb-3">Is there anything else you are searching for? Our control panel
+          is widely acclaimed for its extensive features.<br class="remove-phone"> Is there something else you are
+          looking for?</p>
         <!--<p class="purple-text_dark see-yourself">See for yourself!</p>-->
       </div>
       <div class=" ">
@@ -1105,24 +1107,25 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Free-domain-Registration.svg" alt="ssd-storage">
               <h5 class="ay-heading">Free Domain Registration</h5>
-              <p class="ay-title m-0 w-100">Free domain registration with cPanel hosting plans. There are no hidden
-                charges while registering your new domain with YouStable’s hosting.</p>
+              <p class="ay-title m-0 w-100">Enjoy free domain registration when you choose Cheap cPanel hosting plans.
+                There are no undisclosed fees involved when you register your new domain with YouStable's hosting.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/NVMe-SSD-Powered-Servers.svg" alt="ssl-certificate">
-              <h5 class="ay-heading">NVMe SSD Powered Servers</h5>
-              <p class="ay-title m-0 w-100">You will get 100% pure NVMe SSD Drives with every web hosting plan. NVMe SSD
-                is 600x times faster than traditional HDD and SATA drives.</p>
+              <h5 class="ay-heading">NVMe SSD Drives</h5>
+              <p class="ay-title m-0 w-100">With every web hosting plan, you will receive NVMe SSD Drives that are 100%
+                pure. NVMe SSDs offer a speed that is 600 times faster than traditional HDD and SATA drives.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/99.95-Server-Uptime-Guarantee.svg" alt="speed-web-server">
-              <h5 class="ay-heading">99.95% Server Uptime Guarantee</h5>
-              <p class="ay-title m-0 w-100">With YouStable’s web hosting service, you will get a guaranteed server
-                uptime of 99.95%. You can also keep an eye on our server uptime with a live server monitoring tool.</p>
+              <h5 class="ay-heading">99.95% Server Uptime</h5>
+              <p class="ay-title m-0 w-100">With YouStable's web hosting service, you are assured a server uptime of
+                99.95%. You can conveniently monitor our server uptime in real-time using our live server monitoring
+                tool.</p>
             </div>
           </div>
         </div>
@@ -1130,44 +1133,46 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Daily-Backups.svg" alt="Free Migration">
-              <h5 class="ay-heading">Daily Backups</h5>
-              <p class="ay-title m-0 w-100">YouStable automatically creates a backup of your site and restores your
-                website content lost within the last 7 days. Shared hosting gives free, whereas VPS Hosting has
-                chargeable off-site backups. Though on-site is absolutely free!</p>
+              <h5 class="ay-heading">Auto Backups</h5>
+              <p class="ay-title m-0 w-100">YouStable automatically generates a backup of your website and recovers any
+                lost website content from the past 7 days. Shared hosting provides free off-site backups, while VPS
+                Hosting offers chargeable off-site backups. However, on-site backups are completely free!</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Easy-to-use-Control-Panel.svg" alt="auto-backup">
-              <h5 class="ay-heading">Easy-to-use Control Panel</h5>
-              <p class="ay-title m-0 w-100">cPanel, the most commonly used control panel, has been one of the handy
-                control panels of all web hosting providers as well as users. With its easy-to-understand user interface
-                and familiarity with users, it’s been really simple to use!</p>
+              <h5 class="ay-heading">Friendly Control Panel</h5>
+              <p class="ay-title m-0 w-100">cPanel, the control panel that is widely used, has been highly regarded
+                among web hosting providers and users. Its user-friendly interface and familiarity make it extremely
+                easy to use and understand.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/LiteSpeed-Web-Servers.svg" alt="support24">
               <h5 class="ay-heading">LiteSpeed Web Servers</h5>
-              <p class="ay-title m-0 w-100">Powered by the most optimised web server, your site will fly like a rocket.
-                LiteSpeed⚡ web servers are specially designed to give 10x better website performance.</p>
+              <p class="ay-title m-0 w-100">With the utilization of the most optimized web server, your website will
+                soar swiftly. LiteSpeed⚡ web servers are specifically engineered to provide a website performance that
+                is 10 times better.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable cp-one">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Excellent-Customer-Support.svg" alt="support24">
-              <h5 class="ay-heading">Excellent Customer Support</h5>
-              <p class="ay-title m-0 w-100">Customer support is essential to cross hurdles on your way. And when it
-                comes to hosting, to get your path smooth and ongoing, YouStable is providing you with 24/7 customer
-                support throughout the year through call/chat/email and ticket support!</p>
+              <h5 class="ay-heading">Hindi/Eng Support</h5>
+              <p class="ay-title m-0 w-100">Customer support is crucial for overcoming obstacles along your journey.
+                When it comes to hosting, YouStable ensures a seamless and continuous experience by offering 24/7
+                customer support via call, chat, email, and ticket assistance throughout the year!</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable cp-one">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Free-Site-Migration.svg" alt="support24">
               <h5 class="ay-heading">Free Site Migration</h5>
-              <p class="ay-title m-0 w-100">A dedicated team will migrate all your files for free (Up to 5GB). You can
-                rely on us because we understand the importance of your content. We do it fast and for free!</p>
+              <p class="ay-title m-0 w-100">Our dedicated team will efficiently migrate all your files at no cost, up to
+                a maximum of 5GB. You can trust us completely as we recognize the significance of your content. Our
+                migration process is both speedy and free of charge!</p>
             </div>
           </div>
         </div>
@@ -1187,9 +1192,9 @@ include ('inc/header.php');
   <div class=" container">
     <div class="bg-purple purple high-q-bg" style="background: #fff; padding-top: 0px;">
       <div class="text-center">
-        <h2 class="server-heading">Industry-leading Technologies For Your Website!!</h2>
-        <p class="server-title title_sides-width">YouStable relies on the most renowned and trusted technologies to
-          provide better and unbeatable services</p>
+        <h2 class="server-heading">Technologies YouStable Works With </h2>
+        <p class="server-title title_sides-width">YouStable leverages highly reputable and trusted technologies to
+          deliver superior and unmatched services.</p>
         <div class="width-slider">
           <div class="row autoplay autoplay_slider">
             <div class="col-lg-3 server-cols">
@@ -1232,26 +1237,26 @@ include ('inc/header.php');
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 <!--(FAQ)-->
 <section class="faq">
   <div class="container">
-    <h2 class="text-center faq-question">FAQs</h2>
+    <h2 class="text-center faq-question">Frequently Asked Question</h2>
     <div class="accordion accordion-flush" id="accordionFlushExample">
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingOne">
           <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-            What is cPanel?
+            What is cPanel Hosting India?
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">cPanel is one of the most popular control panels in the market, which provides you
-            with a very easy-to-use GUI-based interface to manage and maintain your web hosting server along with your
-            website files.</div>
+          <div class="accordion-body">cPanel hosting India is a popular web hosting service that utilizes the cPanel
+            control panel for managing websites and server settings. It offers a user-friendly interface, allowing users
+            to easily manage their website files, domains, email accounts, and databases.</div>
         </div>
       </div>
 
@@ -1264,9 +1269,9 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">cPanel comes with a GUI-based interface making it a perfect pick for beginners to
-            manage and maintain their website files or other resources. Hence, cPanel will be the best option if you are
-            a beginner.</div>
+          <div class="accordion-body">cPanel is equipped with a user-friendly graphical interface, making it an
+            excellent choice for beginners to efficiently handle and upkeep their website files and other resources.
+            Therefore, cPanel is the ideal option for those who are new to website management.</div>
         </div>
       </div>
 
@@ -1279,10 +1284,11 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">The difference between web hosting services and cPanel is very easy to understand.
-            Let’s say you have created a website which you want to take live on the internet — you can easily do so by
-            using a hosting web service. But what after that? How will you manage the files? To manage and maintain your
-            website files, you will need cPanel.</div>
+          <div class="accordion-body">Understanding the distinction between web hosting services and cPanel is quite
+            straightforward. Let's assume you have built a website that you wish to make accessible on the internet. You
+            can accomplish this effortlessly by utilizing a web hosting service. However, what comes next? How do you
+            handle the files? In order to effectively manage and maintain your website files, you will require cPanel.
+          </div>
         </div>
       </div>
 
@@ -1290,13 +1296,16 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            Is Customer support available on cPanel Hosting?
+            Why cPanel Hosting is worth it?
           </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, YouStable provides 24*7 customer support through call, chat, email and ticket
-            options. Always up and ready to serve and solve all the issues of their users!</div>
+          <div class="accordion-body">Certainly! With its user-friendly interface and impressive quality, cPanel stands
+            out as one of the most intuitive control panels available, making it an excellent choice for you. However,
+            it's important to note that cPanel requires licensing, which contributes to its slightly higher cost
+            compared to other options. Nonetheless, the range of features it offers more than justifies the investment!
+          </div>
         </div>
       </div>
 
@@ -1304,56 +1313,108 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFour">
-            Why Choose YouStable for cPanel Hosting?
+            What is the alternative to cPanel Hosting?
           </button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">With more affordable pricing and bilingual local customer support available day
-            and night for its users, YouStable’s cPanel hosting is preferable in more unique ways than other hosting
-            providers out in the market.
+          <div class="accordion-body">There are several cost-effective alternatives to cPanel available in the market.
+            Here are a few examples:
+            <ul>
+              <li style="list-style-type: disc;    margin-left: 50px;">DirectAdmin</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Plesk</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">CyberPanel</li>
+            </ul>
           </div>
         </div>
       </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingSix">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+            Do I get a free domain name with cPanel Hosting?
+          </button>
+        </h2>
+        <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            When you opt for the Annual or Triannual plans for any of the cPanel hosting options mentioned above, you
+            will also receive a free domain name along with your hosting package.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingSeven">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+            Do I get a cPanel license web buying cPanel hosting?
+          </button>
+        </h2>
+        <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            Yes, you will get a licensed cPanel hosting with YouStable.
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingEight">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+            Do your cPanel Web hosting plans have a Money Back Guarantee?
+          </button>
+        </h2>
+        <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            Yes, YouStable provides a 30-days money-back guarantee to new customers who sign up for any of its hosting
+            services!
+          </div>
+        </div>
+      </div>
+
     </div>
   </div><br>
 </section>
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">24/7 Friendly Customer Support</h2>
+          <p class="server-titles py-4">What if you encounter a problem? Fear not! We have you covered with our
+            dedicated team of professionals who work tirelessly to swiftly resolve any issues you may face, 24/7.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>

@@ -34,7 +34,7 @@
 
             <div class="social">
               <a href="https://www.linkedin.com/company/youstable/" target="_self"><img src="assets/img/linkeding.svg"
-                  alt="linkedin"> </a> 
+                  alt="linkedin"> </a>
             </div>
 
 
@@ -55,7 +55,7 @@
                   alt="youtube"> </a>
             </div>
           </div>
-          
+
 
         </div>
 
@@ -76,7 +76,7 @@
                   <li><a href="free-domain.php" target="_self"> Free Domain</a></li>
                   <li><a href="domain-registration.php" target="_self"> Register Domain Name</a></li>
 
-                  
+
                 </ul>
               </div>
               <div class="footer-options">
@@ -99,11 +99,11 @@
                   <li><a href="nodejs-hosting.php" target="_self">Nodejs Hosting</a></li>
                   <li><a href="nvme-ssd-vps.php" target="_self">NVMe SSD VPS</a></li>
                   <li><a href="ubuntu-vps-hosting.php" target="_self">Ubuntu VPS Hosting</a></li>
-                  <li><a href="windows-vps-hosting.php" target="_self">Windows VPS Hosting</a></li>      
-                  <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>   
-                  <li><a href="high-performance-vps.php" target="_self">High Performance VPS Hosting</a>                            
-                  
-                  <!-- <li><a href="#">Speed Test</a></li> -->
+                  <li><a href="windows-vps-hosting.php" target="_self">Windows VPS Hosting</a></li>
+                  <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>
+                  <li><a href="high-performance-vps.php" target="_self">High Performance VPS Hosting</a>
+
+                    <!-- <li><a href="#">Speed Test</a></li> -->
                 </ul>
               </div>
               <div class="footer-options">
@@ -144,24 +144,37 @@
                 <ul>
                   <li><a href="about-us.php">About YouStable</a></li>
                   <li><a href="our-team.php">Our Team</a></li>
-                   <li><a href="data-center.php">Data Center</a></li>
-                   
-                  <li class="nav-item dropdown footer-li-adjust">
-                <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown" aria-expanded="false">Speed Test <span class="arrow-whites"><img src="assets/img/arrow-down-white.svg" alt=""></span></a>
-                <ul class="dropdown-menu language-select-icon language-select-icon-ones" >
-                  <li><a class="dropdown-item speed-test-item" href="https://youstable.in/speed-in" target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
-                      </span></a></li>
-                  <li><a class="dropdown-item speed-test-item" href="https://youstable.in/speed-us"  target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/unitedstates.png" alt="flag-icon"></span> United State</p>
-                      </span></a></li>
-                  <li><a class="dropdown-item speed-test-item speed-test-item-one" href="https://youstable.in/speed-nl"   target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/netherlandss.png" alt="flag-icon"></span> Netherlands</p>
-                      </span></a></li>
-                 
+                  <li><a href="data-center.php">Data Center</a></li>
 
-                </ul>
-              </li>
+                  <li class="nav-item dropdown footer-li-adjust">
+                    <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">Speed Test <span class="arrow-whites"><img
+                          src="assets/img/arrow-down-white.svg" alt=""></span></a>
+                    <ul class="dropdown-menu language-select-icon language-select-icon-ones">
+                      <li><a class="dropdown-item speed-test-item" href="https://youstable.in/speed-in" target="blank"
+                          style="color:#292929;"><span class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><img
+                                    src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
+                          </span></a></li>
+                      <li><a class="dropdown-item speed-test-item" href="https://youstable.in/speed-us" target="blank"
+                          style="color:#292929;"><span class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><img
+                                    src="assets/img/unitedstates.png" alt="flag-icon"></span> United State</p>
+                          </span></a></li>
+                      <li><a class="dropdown-item speed-test-item speed-test-item-one"
+                          href="https://youstable.in/speed-nl" target="blank" style="color:#292929;"><span
+                            class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><span
+                                    class="icon-flags-country"><img src="assets/img/netherlandss.png"
+                                      alt="flag-icon"></span> Netherlands</p>
+                          </span></a></li>
+
+
+                    </ul>
+                  </li>
 
                   <li><a href="career.php">Career<span class="we-r-hiring btn-yellow">We're Hiring!</span></a></li>
                   <li><a href="http://t.ly/1trC" target="_self">Client Reviews</a></li>
@@ -192,33 +205,42 @@
   <div class="container" style="margin-bottom: 50px !important">
     <div class="row change-lay" style="padding-bottom: 12px;">
       <div class="col-lg-6">
-          <!--country selector-->
-          <div class="d-flex align-items:baseline;" style="position: relative;bottom: 16px;">
-              <div>
-          <p class="region">Region :</p>
+        <!--country selector-->
+        <div class="d-flex align-items:baseline;" style="position: relative;bottom: 16px;">
+          <div>
+            <p class="region">Region :</p>
           </div>
           <div>
-          <li class="nav-item dropdown footer-li-adjust">
-                <a class="nav-link dropdown-toggle header-links footer-li-a footer-li-a1" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span class="world-globe"><img src="assets/img/world-wide-white.png" alt=""></span>Select Country <span class="arrow-white"><img src="assets/img/arrow-down-white.svg" alt=""></span></a>
-                <ul class="dropdown-menu language-select-icon language-select-icon-one" >
-                  <li><a class="dropdown-item first-shared footer-adjust" href="https://www.youstable.com/" target="blank"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/unitedstates.png" alt="flag-icon"></span> Global</p>
-                      </span></a></li>
-                  <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.in/"  target="blank"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
-                      </span></a></li>
-                  <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.ae/"   target="blank"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/uaee.png" alt="hosting-icon"></span> UAE</p>
-                      </span></a></li>
-                  <!-- <li><a class="dropdown-item first-shared-one footer-adjust" href="https://www.youstable.com/Srilanka"   target="blank" style="border-bottom:0px;"><span class="dropdown-menu-link-conatiner">
+            <li class="nav-item dropdown footer-li-adjust">
+              <a class="nav-link dropdown-toggle header-links footer-li-a footer-li-a1" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false"><span class="world-globe"><img
+                    src="assets/img/world-wide-white.png" alt=""></span>Select Country <span class="arrow-white"><img
+                    src="assets/img/arrow-down-white.svg" alt=""></span></a>
+              <ul class="dropdown-menu language-select-icon language-select-icon-one">
+                <li><a class="dropdown-item first-shared footer-adjust" href="https://www.youstable.com/"
+                    target="blank"><span class="dropdown-menu-link-conatiner">
+                      <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img
+                            src="assets/img/unitedstates.png" alt="flag-icon"></span> Global</p>
+                    </span></a></li>
+                <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.in/"
+                    target="blank"><span class="dropdown-menu-link-conatiner">
+                      <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img
+                            src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
+                    </span></a></li>
+                <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.ae/"
+                    target="blank"><span class="dropdown-menu-link-conatiner">
+                      <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img
+                            src="assets/img/uaee.png" alt="hosting-icon"></span> UAE</p>
+                    </span></a></li>
+                <!-- <li><a class="dropdown-item first-shared-one footer-adjust" href="https://www.youstable.com/Srilanka"   target="blank" style="border-bottom:0px;"><span class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/sri-lanka.png" alt="hosting-icon"></span> SriLanka</p>
                       </span></a></li>
  -->
-                </ul>
-              </li>
-              </div>
-              </div>
-          <!--country selector-->
+              </ul>
+            </li>
+          </div>
+        </div>
+        <!--country selector-->
         <div class="pay-image">
           <img src="assets/img/banking.svg" alt="paid" />
         </div>
@@ -403,7 +425,7 @@
   // </script>
 
 <script>
-$(document).ready(function () {
+  $(document).ready(function () {
     var myylist = $("#list");
     var myselect = $(".select");
 
@@ -412,40 +434,40 @@ $(document).ready(function () {
 
     // Show/hide function
     myselect.on('click', function () {
-        myylist.toggle();
+      myylist.toggle();
     });
 
     // Function to switch to Rupee currency
     $('#list #rupee').on('click', function () {
-        $("#select img").attr("src", $('#rupee img').attr('src'));
-        $("#select span").css('padding-left', '50px');
-        $("#select span").text($(this).text());
-        $("#list").hide();
+      $("#select img").attr("src", $('#rupee img').attr('src'));
+      $("#select span").css('padding-left', '50px');
+      $("#select span").text($(this).text());
+      $("#list").hide();
 
-        // Show Indian currency prices and regular prices, hide USA currency prices and regular prices
-        $(".indian-host-price, .regular-indian-price").show();
-        $(".usa-host-price, .regular-usa-price").hide();
+      // Show Indian currency prices and regular prices, hide USA currency prices and regular prices
+      $(".indian-host-price, .regular-indian-price").show();
+      $(".usa-host-price, .regular-usa-price").hide();
     });
 
     // Function to switch to USD currency
     $('#list #usd').on('click', function () {
-        $("#select img").attr("src", $('#usd img').attr('src'));
-        $("#select span").css('padding-left', '50px');
-        $("#select span").text($(this).text());
-        $("#list").hide();
+      $("#select img").attr("src", $('#usd img').attr('src'));
+      $("#select span").css('padding-left', '50px');
+      $("#select span").text($(this).text());
+      $("#list").hide();
 
-        // Show USA currency prices and regular prices, hide Indian currency prices and regular prices
-        $(".indian-host-price, .regular-indian-price").hide();
-        $(".usa-host-price, .regular-usa-price").show();
+      // Show USA currency prices and regular prices, hide Indian currency prices and regular prices
+      $(".indian-host-price, .regular-indian-price").hide();
+      $(".usa-host-price, .regular-usa-price").show();
     });
 
     // Close list when clicking anywhere outside of it
     $(document).mouseup(function (event) {
-        if (!myselect.is(event.target) && myselect.has(event.target).length === 0) {
-            myylist.hide();
-        }
+      if (!myselect.is(event.target) && myselect.has(event.target).length === 0) {
+        myylist.hide();
+      }
     });
-});
+  });
 
 
 </script>
@@ -454,18 +476,18 @@ $(document).ready(function () {
 
 <!--up down -->
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const selectElement = document.getElementById('select');
-  const listElement = document.getElementById('list');
+  document.addEventListener("DOMContentLoaded", function () {
+    const selectElement = document.getElementById('select');
+    const listElement = document.getElementById('list');
 
-  selectElement.addEventListener('click', function() {
-    // Toggle active class on select element
-    this.classList.toggle('active');
+    selectElement.addEventListener('click', function () {
+      // Toggle active class on select element
+      this.classList.toggle('active');
 
-    // Toggle display of list element using classList
-    listElement.classList.toggle('show');
+      // Toggle display of list element using classList
+      listElement.classList.toggle('show');
+    });
   });
-});
 
 </script>
 <!--up down -->
@@ -673,20 +695,20 @@ document.addEventListener("DOMContentLoaded", function() {
 <!--anchor hide-->
 
 <script>
-$(function(){
-            $(".footer .dropdown-menu a").each(function(index, element) {
-                var href = $(this).attr("href");
-                $(this).attr("hiddenhref", href);
-                $(this).removeAttr("href");
-            });
+  $(function () {
+    $(".footer .dropdown-menu a").each(function (index, element) {
+      var href = $(this).attr("href");
+      $(this).attr("hiddenhref", href);
+      $(this).removeAttr("href");
+    });
 
-            $(".footer .dropdown-menu a").click(function() {
-                var url = $(this).attr("hiddenhref");
-                // Uncomment one of the following lines based on your requirement
-                // window.open(url, "_blank"); // Opens link in a new tab
-                window.location.href = url; // Redirects to the link in the same tab
-            });
-        });
+    $(".footer .dropdown-menu a").click(function () {
+      var url = $(this).attr("hiddenhref");
+      // Uncomment one of the following lines based on your requirement
+      // window.open(url, "_blank"); // Opens link in a new tab
+      window.location.href = url; // Redirects to the link in the same tab
+    });
+  });
 </script>
 
 <!-- <script>

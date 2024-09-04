@@ -1,6 +1,6 @@
 <?php
 $page = 'shared-hosting';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 <style>
   .hidden {
@@ -35,7 +35,7 @@ include ('inc/header.php');
     margin-top: 0;
   }
 
-  
+
 
   .section-p {
     height: 30vh !important;
@@ -81,13 +81,14 @@ include ('inc/header.php');
     <div class="row align-items-center reverse-column">
       <div class="col-md-6">
         <div class="banner-left-content">
-          <p class="experience">Affordable Linux Shared Hosting</p>
-          <h1 class="Banner-Heading padding-heading robust">Affordable Shared Web Hosting</h1>
-          <p class="Banner-title p-0">Looking for affordable shared Linux hosting? Enjoy fast, reliable, and cost-effective web hosting with outstanding website performance.</p>
+          <p class="experience">Shared Hosting</p>
+          <h1 class="Banner-Heading padding-heading robust">Lightning Fast & Managed Shared Hosting</h1>
+          <p class="Banner-title p-0">Take your online presence to new heights with a hosting partner that's got you
+            covered - offering top-notch security, lightning-fast speed, and round-the-clock friendly support.</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Single-click-script-installs.svg"
-                  alt="tick" class="tick-square">Single-click script installs</li>
+                  alt="tick" class="tick-square">1-click script installs</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Easy-to-use-control-panel.svg" alt="tick"
                   class="tick-square">Easy to use control panel</li>
             </ul>
@@ -99,13 +100,12 @@ include ('inc/header.php');
             </ul>
           </div>
         </div>
-        <a href="#explore" class="link-color-black"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore" class="link-color-black"><button class="btn-yellow btn-explore-plan">Start Now<i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/newImages/ultra-smooth-hosting.png" alt="Banner"
-          srcset="">
+        <img class="banner_img floatings" src="assets/img/newImages/ultra-smooth-hosting.png" alt="Banner" srcset="">
       </div>
     </div>
   </div>
@@ -161,8 +161,9 @@ include ('inc/header.php');
 <!--Explore Section-->
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
   <div class="text-center shared-hosting-plan-heading">
-    <h2 class="server-heading shared-heading-plan">Shared Web Hosting Plans and Pricing</h2>
-    <p class="server-title choose">We’ve got the perfect hosting solutions for you! Our shared hosting platform combines efficiency, <br>security, and plenty of resources to meet all your needs.</p>
+    <h2 class="server-heading shared-heading-plan">Get Best Shared Web Hosting Plans that fits your Ambitions</h2>
+    <p class="server-title choose">Select the optimal and budget-friendly hosting plan that aligns perfectly with your
+      needs.</p>
   </div>
   <div class="container">
 
@@ -1121,7 +1122,7 @@ include ('inc/header.php');
         <img src="assets/img/cloud-circle.png" class="movingcloud">
       </span>
     </div>
-    <?php include ('animate-text.php') ?>
+    <?php include('animate-text.php') ?>
     <div class="d-flex justify-content-between">
       <span class="text-start">
         <img src="assets/img/cloud-wave.png" class="movingclouds">
@@ -1224,9 +1225,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading ">What Makes Shared Web Hosting with YouStable Awesome?</span></h2>
-        <p class="server-title title_sides_width pb-3">YouStable’s remarkably designed Linux Shared Web Hosting features make it worth
-          using.</p>
+        <h2 class="ay_heading "><span>Features that Separate us From the Market</span></h2>
+        <p class="server-title title_sides_width pb-3">YouStable's Shared Hosting features are exquisitely crafted,
+          making it a valuable choice for your hosting needs in India.</p>
         <p class="purple-text_dark see-yourself">See for yourself!</p>
       </div>
       <div class=" ">
@@ -1235,24 +1236,25 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/NVMe-SSD-Storage.svg" alt="ssd-storage">
               <h5 class="ay-heading">NVMe SSD Storage</h5>
-              <p class="ay-title m-0 w-100">Get access to the best quality NVMe SSD hardwares to ensure a smooth data
-                transfer between the server and your customers!</p>
+              <p class="ay-title m-0 w-100">Experience seamless data transfer between your server and customers with our
+                top-quality NVMe SSD hardware, guaranteeing the best performance and reliability.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Free-SSL-Certificate.svg" alt="ssl-certificate">
               <h5 class="ay-heading">Free SSL Certificate</h5>
-              <p class="ay-title m-0 w-100">Enjoy impenetrable website security with our encrypted network hosting. Get
-                free SSL for full protection against online threats.</p>
+              <p class="ay-title m-0 w-100">Ensure unbeatable internet security with our encrypted network hosting. We
+                offer free SSL to safeguard your website and provide complete peace of mind.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/LiteSpeed-Web-Server.svg" alt="speed-web-server">
               <h5 class="ay-heading">LiteSpeed Web Server</h5>
-              <p class="ay-title m-0 w-100">Boost your website's speed with LiteSpeed web server – 5x faster. Stay ahead
-                with our cutting-edge hosting technologies.</p>
+              <p class="ay-title m-0 w-100">Experience blazing-fast website performance with LiteSpeed web server,
+                delivering speeds up to 5 times faster than traditional servers! As a responsible web hosting provider
+                in India, we prioritize the use of cutting-edge technologies for your utmost convenience.</p>
             </div>
           </div>
         </div>
@@ -1261,23 +1263,26 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/99.9-Server-Uptime.svg" alt="Free Migration">
               <h5 class="ay-heading">99.9% Server Uptime</h5>
-              <p class="ay-title m-0 w-100">Ensure peace of mind with our 99.9% uptime guarantee, keeping your website
-                seamlessly available for your customers.</p>
+              <p class="ay-title m-0 w-100">No need to worry about website performance. Our services include a 99.9%
+                uptime guarantee, ensuring your website remains live and error-free for your valuable customers.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Auto-Backups.svg" alt="auto-backup">
               <h5 class="ay-heading">Auto Backups</h5>
-              <p class="ay-title m-0 w-100">Focus on your business while our smart features monitor server resources,
-                notifying you promptly for updates or upgrades.</p>
+              <p class="ay-title m-0 w-100">Focus on your business while our smart features monitor server resources.
+                Timely notifications for updates and upgrades ensure uninterrupted performance. Enjoy alternate day
+                backups for peace of mind.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/247-Support.svg" alt="support24">
               <h5 class="ay-heading">24/7 Support</h5>
-              <p class="ay-title m-0 w-100">At YouStable, we're here for you 24/7! Reach out via live chat, ticket, or email—we're always ready to help!</p>
+              <p class="ay-title m-0 w-100">Our team of dedicated technical experts is available 24/7 to provide support
+                at every stage of your journey in Local English and Hindi Support. Sit back, relax, and rest assured
+                that your website is in safe hands.</p>
             </div>
           </div>
         </div>
@@ -1291,9 +1296,9 @@ include ('inc/header.php');
 <section class="performance-sec plans">
   <div class="container">
     <div class="text-center">
-      <h2 class="Banner-Heading">Quality Standards For Optimum Performance</h2>
-      <p class="server-title server-title-width mt-0 mt-p">As you know, we never compromise with quality!! All thanks to
-        our quality features which we provide at no additional cost.</p>
+      <h2 class="Banner-Heading">Why Choose YouStable Shared Web Hosting</h2>
+      <p class="server-title server-title-width mt-0 mt-p">At YouStable, we never compromise on quality! Benefit from
+        our exceptional features that come included at no extra cost.</p>
     </div>
 
     <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
@@ -1342,32 +1347,31 @@ include ('inc/header.php');
     <div class="tab-content" id="pills-tabContent">
       <div class="tab-pane fade show active border tab-titles" id="pills-home" role="tabpanel"
         aria-labelledby="pills-home-tab">
-        <h5 class="heading-servers m-0">NVMe SSD Powered Servers</h5>
-        <p class="server-title py-2 m-0">We proudly say that our server infrastructures are best in the market. You know
-          why? Because we use the top class and latest hardware equipment such as fast NVMe SSD drives ensure blazing
-          fast data transport between the server and your audience.</p>
+        <h5 class="heading-servers m-0">
+          Fast Nvme SSD Storage</h5>
+        <p class="server-title py-2 m-0">We take pride in our market-leading server infrastructures. Wondering why? We
+          utilize top-notch, state-of-the-art hardware like lightning-fast NVMe SSD drives, ensuring seamless data
+          transfer between the server and your audience.</p>
       </div>
       <div class="tab-pane fade border tab-titles" id="pills-profile" role="tabpanel"
         aria-labelledby="pills-profile-tab">
         <h5 class="heading-servers m-0">Optimized Servers</h5>
-        <p class="server-title py-2 m-0">No matter which CMS you use to manage your content or website we have optimised
-          our server to easily and smoothly function with all!! Whether you use WordPress, Joomla, Magento or any other
-          popular CMS our servers are compatible with every popular CMS in the market.</p>
+        <p class="server-title py-2 m-0">Our servers are optimized to seamlessly function with all major content
+          management systems (CMS) such as WordPress, Joomla, Magento, and more. No matter which CMS you use, rest
+          assured our servers are fully compatible with your preferred platform.</p>
       </div>
       <div class="tab-pane fade border tab-titles" id="pills-contact" role="tabpanel"
         aria-labelledby="pills-contact-tab">
         <h5 class="heading-servers m-0">Advanced Control Panel</h5>
-        <p class="server-title py-2 m-0">To ensure that you can easily website files and server resources we provide the
-          best and most popular control panels which you can easily avail based on your needs. For example we provide
-          both cPanel and DirectAdmin so that you have a better options to go with either budget friendly or
-          feature-rich control panel.</p>
+        <p class="server-title py-2 m-0">To ensure effortless management of your website files and server resources, we
+          offer industry-leading control panels like cPanel and DirectAdmin. Whether you prefer a budget-friendly or
+          feature-rich option, we have you covered with the best choices available.</p>
       </div>
       <div class="tab-pane fade border tab-titles" id="pills-uptime" role="tabpanel" aria-labelledby="pills-uptime-tab">
-        <h5 class="heading-servers m-0">Uptime Guaranteed</h5>
-        <p class="server-title py-2 m-0">What if my website gets down? Well no worries!! We don’t let that question
-          arise because our servers are equipped with the high security features and dedicated team of technical experts
-          that constantly monitors your resources to remove all the vulnerabilities which can cause your website
-          downtime.</p>
+        <h5 class="heading-servers m-0">Guaranteed Uptime</h5>
+        <p class="server-title py-2 m-0">What if your website goes down? No worries! We proactively prevent such
+          situations with our highly secure servers and dedicated team of technical experts. They continuously monitor
+          your resources, eliminating vulnerabilities to ensure uninterrupted website performance.</p>
       </div>
     </div>
   </div>
@@ -1379,9 +1383,9 @@ include ('inc/header.php');
 <section class="app-installer">
   <div class="container">
     <div class="text-center">
-      <h2 class="Banner-Heading shared-heading-plan">One-Click App Installer</h2>
-      <p class="server-title server-title-width effort">Effortlessly install WordPress, OpenCart, and more with
-        Softaculous – the GUI-based installer. Enjoy seamless application installations without any errors or issues.
+      <h2 class="Banner-Heading shared-heading-plan">Optimized for CMS Applications</h2>
+      <p class="server-title server-title-width effort">Our hosting platform is optimized to seamlessly support a wide
+        range of PHP-MySQL-based CMS and CRM apps. Additionally, we provide free installation for the most popular ones.
       </p>
       <div class="row">
         <div class="col">
@@ -1392,7 +1396,7 @@ include ('inc/header.php');
 
     <div class="text-center mt-5 deploye">
       <a class="link-color-black" href="#explore"><button class="btn-yellow get-tarted-table get-tarted-table-one"
-          type="submit">Deploy Your Application</button></a>
+          type="submit">Order Now</button></a>
     </div>
 
 
@@ -1402,7 +1406,7 @@ include ('inc/header.php');
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 <!--(FAQ)-->
@@ -1493,40 +1497,42 @@ include ('inc/customer-reviews.php');
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">24/7 Friendly Customer Support</h2>
+          <p class="server-titles py-4">What if you encounter a problem? Fear not! We have you covered with our
+            dedicated team of professionals who work tirelessly to swiftly resolve any issues you may face, 24/7.</p>
         </div>
-    </section><br>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section><br>
 </div>
 
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>
