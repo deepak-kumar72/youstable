@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #5138cc;
+      }
+
+      .cls-2 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 5.78px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Character">
+    <rect class="cls-4" x=".39" y=".27" width="70" height="70" rx="12.56" ry="12.56"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M35.4,53.53h-.81c-.13,0-.27-.03-.39-.08-.12-.05-12.04-5.19-10.76-19.94.03-.37.26-.69.6-.84l10.54-4.66c.26-.12.56-.12.82,0l10.54,4.66c.34.15.57.47.6.84,1.29,14.76-10.63,19.89-10.76,19.94-.12.05-.26.08-.39.08ZM34.81,51.5h.38c1.41-.65,10.14-5.2,9.39-17.22l-9.57-4.23-9.57,4.23c-.76,12.02,7.98,16.57,9.39,17.22Z"/>
+    <circle class="cls-1" cx="40.85" cy="46.6" r="4.3" transform="translate(-9.52 10.5) rotate(-13.14)"/>
+    <polygon class="cls-4" points="39.71 50.02 37.62 46.41 38.55 45.87 39.84 48.1 43.19 43.81 44.04 44.47 39.71 50.02"/>
+    <text class="cls-2" transform="translate(27.3 40.47)"><tspan x="0" y="0">www</tspan></text>
+    <path class="cls-3" d="M13.05,59.06h43.89c1.84,0,3.33-1.31,3.33-2.92V17.25c0-1.62-1.49-2.92-3.33-2.92H13.05c-1.84,0-3.33,1.31-3.33,2.92v38.89c0,1.62,1.49,2.92,3.33,2.92ZM9.73,23.09h50.55"/>
+    <circle class="cls-1" cx="14.38" cy="19.64" r="1.33"/>
+    <circle class="cls-1" cx="19.04" cy="19.64" r="1.33"/>
+    <circle class="cls-1" cx="23.7" cy="19.64" r="1.33"/>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Screen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #eae5ff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #dedede;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7 {
+        fill: #5138cc;
+      }
+
+      .cls-4 {
+        stroke-width: .25px;
+      }
+
+      .cls-8 {
+        fill: #e7e3fd;
+      }
+
+      .cls-9 {
+        fill: #fff;
+        opacity: .31;
+      }
+
+      .cls-9, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-10 {
+        fill: #eae5ff;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-family: Raleway-Bold, Raleway;
+        font-size: 1.8px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Character">
+    <rect class="cls-6" x="1.32" y="1.32" width="67.36" height="67.36" rx="12.09" ry="12.09"/>
+  </g>
+  <g>
+    <ellipse class="cls-9" cx="18.44" cy="55.47" rx="7.68" ry=".76"/>
+    <g>
+      <g>
+        <g>
+          <path class="cls-8" d="m23.13,21.53l-1.82-.24c-.34-.04-.64.19-.69.53l-.24,1.82c-.04.34.19.64.53.69l1.82.24c.34.04.64-.19.69-.53l.24-1.82c.04-.34-.19-.64-.53-.69Zm-3.65-.47l-4.86-.63c-.34-.04-.64.19-.69.53l-.24,1.82c-.04.34.19.64.53.69l4.86.63c.34.04.64-.19.69-.53l.24-1.82c.04-.34-.19-.64-.53-.69Z"/>
+          <path class="cls-3" d="m23.5,23.44l-9.73-1.26-3.93,30.4c-.04.34.19.64.53.69l2.51.32c.26.03.54-.08.66-.32.23-.47.74-.74,1.25-.67s.93.46,1.04.97c.05.26.29.44.55.47l2.28.3c.56.07.87-.16.91-.5l3.93-30.4Z"/>
+          <path class="cls-5" d="m20.51,27.38l-4.86-.63c-.34-.04-.64.19-.69.53l-.63,4.86c-.04.34.19.64.53.69l4.86.63c.34.04.64-.19.69-.53l.63-4.86c.04-.34-.19-.64-.53-.69Zm-7.62,20.65c-.34-.04-.57-.35-.53-.69l1.49-11.55c.04-.34.35-.57.69-.53s.57.35.53.69l-1.49,11.55c-.04.34-.35.57-.69.53Zm6.52-12.14l-2.43-.31c-.34-.04-.64.19-.69.53l-1.49,11.55c-.04.34.19.64.53.69l2.43.31c.34.04.64-.19.69-.53l1.49-11.55c.04-.34-.19-.64-.53-.69Zm-3.57-1.08l-1.22-.16c-.34-.04-.57-.35-.53-.69s.35-.57.69-.53l1.22.16c.34.04.57.35.53.69s-.35.57-.69.53Z"/>
+          <path class="cls-8" d="m10.31,48.93l-.47,3.65c-.04.34.19.64.53.69l2.54.33c.26.03.51-.1.62-.33.24-.46.74-.73,1.24-.66s.92.45,1.03.96c.05.25.26.45.52.48l2.54.33c.34.04.64-.19.69-.53l.47-3.65-9.73-1.26Z"/>
+          <circle class="cls-5" cx="17.75" cy="34.44" r=".61"/>
+          <circle class="cls-5" cx="19.57" cy="34.67" r=".61"/>
+        </g>
+        <text class="cls-7" transform="translate(17.52 46.8) rotate(-82.85)"><tspan x="0" y="0">NV</tspan><tspan class="cls-11" x="2.6" y="0">M</tspan><tspan class="cls-1" x="4.14" y="0">e SSD</tspan></text>
+      </g>
+      <circle class="cls-5" cx="16.47" cy="25.21" r=".61"/>
+      <circle class="cls-5" cx="18.29" cy="25.45" r=".61"/>
+      <circle class="cls-5" cx="20.12" cy="25.69" r=".61"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path class="cls-2" d="m59.17,29.8H26.04c-.55,0-1-.45-1-1v-11.18c0-.55.45-1,1-1h33.13c.55,0,1,.45,1,1v11.18c0,.55-.45,1-1,1Z"/>
+          <rect class="cls-10" x="30.23" y="19.62" width="8.78" height="1"/>
+          <circle class="cls-10" cx="50.59" cy="20.22" r=".6"/>
+          <circle class="cls-10" cx="52.58" cy="20.22" r=".6"/>
+          <circle class="cls-10" cx="54.58" cy="20.22" r=".6"/>
+          <path class="cls-2" d="m59.17,45.2H26.04c-.55,0-1-.45-1-1v-11.18c0-.55.45-1,1-1h33.13c.55,0,1,.45,1,1v11.18c0,.55-.45,1-1,1Z"/>
+          <rect class="cls-10" x="30.23" y="35.02" width="8.78" height="1"/>
+          <circle class="cls-10" cx="50.59" cy="35.62" r=".6"/>
+          <circle class="cls-10" cx="52.58" cy="35.62" r=".6"/>
+          <circle class="cls-10" cx="54.58" cy="35.62" r=".6"/>
+          <rect class="cls-10" x="41.75" y="47" width="2.57" height="8.76"/>
+        </g>
+        <rect class="cls-10" x="42.43" y="48.03" width="1.76" height="14.55" transform="translate(-11.99 98.61) rotate(-90)"/>
+      </g>
+      <circle class="cls-4" cx="43.31" cy="55.3" r="2.07"/>
+    </g>
+  </g>
+</svg>

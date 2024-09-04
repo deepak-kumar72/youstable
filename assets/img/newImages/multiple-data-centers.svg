@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 85 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eae5ff;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="42.5" cy="42.5" r="41.53"/>
+  <image width="512" height="512" transform="translate(16.42 16.42) scale(.1)" xlink:href="data centers.png"/>
+</svg>

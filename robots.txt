@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://www.youstable.com/sitemap.xml
+Disallow: /manage/
+Disallow: /cgi/library/popup-script/pop_script.html
+Disallow: /cgi/library/form-validator/validator.htm
+Disallow: /lp/
+Disallow: /coupons/
+
+
+

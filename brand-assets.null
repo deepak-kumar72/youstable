@@ -1,0 +1,225 @@
+<?php 
+ $page='Home';
+ include ('inc/header.php');
+ ?>
+<head>
+      <!--build:css-->
+      <link rel="stylesheet" href="https://www.youstable.com/assets/style-new.css">
+      <!-- endbuild -->
+   </head>
+   <style>@media (min-width: 1400px){.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1320px;}
+
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+   #brandAsstesHeaderFixDiv {
+      height: 110px;
+   }
+
+
+.customer-support-container{
+  margin-bottom: 80px;
+}
+</style>
+
+ 
+     <!-- Banner section -->
+<section class="banner-sec share-bg-four" style="margin-bottom: 30px;">
+    <div class=" container">
+        <div class="row reverse">
+            <div class="col-md-6">
+                <div class="banner-left-content ">
+                    <h1 class="Banner-Heading padding-heading" style="color: rgb(33, 37, 41);">Brand Assets</h1>
+                    <p class="Banner-title">Thank you for showing your interest in YouStable! For your convenience, we have a set of brand assets and other resources for using the YouStable brand and downloadable assets.</p>
+                    <div class="d-flex gap-3 lists-hosting">
+                        <ul class="banner-list list-unstyled">
+                            <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
+                                        src="assets/img/bi_device-ssd.svg" alt="ssd"></span> point 1
+                            </li>
+                            <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
+                                        src="assets/img/freemigration.svg" alt="manage"></span> pont 2</li>
+                        </ul>
+                        <ul class="banner-list list-unstyled">
+                            <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
+                                        src="assets/img/file.svg" alt="migration"></span> point 3</li>
+                            <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
+                                        src="assets/img/24hours.svg" alt="support"></span> point 4
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <img class="banner_img floatings" src="assets/img/24372253_6876638-1-(1).png" alt="Banner">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    <div class="main">
+      <!--page header section start-->
+     
+      <!--page header section end-->
+      <section class="homepage-2 blog-2-area ptb-100 gray-bg">
+         <div class="container">
+            <div class="row">
+               <div class="row justify-content-center m-auto">
+                  <div class="col-md-10 col-lg-10">
+                     <div class="section-heading text-center mb-4">
+                        <h2>Our Logos</h2>
+                        <p>Our logos represent the integrity of a brand. Presenting all the brand logos that Youstable has used and been using!</p>
+                        <div class="text-separator text-separator-purple"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row mt-2">
+               <div class="col-lg-4 col-md-6 col-12 ">
+                  <div class="single-blog-1" style="background:#5424d2; border-radius:0px!important; height:40vh;">
+                     <img class="img-fluid" src="https://www.youstable.com/assets/assets/youstable-logo-w.svg" alt="section-icon">
+                     <h2 class="text-white">Horizontal White</h2>
+                     <div class="link-page mt-3 text-white"><a href="https://www.youstable.com/assets/assets/img/youstable-logo-white.png" class="text-white" download>PNG</a> OR <a href="https://www.youstable.com/assets/assets/img/youstable-logo-white.svg" class="text-white" download>SVG</a></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12 ">
+                  <div class="single-blog-1" style="background:#002838;border-radius:0px!important; height:40vh;">
+                     <img class="img-fluid" src="https://www.youstable.com/assets/assets/img/logos/youstable-yelllow-logo.svg" alt="section-icon">
+                     <h2 class="text-white">Horizontal Yellow</h2>
+                     <div class="link-page mt-3 text-white"><a href="https://www.youstable.com/assets/assets/img/logos/youstable-yelllow-logo.png" class="text-white" download>PNG</a> OR <a href="https://www.youstable.com/assets/assets/img/logos/youstable-yelllow-logo.svg" class="text-white" download>SVG</a></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6 col-12 ">
+                  <div class="single-blog-1" style="background:#002838;border-radius:0px!important; height:40vh;">
+                     <img class="img-fluid" src="https://www.youstable.com/assets/assets/img/youstable-avatar-logo.svg" alt="section-icon" style="width:200px; margin-top:-25px;">
+                     <h2 class="text-white">Horizontal Yellow</h2>
+                     <div class="link-page mt-3 text-white"><a href="https://www.youstable.com/assets/assets/img/youstable-avatar-logo.svg" class="text-white" download>PNG</a> OR <a href="https://www.youstable.com/assets/assets/img/youstable-avatar-logo.svg" class="text-white" download>SVG</a></div>
+                  </div>
+               </div>
+            </div>
+      </section>
+      <section class="homepage-2 blog-2-area ptb-100">
+      <div class="container">
+      <div class="row">
+      <div class="row justify-content-center m-auto">
+      <div class="col-md-10 col-lg-10">
+      <div class="section-heading text-center mb-4">
+      <h2>Color Palette</h2>
+      
+      <div class="text-separator text-separator-purple"></div>
+      <p class="lead">YouStable colors are vibrant and represent the energy and vitality of the company culture and brand personality.</p>
+      </div>
+      </div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-6 col-12 " style="padding:0;">
+      <div class="colors" style="background:#5424d2;">
+      <h2 class="text-white">#5424d2</h2>
+      </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 " style="padding:0;">
+      <div class="colors" style="background:#2c1b9a;">
+      <h2 class="text-white">#2c1b9a</h2>
+      </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 " style="padding:0;">
+      <div class="colors" style="background:#ffbc00;">
+      <h2 class="text-white">#ffbc00</h2>
+      </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 mt-4 " style="padding:0;">
+      <div class="colors" style="background:#28a745;">
+      <h2 class="text-white">#28a745</h2>
+      </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 mt-4 " style="padding:0;">
+      <div class="colors" style="background:#2b1f51;">
+      <h2 class="text-white">#2b1f51</h2>
+      </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 mt-4 " style="padding:0;">
+      <div class="colors" style="background:#39266e;">
+      <h2 class="text-white">#39266e</h2>
+      </div>
+      </div>
+      </div>
+      </div>
+      </section>
+      
+      
+      <section class="homepage-2 blog-2-area ptb-100 gray-bg">
+         <div class="container">
+            <div class="row">
+               <div class="row justify-content-center m-auto">
+                  <div class="col-md-10 col-lg-10">
+                     <div class="section-heading text-center mb-4">
+                        <h2>Typography</h2>
+                        <div class="text-separator text-separator-purple"></div>
+                        <p>The typography used by YouStable is simple, clean and versatile. A number of weights are offered to create variety in different situations.</p>
+                        
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-6 col-md-6 col-12 ">
+                  <div class="single-blog-1">
+                     <h5>Primary Font</h5>
+                    <strong style="font-size:78px;color:#2b1f51;">Aa</strong>
+                     <h4>Open Sans SemiBold</h4>
+                     <div>ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+abcdefghijklmnopqrstuvwxyz<br>
+0123456789@#$%&?!</div>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-12 ">
+                  <div class="single-blog-1">
+                     <h5 >Secondary Font</h5>
+                    <h4 style="font-size:78px;color:#2b1f51; font-weight:400;font-family:'Mulish', sans-serif ">Aa</h4>
+                     <h4 style="font-family:'Mulish', sans-serif ">Mulish Regular</h4>
+                     <div style="font-family:'Mulish', sans-serif ">ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+abcdefghijklmnopqrstuvwxyz<br>
+0123456789@#$%&?!</div>
+               </div>
+            </div>
+      </section>
+      </div>
+      <style>
+         .homepage-2.blog-2-area .colors{
+         webkit-transition: all .3s ease-in-out;
+         transition: all .3s ease-in-out;
+         margin: 0px 0px 20px 0px;
+         padding: 20px 20px 20px 20px;
+         background-color: #ffffff;
+         text-align: center;
+         }
+         .homepage-2.blog-2-area .colors h2{
+         color: #3a4368;
+         font-size: 20px;
+         margin: 0px 0px 0px 0px;
+         -webkit-transition: all .3s ease-in-out;
+         transition: all .3s ease-in-out;
+         }
+      </style>
+      <!--scroll bottom to top button start-->
+      <style>.main-div{
+         background:#fff;
+         padding:30px;
+         box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+         margin-bottom:30px;
+         }
+      </style>
+
+ 
+  <?php include ('inc/footer.php')?>

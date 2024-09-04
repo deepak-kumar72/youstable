@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #5138cc;
+      }
+
+      .cls-3 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 12.14px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="56" height="56" rx="6.8" ry="6.8"/>
+  <path class="cls-1" d="M50.14,13.37L28,3.58,5.86,13.37c-2.6,29.81,21.29,39.74,21.29,39.74h1.69s23.89-9.94,21.29-39.74Z"/>
+  <path class="cls-2" d="M28.85,55.24h-1.69c-.28,0-.56-.06-.82-.16-.25-.11-25.3-10.89-22.6-41.9.07-.77.55-1.45,1.26-1.76L27.14,1.64c.55-.24,1.17-.24,1.72,0l22.14,9.79c.71.31,1.19.99,1.26,1.76,2.71,31-22.34,41.79-22.6,41.9-.26.11-.54.16-.82.16ZM27.6,50.99h.79c2.96-1.37,21.31-10.93,19.72-36.18L28,5.91,7.89,14.8c-1.59,25.25,16.76,34.81,19.72,36.18Z"/>
+  <circle class="cls-2" cx="40.29" cy="40.68" r="9.04" transform="translate(-8.19 10.22) rotate(-13.14)"/>
+  <polygon class="cls-1" points="37.89 47.86 33.5 40.28 35.45 39.15 38.17 43.83 45.21 34.82 46.99 36.21 37.89 47.86"/>
+  <text class="cls-3" transform="translate(11.82 27.81)"><tspan x="0" y="0">DDoS</tspan></text>
+</svg>
