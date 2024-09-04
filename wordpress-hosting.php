@@ -1,6 +1,6 @@
 <?php
 $page = 'wordpress-hosting';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <head>
@@ -92,7 +92,7 @@ include ('inc/header.php');
     padding-bottom: 0;
   }
 
-  
+
 
   section.customer-support {
     margin-bottom: 30px;
@@ -129,25 +129,25 @@ include ('inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content wordpresss-hosting-one">
 
-          <h1 class="Banner-Heading padding-heading robust">WordPress Optimised Hosting</h1>
-          <p class="Banner-title p-0">YouStable WordPress Hosting includes LiteSpeed webserver with Immunify360 to make
-            your website much faster and safer.</p>
+          <h1 class="Banner-Heading padding-heading robust">Robust & Secure Managed WordPress Hosting in India</h1>
+          <p class="Banner-title p-0">Take your Website to next level with Best & Affordable WordPress Hosting in India.
+            Optimized WordPress LSCache enabled, Imunify360 Security and Faster Website Performance</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Inbuilt-LS-Cache.svg" alt="tick"
-                  class="tick-square">Inbuilt LS Cache</li>
+                  class="tick-square">Inbuilt LSCache Enabled</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Free-offsite-Backup.svg" alt="tick"
-                  class="tick-square">Free off-site Backup</li>
+                  class="tick-square">Hindi/English Support</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Support-Auto-Updates.svg" alt="tick"
-                  class="tick-square">Support Auto Updates</li>
+                  class="tick-square">NVMe SSD Drives</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Free-Migration.svg" alt="tick"
-                  class="tick-square">Free Migration</li>
+                  class="tick-square">99.99% Uptime</li>
             </ul>
           </div>
         </div>
-        <a href="#explore" class="link-color-black"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore" class="link-color-black"><button class="btn-yellow btn-explore-plan">Start Now<i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
@@ -209,10 +209,11 @@ include ('inc/header.php');
 <!--Explore Section-->
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
   <div class="text-center shared-hosting-plan-heading">
-    <h2 class="server-heading shared-heading-plan">Grab a Feature Rich WordPress Hosting <br class="remove-mobile"> at
-      the Best Price!</h2>
-    <p class="server-title choose">Create your WordPress website as per your choices and needs. Pay for only what you
-      want and get extra <br class="remove-mobile"> benefits with YouStable’s WordPress Hosting services.</p>
+    <h2 class="server-heading shared-heading-plan">Best WordPress Hosting Plan for Your Site<br class="remove-mobile">
+    </h2>
+    <p class="server-title choose">Get lightning-fast and hassle-free managed WordPress web hosting in India at the best
+      prices with YouStable.Perfect for Beginners, <br class="remove-mobile">agencies, and online stores, design your
+      ideal website and pay for the features you need.</p>
   </div>
   <div class="container">
     <div class="row flex_unset">
@@ -1137,7 +1138,7 @@ include ('inc/header.php');
     <!-- <p class="reveal-type" data-bg-color="#cccccc" data-font-family="poppins" data-fg-color="#6B46F2">Experience's top-rated SMB Hosting provider with a <em class="fw-bold" style="color:#6B46F2;">4.7-star rating</em> powering websites from over 200 countries.</p>-->
 
     <!--</section>-->
-    <?php include ('animate-text.php') ?>
+    <?php include('animate-text.php') ?>
 
     <!--<div class="text-start">-->
     <!--     <img src="assets/img/floating-imgs2.png" class="floating">-->
@@ -1201,9 +1202,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Accelerated Services with Fully Loaded Features!</span></h2>
-        <p class="server-title title_sides_width pb-3">YouStable’s remarkably designed WordPress features make it worth
-          using. See for yourself!</p>
+        <h2 class="ay_heading">Powerful Managed Features WordPress Hosting Features</span></h2>
+        <p class="server-title title_sides_width pb-3">YouStable's WordPress features are exceptionally designed, making
+          them highly valuable. Experience it firsthand!</p>
         <p class="purple-text_dark see-yourself"></p>
       </div>
       <div class=" ">
@@ -1212,16 +1213,17 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Faster-Website-Speeds.svg" alt="ssd-storage">
               <h5 class="ay-heading">Faster Website Speeds</h5>
-              <p class="ay-title m-0 w-100">We use the latest series of AMD EPYC or Xeon E5 Processors with Boosted SSD
-                storage to make your website blazing fast on the internet.</p>
+              <p class="ay-title m-0 w-100">To ensure lightning-fast performance for your website on the internet, we
+                leverage cutting-edge AMD EPYC or Xeon E5 Processors coupled with enhanced NVMe SSD Drives.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Server-Side-Caching.svg" alt="ssl-certificate">
               <h5 class="ay-heading">Server-Side Caching</h5>
-              <p class="ay-title m-0 w-100">Server-side caching enables your website to load much faster by creating a
-                cache of your website on the users browser so that they don’t have load the entire website every time.
+              <p class="ay-title m-0 w-100">Server-side caching improves website loading speed by creating a cache of
+                the website on the user's browser. This allows users to avoid loading the entire website every time and
+                results in faster loading times.
               </p>
             </div>
           </div>
@@ -1229,9 +1231,9 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Unbeatable-Security.svg" alt="speed-web-server">
               <h5 class="ay-heading">Unbeatable Security</h5>
-              <p class="ay-title m-0 w-100">As you may know, WordPress is the most used CMS platform, hence more risk of
-                attack by hackers. YouStable provides Imunify360, CSF, BitNinja and other security tools to provide the
-                best security to its users.</p>
+              <p class="ay-title m-0 w-100">YouStable provides robust security measures, including Imunify360, CSF,
+                BitNinja, and other tools, to protect users from hacker attacks on WordPress, the widely used CMS,
+                ensuring maximum security.</p>
             </div>
           </div>
         </div>
@@ -1239,27 +1241,28 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/WordPress-Staging.svg" alt="Free Migration">
-              <h5 class="ay-heading">WordPress Staging Environment</h5>
-              <p class="ay-title m-0 w-100">This feature enables you to test website modifications before making them
-                accessible to users. So, there are no downtimes or any other problems your website will have to face
-                while you draw out some customizations on it!</p>
+              <h5 class="ay-heading">Staging Environment</h5>
+              <p class="ay-title m-0 w-100">This feature allows you to perform website modifications and test them
+                before making them available to users. As a result, your website will not experience any downtime or
+                other issues while you make customizations.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Free-Auto-Backup.svg" alt="auto-backup">
               <h5 class="ay-heading">Free Auto-Backup</h5>
-              <p class="ay-title m-0 w-100">Your data will be safe with YouStable on another server as well so that if
-                you lose one, there’s an off-site server that has kept your data safe and valued.</p>
+              <p class="ay-title m-0 w-100">Rest assured, Your data will remain secure with YouStable on a separate
+                server. In the event of any loss or mishap, a remote server will ensure the safety and integrity of your
+                valuable data.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Free-domain-Registration.svg" alt="support24">
               <h5 class="ay-heading">Free domain Registration</h5>
-              <p class="ay-title m-0 w-100">YouStable is offering free domain registration with its hostings' annual and
-                tri-annual plans. There are no hidden charges while registering your new domain with YouStable’s
-                hosting.</p>
+              <p class="ay-title m-0 w-100">YouStable provides free domain registration when you choose their annual or
+                tri-annual hosting plans. There are no undisclosed fees involved when you register a new domain through
+                YouStable's hosting services.</p>
             </div>
           </div>
         </div>
@@ -1268,18 +1271,20 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/NVMe-SSD.svg" alt="support24">
-              <h5 class="ay-heading">NVMe SSD Powered Servers</h5>
-              <p class="ay-title m-0 w-100">YouStable understands that speed matters for better SERP results. For that,
-                it offers you turbo-fast NVMe SSD Drives, which are 6x times faster than the traditional HDDs drives.
+              <h5 class="ay-heading">NVMe SSD Drives</h5>
+              <p class="ay-title m-0 w-100">YouStable acknowledges the importance of speed in achieving optimal search
+                engine results pages (SERP). To enhance performance, we provide turbo-fast NVMe SSD Drives, which are
+                six times faster than conventional HDD drives.
               </p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/icons/Auto-Update.svg" alt="support24">
-              <h5 class="ay-heading">Auto Update(Theme & Plugin)</h5>
-              <p class="ay-title m-0 w-100">We use smart features that ensure automatic updates of your themes and
-                plugins. So just sit and relax! You are at the right place for your WordPress website to host.</p>
+              <h5 class="ay-heading">24/7 Friendly Premium Support</h5>
+              <p class="ay-title m-0 w-100">YouStable understands the significance of prioritizing customers and their
+                requirements. To uphold integrity and provide customers with top-notch services, our team of experts is
+                consistently available to promptly assist and resolve any inquiries you may have!</p>
             </div>
           </div>
         </div>
@@ -1295,9 +1300,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center mb-4">
-        <h2 class="ay_heading">Why Choose WordPress For Your Websites?</span></h2>
-        <p class="server-title title_sides_width pb-3">Make the best out of WordPress with thousands of options to
-          choose from!</p>
+        <h2 class="ay_heading">Why ChooseYouStable WordPress Hosting?</span></h2>
+        <p class="server-title title_sides_width pb-3">Leverage the full potential of WordPress with an extensive array
+          of options to cater to your needs!</p>
         <!--<p class="purple-text_dark see-yourself"></p>-->
       </div>
       <div class=" ">
@@ -1305,25 +1310,26 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/intsall-on-click.png" alt="ssd-storage">
-              <h5 class="ay-heading">One click Instant Install</h5>
-              <p class="ay-title m-0 w-100">Making WordPress beginner-friendly and even more easy to use with only
-                one-click softaculous to install the apps you want!</p>
+              <h5 class="ay-heading">1-click Instant Install</h5>
+              <p class="ay-title m-0 w-100">Enhancing WordPress for beginners and making it even easier to use with a
+                convenient one-click Softaculous app installation feature, tailored to the preferences of users in
+                India.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/theme-host.png" alt="ssl-certificate">
-              <h5 class="ay-heading">10k+ WP Themes</h5>
-              <p class="ay-title m-0 w-100">More than 5,000+ ready-to-use themes are available. There is a theme for
-                every idea of yours! Pick what suits best.</p>
+              <h5 class="ay-heading">1Premium Themes & Plugins</h5>
+              <p class="ay-title m-0 w-100">There are over 5,000+ ready-to-use Premium WP themes and Plugins
+                available,Choose the one that suits you Best.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/plugins-w.png" alt="speed-web-server">
-              <h5 class="ay-heading">60K+ WP Plugins</h5>
-              <p class="ay-title m-0 w-100">Access to more than 60,000 plugins! Optimising your website for SEO and use
-                as many plugins as you want for a better approach.</p>
+              <h5 class="ay-heading">Hassle-Free WordPress Maintenance</h5>
+              <p class="ay-title m-0 w-100">With automated backups, updates, Easy to import WordPress and migrate to
+                YouStable with A Single Click, Get WordPress websites with full control.</p>
             </div>
           </div>
         </div>
@@ -1337,9 +1343,9 @@ include ('inc/header.php');
   <div class=" container">
     <div class="bg-purple purple wp-q-bg" style="background: #fff; padding-top: 0 !important;">
       <div class="text-center">
-        <h2 class="server-heading">Industry-leading Technologies For Your Website!!</h2>
-        <p class="server-title title_sides-width">YouStable relies on the most renowned and trusted technologies to
-          provide better and unbeatable services</p>
+        <h2 class="server-heading">Technologies YouStable Works With</h2>
+        <p class="server-title title_sides-width">We are committed to delivering top-notch hosting in India by
+          harnessing industry-leading technologies that will optimize your website's speed to the fullest.</p>
         <div class="width-slider">
           <div class="row autoplay autoplay_slider">
             <div class="col-lg-3 server-cols">
@@ -1381,27 +1387,28 @@ include ('inc/header.php');
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 <!--(FAQ)-->
 <section class="faq">
   <div class="container">
-    <h2 class="text-center faq-question">FAQs</h2>
+    <h2 class="text-center faq-question">Frequently Asked Questions</h2>
     <div class="accordion accordion-flush" id="accordionFlushExample">
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingOne">
           <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-            What is WordPress?
+            What is WordPress Hosting?
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">WordPress is one of the most used and user-friendly Content management systems
-            that allow you to create a website with easy tools and plugins.
-            You can create a whole new and great website with WordPress by yourself and get it hosted: live and running
-            in no time to get your business online and successful!</div>
+          <div class="accordion-body">WordPress is widely recognized as one of the most popular and user-friendly
+            content management systems (CMS). It offers a range of easy-to-use tools and plugins, enabling users to
+            effortlessly create websites. With WordPress, you have the ability to independently build a remarkable
+            website and quickly host it, ensuring your business can establish an online presence and achieve success in
+            no time!</div>
         </div>
       </div>
 
@@ -1409,15 +1416,23 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingTwo">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-            How Do I Migrate My Sites Over To YouStable?
+            What are the Benefits of WordPress Hosting In India?
           </button>
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">All you have to do is contact YouStable’s customer support, ask for website
-            migration and leave all your tensions to them.
-            Your website will be carefully migrated from your existing hosting services provider to YouStable without
-            any data loss.</div>
+          <div class="accordion-body">There are several benefits of Choosing WordPress hosting in India. Here are some
+            of them:
+            <ul>
+              <li style="list-style-type: disc;    margin-left: 50px;">Performance and Speed</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Localized Support</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Server Location</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Data Privacy and Compliance</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">SEO Benefits</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Payment Convenience</li>
+              <li style="list-style-type: disc;    margin-left: 50px;">Regional Content Delivery</li>
+            </ul>
+          </div>
         </div>
       </div>
 
@@ -1425,15 +1440,15 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingThree">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-            How Do I Get Started With YouStable’s Best Wordpress Hosting Plan?
+            How can I transfer my websites to YouStable?
           </button>
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">YouStable is one of the best WordPress Hosting providers in the market. So, to get
-            your website hosted with them,
-            you need to buy one of the three WordPress Hosting plans according to your needs and enjoy uninterrupted
-            services offered by YouStable.</div>
+          <div class="accordion-body">To ensure a smooth website migration with zero data loss, simply reach out to
+            YouStable's customer support. Request their assistance for website migration and entrust them with all your
+            concerns. They will handle the careful transfer of your website from your current hosting service provider
+            to YouStable.</div>
         </div>
       </div>
 
@@ -1441,73 +1456,160 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            What is Managed WordPress Hosting?
+            How Do I Get Started With YouStable’s Best Wordpress Hosting Plan?
           </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Managed WordPress Hosting is when all the workings of your hosting are the
-            responsibility of your hosting provider.
-            With all the facilities provided with the plans of WordPress Hosting, YouStable offers fully managed
-            WordPress Hosting to its users. Just focus
-            on your website and leave all the technicalities on them!</div>
+          <div class="accordion-body">YouStable is recognized as one of the top Best and Cheap WordPress Hosting
+            provider in India. To have your website hosted by YouStable, you can select from three different WordPress
+            Hosting plans that best suit your requirements. By opting for their services, you can enjoy uninterrupted
+            service provision from YouStable.</div>
         </div>
       </div>
 
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFour">
+            data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
             What happens if I want to cancel my plan?
           </button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">If your reason for cancellation abides by the terms and conditions of YouStable’s
-            30-days money-back guarantee,
-            you will get a refund as soon as you cancel your plan within the stipulated time. Cancellation Policy</div>
+          <div class="accordion-body">If your cancellation reason complies with YouStable's 30-days money-back guarantee
+            terms and conditions, you will receive a refund immediately upon canceling your plan within the specified
+            timeframe. The cancellation policy applies.</div>
         </div>
       </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingSix">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+            How much does it cost to host an eCommerce website?
+          </button>
+        </h2>
+        <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            Your needs and requirements determine the type of plan and hosting you need to meet your specific
+            requirements. YouStable offers three plans, with DAProfessional being the top-rated option based on customer
+            reviews. It offers a range of fulfilling features at a cost of just ₹49 per month.
+          </div>
+        </div>
+      </div>
+
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingSeven">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+            What Makes YouStable the Best and affordable WordPress Hosting Provider in India?
+          </button>
+        </h2>
+        <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            YouStable's WordPress Hosting is the ultimate choice for both beginners and professionals, thanks to its
+            LiteSpeed and NVMe SSD-powered servers, automatic updates for plugins and themes, advanced security
+            features, free domain, and numerous other benefits.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingEight">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+            What Is The Difference Between WordPress Hosting And Shared Hosting?
+          </button>
+        </h2>
+        <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            WordPress hosting is optimized for efficient operation, making it easy to customize while hosting a
+            WordPress website. On the other hand, Shared Hosting requires assistance and proper setup to get started,
+            which is not as simple and efficient as WordPress Hosting.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingNine">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
+            Did I get Free .in Domain with Indian Wordpress Hosting?
+          </button>
+        </h2>
+        <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            Yes, With YouStable's Cheap WordPress Hosting in India, you'll receive a Free .in Domain for the first year
+            when you purchase the Annual or tri-annual WordPress Hosting Plan. Grab this fantastic offer today and
+            kickstart your online journey with us!
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingTen">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
+            Do your WordPress hosting plans have a Money Back Guarantee?
+          </button>
+        </h2>
+        <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="flush-headingTen"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+            Yes, YouStable provides a 30-days money-back guarantee for first-time sign-ups on all of its hosting
+            services.
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">24/7 Friendly Customer Support</h2>
+          <p class="server-titles py-4">What if you encounter a problem? Fear not! We have you covered with our
+            dedicated team of professionals who work tirelessly to swiftly resolve any issues you may face, 24/7.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>
