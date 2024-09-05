@@ -16,7 +16,7 @@
             Power Your Business Website With YouStable India’s Affordable Web hosting Services And Meet Your Online
             Success!</P>
           <div class="mb-3">
-            <P class="text-white footer-title m-0 p-0">CIN U72900UP2020PTC131271</P>
+            <P class="text-white footer-title m-0 p-0">Company Registration No. U72900UP2020PTC131271</P>
             <P class="text-white footer-title m-0 p-0">GSTIN 09AAACQ6759R1ZF</P>
 
           </div>
@@ -73,9 +73,11 @@
                   <li><a href="python-hosting.php" target="_self">Python Hosting</a></li>
                   <li><a href="vps-hosting.php" target="_self"> VPS Hosting Server</a></li>
                   <li><a href="dedicated-servers.php" target="_self"> Dedicated Server</a></li>
+                  <li><a href="cpanel-dedicate.php" target="_self">cPanel Dedicated</a></li>
                   <li><a href="free-domain.php" target="_self"> Free Domain</a></li>
                   <li><a href="domain-registration.php" target="_self"> Register Domain Name</a></li>
-
+                  <li><a href="bare-metal-server.php" target="_self"> Bare Metal Server</a></li>
+                  <li><a href="mumbai-dedicated-server.php" target="_self"> Mumbai Dedicated Server</a></li>
 
                 </ul>
               </div>
