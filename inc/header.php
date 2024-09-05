@@ -165,21 +165,21 @@ if (!isset($meta_data[$page])) {
                       <img src="assets/img/VPS-server.png" alt="hosting-icon"></span>
                       <span
                         class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav"> VPS Server </p>
+                        <p class="dropdown-menu-main-nav"> VPS Hosting </p>
                         <p class="dropdown-menu-main-description">Get Reliable Web Resources</p>
                       </span></a></li>
-                  <li><a class="dropdown-item first-shared" href="cyberpanel-vps.php"><span class="icon-drop"><img
+                  <!-- <li><a class="dropdown-item first-shared" href="cyberpanel-vps.php"><span class="icon-drop"><img
                           src="assets/img/cyberpanel.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav"> CyberPanel VPS </p>
                         <p class="dropdown-menu-main-description">Free Addon’s worth $94 (WP Optimized)</p>
-                      </span> </a></li>
-                  <li><a class="dropdown-item first-shared" href="directadmin-vps.php"><span class="icon-drop"><img
+                      </span> </a></li> -->
+                  <!-- <li><a class="dropdown-item first-shared" href="directadmin-vps.php"><span class="icon-drop"><img
                           src="assets/img/direct.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav"> DirectAdmin VPS </p>
                         <p class="dropdown-menu-main-description">Fast and Reliable Panel</p>
-                      </span> </a></li>
+                      </span> </a></li> -->
                   <li><a class="dropdown-item first-shared-one" href="cpanel-vps.php" style="border-bottom:0px;"><span
                         class="icon-drop"><img src="assets/img/cpanel.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
@@ -192,7 +192,7 @@ if (!isset($meta_data[$page])) {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link header-links" href="dedicated-servers.php">Dedicated Servers</a>
+                <a class="nav-link header-links" href="dedicated-servers.php">Dedicated</a>
               </li>
 
               <li class="nav-item dropdown hover-effect">

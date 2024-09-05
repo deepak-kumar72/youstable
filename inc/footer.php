@@ -71,10 +71,10 @@
                   <li><a href="wordpress-hosting.php" target="_self">WordPress Hosting</a></li>
                   <li><a href="cpanel-hosting.php" target="_self"> cPanel Hosting</a></li>
                   <li><a href="python-hosting.php" target="_self">Python Hosting</a></li>
-                  <li><a href="vps-hosting.php" target="_self"> VPS Hosting Server</a></li>
+                  <li><a href="domain-registration.php" target="_self"> cPanel Dedicated</a></li>
                   <li><a href="dedicated-servers.php" target="_self"> Dedicated Server</a></li>
-                  <li><a href="free-domain.php" target="_self"> Free Domain</a></li>
-                  <li><a href="domain-registration.php" target="_self"> Register Domain Name</a></li>
+                  <li><a href="free-domain.php" target="_self">Bare Metal Server </a></li>
+                  <li><a href="domain-registration.php" target="_self"> Mumbai Dedicated Server</a></li>
 
 
                 </ul>
@@ -85,67 +85,16 @@
                   <li><a href="cyberpanel-vps.php" target="_self">CyberPanel VPS</a></li>
                   <li><a href="directadmin-vps.php" target="_self">DirectAdmin VPS</a></li>
                   <li><a href="cpanel-vps.php" target="_self">cPanel VPS</a></li>
-                  <li><a href="linux-vps-hosting.php" target="_self">Linux VPS Hosting</a></li>
+                  
+                  <li><a href="vps-hosting.php" target="_self"> VPS Hosting</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3 footer-cols">
               <div class="footer-options">
-                <h5>Server Solutions</h5>
+                <h5>Domain Services</h5>
                 <ul>
-                  <li><a href="cheap-web-hosting.php" target="_self">Cheap Web Hosting</a></li>
-                  <li><a href="cheap-wordpress-hosting.php" target="_self">Cheap WP Hosting</a></li>
-                  <li><a href="monthly-web-hosting.php" target="_self">Monthly Web Hosting</a></li>
-                  <li><a href="nodejs-hosting.php" target="_self">Nodejs Hosting</a></li>
-                  <li><a href="nvme-ssd-vps.php" target="_self">NVMe SSD VPS</a></li>
-                  <li><a href="ubuntu-vps-hosting.php" target="_self">Ubuntu VPS Hosting</a></li>
-                  <li><a href="windows-vps-hosting.php" target="_self">Windows VPS Hosting</a></li>
-                  <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>
-                  <li><a href="high-performance-vps.php" target="_self">High Performance VPS Hosting</a>
-
-                    <!-- <li><a href="#">Speed Test</a></li> -->
-                </ul>
-              </div>
-              <div class="footer-options">
-                <h5>Tutorials</h5>
-                <ul>
-                  <li><a href="">Wordpress Tutorial</a></li>
-                  <li><a href="https://www.youtube.com/c/YouStable" target="_self">YouStable Academy</a></li>
-                  <li><a href="https://www.youstable.com/manage/submitticket.php?step=2&deptid=2"
-                      target="_self">Customer Support</a></li>
-                  <li><a href="https://www.youstable.com/blog/knowledgebase/" target="_self">Knowledge Base</a></li>
-                  <!-- <li><a href="brand-assets.php">Brand Assets</a></li> -->
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-3 footer-cols">
-              <div class="footer-options">
-                <h5>My Account</h5>
-                <ul>
-                  <li><a href="https://www.youstable.com/manage/register.php" target="_self">Create Account</a></li>
-                  <li><a href="https://www.youstable.com/manage/index.php/login" target="_self">Client Login</a></li>
-                  <li><a href="https://www.youstable.com/manage/index.php/password/reset" target="_self">Forget
-                      Password</a></li>
-                </ul>
-              </div>
-              <div class="footer-options">
-                <h5>Policies</h5>
-                <ul>
-                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                  <li><a href="terms-condition.php">Terms of Service</a></li>
-                  <li><a href="fair-usage-policy.php"> Fair usage Policy</a></li>
-                  <li><a href="refund-policy.php">Refund Policy</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-3 footer-cols">
-              <div class="footer-options">
-                <h5>Company</h5>
-                <ul>
-                  <li><a href="about-us.php">About YouStable</a></li>
-                  <li><a href="our-team.php">Our Team</a></li>
-                  <li><a href="data-center.php">Data Center</a></li>
-
+                  <li><a href="cheap-web-hosting.php" target="_self">Domain Name Search</a></li>
                   <li class="nav-item dropdown footer-li-adjust">
                     <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown"
                       aria-expanded="false">Speed Test <span class="arrow-whites"><img
@@ -175,6 +124,61 @@
 
                     </ul>
                   </li>
+                  
+                  <!-- <li><a href="cheap-wordpress-hosting.php" target="_self">Cheap WP Hosting</a></li> -->
+                  <!-- <li><a href="monthly-web-hosting.php" target="_self">Monthly Web Hosting</a></li>
+                  <li><a href="nodejs-hosting.php" target="_self">Nodejs Hosting</a></li>
+                  <li><a href="nvme-ssd-vps.php" target="_self">NVMe SSD VPS</a></li>
+                  <li><a href="ubuntu-vps-hosting.php" target="_self">Ubuntu VPS Hosting</a></li>
+                  <li><a href="windows-vps-hosting.php" target="_self">Windows VPS Hosting</a></li>
+                  <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>
+                  <li><a href="high-performance-vps.php" target="_self">High Performance VPS Hosting</a> -->
+
+                    <!-- <li><a href="#">Speed Test</a></li> -->
+                </ul>
+              </div>
+              <div class="footer-options">
+                <h5>Tutorials</h5>
+                <ul>
+                  <li><a href="">Wordpress Tutorial</a></li>
+                  <li><a href="https://www.youtube.com/c/YouStable" target="_self">YouStable Academy</a></li>
+                  <li><a href="https://www.youstable.com/manage/submitticket.php?step=2&deptid=2"
+                      target="_self">Customer Support</a></li>
+                  <li><a href="https://www.youstable.com/blog/knowledgebase/" target="_self">Knowledge Base</a></li>
+                  <li><a href="https://www.youstable.com/blog/knowledgebase/" target="_self">Brand Assets</a></li>
+                  <!-- <li><a href="brand-assets.php">Brand Assets</a></li> -->
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-3 footer-cols">
+              <div class="footer-options">
+                <h5>My Account</h5>
+                <ul>
+                  <li><a href="https://www.youstable.com/manage/register.php" target="_self">Create Account</a></li>
+                  <li><a href="https://www.youstable.com/manage/index.php/login" target="_self">Client Login</a></li>
+                  <li><a href="https://www.youstable.com/manage/index.php/password/reset" target="_self">Forget
+                      Password</a></li>
+                </ul>
+              </div>
+              <div class="footer-options">
+                <h5>Policies</h5>
+                <ul>
+                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                  <li><a href="terms-condition.php">Terms of Service</a></li>
+                  <li><a href="fair-usage-policy.php"> Fair usage Policy</a></li>
+                  <li><a href="refund-policy.php">Refund Policy</a></li>
+                  <li><a href="data-center.php">Datacenter Location</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-3 footer-cols">
+              <div class="footer-options">
+                <h5>Company</h5>
+                <ul>
+                  <li><a href="about-us.php">About YouStable</a></li>
+                  <li><a href="our-team.php">Our Team</a></li>
+
+                  
 
                   <li><a href="career.php">Career<span class="we-r-hiring btn-yellow">We're Hiring!</span></a></li>
                   <li><a href="http://t.ly/1trC" target="_self">Client Reviews</a></li>
