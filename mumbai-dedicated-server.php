@@ -195,25 +195,25 @@ include('inc/header.php');
         <div class="row align-items-center reverse-column">
             <div class="col-md-6">
                 <div class="banner-left-content">
-                    <h1 class="Banner-Heading padding-heading robust-one"> Best Bare Metal Dedicated Server in India
+                    <h1 class="Banner-Heading padding-heading robust-one">Dedicated Server Hosting in Mumbai
                     </h1>
-                    <p class="Banner-title p-0">Experience the power of a secure, scalable, and high-speed network
-                        architecture with award-winning, trusted Tier III Data Center Providers in India. Enjoy blazing
-                        fast bare Metal Server hosting in India with 24/7 dedicated support, and affordable prices for
-                        your online success.</p>
+                    <p class="Banner-title p-0">Get Your Robust Fastest Dedicated Server in Mumbai with a Secured Full
+                        Network and a high-performance server. YouStable offers the latest technology and the latest
+                        Dedicated Server and Bare Metal Solutions. We offer a low-cost dedicated server Mumbai with
+                        99.95 percent uptime and 24/7 Support.</p>
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Flexible-management.svg"
-                                    alt="tick" class="tick-square">Full Control </li>
+                                    alt="tick" class="tick-square">Server in Mumbai</li>
                             <li class="purple-text_dark"><img src="assets/img/newImages/Automatic-security-patches.svg"
-                                    alt="tick" class="tick-square">Indian Data Center</li>
+                                    alt="tick" class="tick-square">NVMe SSD Drive</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3"><img
                                     src="assets/img/newImages/One-click-app-installer.svg" alt="tick"
-                                    class="tick-square">Zero Setup Fee</li>
+                                    class="tick-square">24*7 Technical Support</li>
                             <li class="purple-text_dark"><img src="assets/img/newImages/Shared-SSH-access.svg"
-                                    alt="tick" class="tick-square">Windows & Linux OS</li>
+                                    alt="tick" class="tick-square">1 IPv4 Address</li>
                         </ul>
                     </div>
                 </div>
@@ -277,11 +277,9 @@ include('inc/header.php');
 <!--Explore Section-->
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
     <div class="text-center shared-hosting-plan-heading">
-        <h2 class="server-heading">Get Robust Reliability with our Bare Metal <br class="remove-mobile"> Dedicated
-            Server
-            Plans</h2>
-        <p class="server-title choose">Get powerful bare metal servers at a low price in india, enabling you to achieve
-            more with less.</p>
+        <h2 class="server-heading">Robust Mumbai Dedicated Server Plans</h2>
+        <p class="server-title choose">Enjoy Our Dedicated Server Hosting in Mumbai Data Center Services <br>
+            With Exclusive and Intense Resources With Greater Flexibility and NVMe SSD Drives.</p>
     </div>
     <div class="container">
         <div class="row">
@@ -745,7 +743,7 @@ include('inc/header.php');
                         is here to help! <a href="#">Get in touch with us today.</a>
                     </p>
                     <div class="row mt-4">
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -753,7 +751,7 @@ include('inc/header.php');
                                 <h5>Free Website Migration Service</h5>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -761,7 +759,7 @@ include('inc/header.php');
                                 <h5>Designed for Performance</h5>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -893,13 +891,13 @@ include('inc/header.php');
     <div class="container">
         <div class="right-cols-awesome">
             <div class="text-center">
-                <h2 class="ay_heading">Why choose YouStable for your Bare Metal servers?</span></h2>
+                <h2 class="ay_heading">Why choose YouStable for your Mumbai Dedicated servers?</span></h2>
                 <p class="server-title title_sides_width pb-3">We offer a lot more than what you are expecting!</p>
 
             </div>
             <div class=" ">
                 <div class="row text-left cpanel-awe">
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/Free-domain-Registration.svg" alt="ssd-storage">
                             <h5 class="ay-heading">24/7 on-site Technical Support</h5>
@@ -908,20 +906,19 @@ include('inc/header.php');
                                 support.</p>
                         </div>
                     </div>
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/NVMe-SSD-Powered-Servers.svg" alt="ssl-certificate">
-                            <h5 class="ay-heading">Best Price-Performance Ratio</h5>
-                            <p class="ay-title m-0 w-100">We provide high-quality servers at competitive prices by
-                                leveraging discounted Intel and AMD components, optimizing server loads, and efficient
-                                self-owned data center management.</p>
+                            <h5 class="ay-heading">Mumbai Data Center</h5>
+                            <p class="ay-title m-0 w-100">With YouStable's Mumbai dedicated server Hosting, managing
+                                your entire hosting infrastructure with a seamless and user friendly interface.</p>
                         </div>
                     </div>
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/99.95-Server-Uptime-Guarantee.svg" alt="speed-web-server">
                             <h5 class="ay-heading">99.95% Uptime</h5>
-                            <p class="ay-title m-0 w-100">YouStable's Bare Metal server comes with Multiple Indian Data
+                            <p class="ay-title m-0 w-100">YouStable's dedicated server comes with Multiple Indian Data
                                 Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
                         </div>
                     </div>
@@ -967,15 +964,11 @@ include('inc/header.php');
                 </div>
 
                 <div class="col-md-6 available-cols">
-                    <h2>Available Add-ons for Your Bare metal Servers</h2>
-                    <p class="server-title server-title-width my-0 enhance">Improve your Bare metal server by
-                        incorporating these software addons and upgrades. You can easily add or remove all upgrades and
-                        addons by sending an email to our sales team. There will be no downtime during the upgrade
-                        process. The only condition is that the addon must remain on your account for a minimum of 30
-                        days.
-
-
-                    </p>
+                    <h2>Available Add-ons on Our Mumbai Dedicated Server</h2>
+                    <p class="server-title server-title-width my-0 enhance">Improve your server by incorporating these
+                        software addons and upgrades. <br><br>Discover India’s Best and Cheap Mumbai dedicated server
+                        hosting plans, designed to empower websites with blazing-fast performance. Choose from a wide
+                        range of Linux servers, each offering the best configuration and pricing in the market. </p>
                 </div>
             </div>
         </div>
@@ -1027,7 +1020,7 @@ include('inc/header.php');
 <section class="performance-sec plans">
     <div class="container">
         <div class="text-center">
-            <h2 class="Banner-Heading">Control Panel Pricing For Dedicated Servers</h2>
+            <h2 class="Banner-Heading">User-Friendly GUI Control Panels</h2>
             <p class="server-title server-title-width mt-0 mt-p">No expertise in the command line interface? No worries!
                 We provide top-notch control panels that stand out in the market. With these tools, you can effortlessly
                 manage and monitor your Bare Metal dedicated server.</p>
@@ -1197,9 +1190,8 @@ include('inc/header.php');
         <div class="bg-purple purple high-q-bg" style="background: #fff; padding-top: 0px;">
             <div class="text-center">
                 <h2 class="server-heading">Technologies YouStable Works With </h2>
-                <p class="server-title title_sides-width">YouStable leverages highly reputable and trusted technologies
-                    to
-                    deliver superior and unmatched services.</p>
+                <p class="server-title title_sides-width">We are committed to delivering top-notch hosting in India by
+                    harnessing industry-leading technologies that will optimize your website's speed to the fullest.</p>
                 <div class="width-slider">
                     <div class="row autoplay autoplay_slider">
                         <div class="col-lg-3 server-cols">
@@ -1254,18 +1246,20 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        What is Bare Metal Server?
+                        What is Mumbai Dedicated Server?
                     </button>
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">A bare-metal server refers to the physical server exclusively for a
-                        particular client or company, providing the user with full control over and access to hardware
-                        resources. In contrast to virtual servers, there exists no layer of virtualization giving you
-                        the best performance and customizing options.
-                        <br><br>
-                        Bare metal servers are great for high-performance workloads, resource-intensive applications, as
-                        well as businesses that require strong computing power and direct hardware control.
+                    <div class="accordion-body">An Mumbai Dedicated Server is a kind of hosting service which provides
+                        an exclusive server environment within Mumbai, India. It comes with the best resources and
+                        capabilities available to host applications, websites and other services online. With
+                        YouStable’s Mumbai Dedicated Server, you can fully control the server's hardware software,
+                        configurations, and even the software. This ensures optimal performance security, reliability,
+                        and reliability that is tailored to the specific needs of companies or individuals with a target
+                        audience located within or within Mumbai. The dedicated server located in Mumbai guarantees high
+                        speed and low latency data transfer for visitors to the website and services in this region,
+                        leading to an improved browsing experience.
                     </div>
                 </div>
             </div>
@@ -1274,23 +1268,60 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        What are the benefits of choosing a Bare Metal Server?
+                        What are the benefits of choosing a Mumbai Dedicated Server?
                     </button>
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">The choice of a bare-metal server has several advantages. First, it
-                        gives you the best efficiency and more dedicated resources with none of the expense of
-                        virtualization. This results in greater processing power, more rapid responses, and better
-                        stability. Additionally, bare-metal servers permit greater customisation, allowing users full
-                        control over configurations of the hardware and the software stack.
+                    <div class="accordion-body">Choosing a Mumbai Dedicated Server in India comes with several benefits:
+                        <ul>
 
-                        <br><br>
-                        This flexibility is advantageous for applications and workloads that require specific
-                        configurations. Furthermore, bare-metal servers offer greater security and protection as there
-                        is no shared resources among other clients. In addition, bare-metal servers typically offer
-                        greater capacity options that allow businesses to scale up or down according to their
-                        requirements.
+                            <li>
+                                <i class="fa fa-solid fa-circle-check"
+                                    style="background-color:#4caf50;font-size: 14px;border-radius:50%;"></i>
+                                <strong> Enhanced Performance:</strong> With a dedicated server located in Mumbai, you
+                                can expect
+                                exceptional
+                                performance and low latency for users accessing your website or services from the Indian
+                                region.
+                            </li>
+                            <li>
+                                <i class="fa fa-solid fa-circle-check"
+                                    style="background-color:#4caf50;font-size: 14px;border-radius:50%;"></i><strong>
+                                    Improved
+                                    Data
+                                    Transfer Speed:</strong> By hosting your website or applications on a Mumbai
+                                Dedicated
+                                Server, you can significantly reduce data transfer times for users in and around Mumbai
+                                or
+                                nearby.
+                            </li>
+                            <li>
+                                <i class="fa fa-solid fa-circle-check"
+                                    style="background-color:#4caf50;font-size: 14px;border-radius:50%;"></i><strong>
+                                    Targeted
+                                    Audience:</strong>
+                                If your target audience is primarily located in Mumbai or the surrounding
+                                areas, a dedicated server in Mumbai allows you to cater to their specific needs.
+                            </li>
+                            <li>
+                                <i class="fa fa-solid fa-circle-check"
+                                    style="background-color:#4caf50;font-size: 14px;border-radius:50%;"></i><strong>
+                                    Data
+                                    Sovereignty:</strong>
+                                Hosting your data on a Mumbai Dedicated Server provides the advantage of data
+                                sovereignty.
+                            </li>
+                            <li>
+                                <i class="fa fa-solid fa-circle-check"
+                                    style="background-color:#4caf50;font-size: 14px;border-radius:50%;"></i><strong>
+                                    Reliable
+                                    Indian
+                                    Support:</strong> Opting for a Mumbai Dedicated Server ensures access to reliable
+                                Indian
+                                technical support.
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -1304,8 +1335,8 @@ include('inc/customer-reviews.php');
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable offers other data centre location other then Indore i.e.
-                        Mumbai, Europe & USA
+                    <div class="accordion-body">Yes, YouStable offers other data center locations other then Mumbai i.e.
+                        Delhi and Indore.
                     </div>
                 </div>
             </div>
@@ -1319,14 +1350,13 @@ include('inc/customer-reviews.php');
                 </h2>
                 <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable is able to assist with the migration of your server and
-                        provide continuous assistance. If you require assistance in transferring your server from
-                        YouStable or need assistance with technical issues and management issues, Their experienced team
-                        is there to assist all the way through.
+                    <div class="accordion-body">Yes, YouStable can assist you with server migration and provide ongoing
+                        support. Whether you need help transferring your existing server to YouStable or require
+                        assistance with any technical issues or management tasks, their knowledgeable team is available
+                        to support you throughout the process.
                     </div>
                 </div>
             </div>
-
 
 
         </div>

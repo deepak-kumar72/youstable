@@ -71,19 +71,12 @@
                   <li><a href="wordpress-hosting.php" target="_self">WordPress Hosting</a></li>
                   <li><a href="cpanel-hosting.php" target="_self"> cPanel Hosting</a></li>
                   <li><a href="python-hosting.php" target="_self">Python Hosting</a></li>
-                  <li><a href="domain-registration.php" target="_self"> cPanel Dedicated</a></li>
+                  <li><a href="cpanel-dedicated.php" target="_self"> cPanel Dedicated</a></li>
                   <li><a href="dedicated-servers.php" target="_self"> Dedicated Server</a></li>
-<<<<<<< HEAD
-                  <li><a href="cpanel-dedicate.php" target="_self">cPanel Dedicated</a></li>
-                  <li><a href="free-domain.php" target="_self"> Free Domain</a></li>
-                  <li><a href="domain-registration.php" target="_self"> Register Domain Name</a></li>
-                  <li><a href="bare-metal-server.php" target="_self"> Bare Metal Server</a></li>
+                  <li><a href="bare-metal-server.php" target="_self">Bare Metal Server </a></li>
                   <li><a href="mumbai-dedicated-server.php" target="_self"> Mumbai Dedicated Server</a></li>
-=======
-                  <li><a href="free-domain.php" target="_self">Bare Metal Server </a></li>
-                  <li><a href="domain-registration.php" target="_self"> Mumbai Dedicated Server</a></li>
 
->>>>>>> 5958c615e437365fac5b9f201f6000427cec58a7
+
 
                 </ul>
               </div>
@@ -93,7 +86,7 @@
                   <li><a href="cyberpanel-vps.php" target="_self">CyberPanel VPS</a></li>
                   <li><a href="directadmin-vps.php" target="_self">DirectAdmin VPS</a></li>
                   <li><a href="cpanel-vps.php" target="_self">cPanel VPS</a></li>
-                  
+
                   <li><a href="vps-hosting.php" target="_self"> VPS Hosting</a></li>
                 </ul>
               </div>
@@ -132,7 +125,7 @@
 
                     </ul>
                   </li>
-                  
+
                   <!-- <li><a href="cheap-wordpress-hosting.php" target="_self">Cheap WP Hosting</a></li> -->
                   <!-- <li><a href="monthly-web-hosting.php" target="_self">Monthly Web Hosting</a></li>
                   <li><a href="nodejs-hosting.php" target="_self">Nodejs Hosting</a></li>
@@ -142,7 +135,7 @@
                   <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>
                   <li><a href="high-performance-vps.php" target="_self">High Performance VPS Hosting</a> -->
 
-                    <!-- <li><a href="#">Speed Test</a></li> -->
+                  <!-- <li><a href="#">Speed Test</a></li> -->
                 </ul>
               </div>
               <div class="footer-options">
@@ -186,7 +179,7 @@
                   <li><a href="about-us.php">About YouStable</a></li>
                   <li><a href="our-team.php">Our Team</a></li>
 
-                  
+
 
                   <li><a href="career.php">Career<span class="we-r-hiring btn-yellow">We're Hiring!</span></a></li>
                   <li><a href="http://t.ly/1trC" target="_self">Client Reviews</a></li>

@@ -1,11 +1,9 @@
 <?php
 $page = 'vps-hosting';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <style>
-
-
   .contact-hosting {
     font-size: 20px;
     font-weight: 400;
@@ -166,14 +164,22 @@ include ('inc/header.php');
   <div class="container">
     <div class="text-center margin-top-bottom ideak-choice">
       <h2 class="server-heading shared-heading-plan">Choose the Best VPS Hosting Plan for Your Needs</h2>
-      <p class="server-title">Customise the Best KVM VPS hosting servers resources for your website as per your needs <br>and make it ultra-smooth on the internet without any hidden or additional charges.</p>
+      <p class="server-title">Customise the Best KVM VPS hosting servers resources for your website as per your needs
+        <br>and make it ultra-smooth on the internet without any hidden or additional charges.
+      </p>
     </div>
 
 
-<div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab" data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly" aria-selected="true" tabindex="-1">1 Year</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab" aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly" aria-selected="false">1 Month</button></div>
+    <div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly"
+          aria-selected="true" tabindex="-1">1 Year</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab"
+          aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly"
+          aria-selected="false">1 Month</button></div>
     </div>
 
 
@@ -961,59 +967,59 @@ include ('inc/header.php');
 
 <!--new list section-->
 <section class="new-list-section container">
-    <div class="text-center margin-top-bottom ideak-choice">
-<h2 class="server-heading shared-heading-plan">All VPS Hosting Server Plans Come With</h2>
-<p class="server-title">From professional business to enterprise, we've got you covered!</p>
-</div>
-    <div class="container ">
-        
-             <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons"/>
-            <div class="new-list-sec">
-        <div class="row">
-            <div class="col-lg-3 list-imp">
-                <ul style="list-style: disc;">
-                    <li class="support-list">24/7/365 Support</li>
-                    <li class="support-list">SSH and SFTP Access</li>
-                    <li class="support-list">Weekly Backup</li>
-                    <li class="support-list">30-Day Money-Back</li>
-                </ul>
-            </div>
-            <div class="col-lg-3 list-imp">
-                <ul style="list-style: disc;">
-                    <li class="support-list">CDN Add-on</li>
-                    <li class="support-list">24/7 Live Monitor</li>
-                    <li class="support-list">Free Migration</li>
-                    <li class="support-list">HTTP/2 Enabled Servers</li>
-                </ul>
-            </div>
-            <div class="col-lg-3 list-imp">
-                 <ul style="list-style: disc;">
-                    <li class="support-list">BitNinja Security</li>
-                    <li class="support-list">Dedicated IP</li>
-                    <li class="support-list">SQL Databases</li>
-                    <li class="support-list">Multi-DC Network</li>
-                </ul>
-            </div>
-            <div class="col-lg-3 list-imp">
-                 <ul style="list-style: disc;">
-                    <li class="support-list">Higher Google Rank</li>
-                    <li class="support-list">Enterprise Hardware</li>
-                    <li class="support-list">MariaDB</li>
-                    <li class="support-list">Guaranteed Resources</li>
-                </ul>
-            </div>
-            <div class="col-lg-3 list-imp">
-                 <ul style="list-style: disc;">
-                    <li class="support-list">PHP 7 & 8</li>
-                    <li class="support-list">Enhanced Security</li>
-                    <li class="support-list">Upgrade At Anytime</li>
-                    <li class="support-list">Host Unlimited Domains</li>
-                </ul>
-            </div>
+  <div class="text-center margin-top-bottom ideak-choice">
+    <h2 class="server-heading shared-heading-plan">All VPS Hosting Server Plans Come With</h2>
+    <p class="server-title">From professional business to enterprise, we've got you covered!</p>
+  </div>
+  <div class="container ">
+
+    <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons" />
+    <div class="new-list-sec">
+      <div class="row">
+        <div class="col-lg-3 list-imp">
+          <ul style="list-style: disc;">
+            <li class="support-list">24/7/365 Support</li>
+            <li class="support-list">SSH and SFTP Access</li>
+            <li class="support-list">Weekly Backup</li>
+            <li class="support-list">30-Day Money-Back</li>
+          </ul>
         </div>
+        <div class="col-lg-3 list-imp">
+          <ul style="list-style: disc;">
+            <li class="support-list">CDN Add-on</li>
+            <li class="support-list">24/7 Live Monitor</li>
+            <li class="support-list">Free Migration</li>
+            <li class="support-list">HTTP/2 Enabled Servers</li>
+          </ul>
+        </div>
+        <div class="col-lg-3 list-imp">
+          <ul style="list-style: disc;">
+            <li class="support-list">BitNinja Security</li>
+            <li class="support-list">Dedicated IP</li>
+            <li class="support-list">SQL Databases</li>
+            <li class="support-list">Multi-DC Network</li>
+          </ul>
+        </div>
+        <div class="col-lg-3 list-imp">
+          <ul style="list-style: disc;">
+            <li class="support-list">Higher Google Rank</li>
+            <li class="support-list">Enterprise Hardware</li>
+            <li class="support-list">MariaDB</li>
+            <li class="support-list">Guaranteed Resources</li>
+          </ul>
+        </div>
+        <div class="col-lg-3 list-imp">
+          <ul style="list-style: disc;">
+            <li class="support-list">PHP 7 & 8</li>
+            <li class="support-list">Enhanced Security</li>
+            <li class="support-list">Upgrade At Anytime</li>
+            <li class="support-list">Host Unlimited Domains</li>
+          </ul>
+        </div>
+      </div>
     </div>
-     <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons rocket-icons-1"/>
-    </div>
+    <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons rocket-icons-1" />
+  </div>
 </section>
 <!--new list section-->
 
@@ -1022,44 +1028,47 @@ include ('inc/header.php');
 <section class="awesome-youstable affiliate-two affiliate-four">
   <div class="container">
     <div class="right-cols-awesome">
-      
-                <div class="text-center">
+
+      <div class="text-center">
         <h2 class="ay_heading text-center mt-5">Why Choose YouStable for Your VPS Hosting Needs?</h2>
         <p class="server-title title_sides_width pb-3">Our budget-friendly fast VPS server hosting comes with robust
-          features tailored to enhance your <br class="remove-mobile">website's speed, security, and stability, ensuring top-notch quality without
+          features tailored to enhance your <br class="remove-mobile">website's speed, security, and stability, ensuring
+          top-notch quality without
           compromise.</p>
         <!--<p class="server-title title_sides_width pb-3">Our services are backed by strong features that are especially focused on making your website more fast, secure and steady on the internet so that you can enjoy uncompromised quality.</p>-->
       </div>
       <div class="why-choose">
         <div class="row text-left">
-            <div class="col-lg-6">
-      
-       <div class="d-flex gap-3 mt-5 align-items-center border-design-box">
-           <div> <img src="assets/img/nvme-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
-           <div>
-               <h5 class="why-heading">Powerful NVMe SSD</h5>
+          <div class="col-lg-6">
+
+            <div class="d-flex gap-3 mt-5 align-items-center border-design-box">
+              <div> <img src="assets/img/nvme-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
+              <div>
+                <h5 class="why-heading">Powerful NVMe SSD</h5>
                 <p class="why-para">Get faster access and superior storage with NVMe Drives. Boost your
                   website’s performance dramatically</p>
-           </div>
-       </div>
-       <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
-           <div> <img src="assets/img/ddos-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
-           <div>
-               <h5 class="why-heading">DDos Protected</h5>
-                <p class="why-para">With the industry’s best DDoS Protected VPS Servers, you can protect your website proactively from malicious</p>
-           </div>
-       </div>
-       <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
-           <div> <img src="assets/img/migration-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
-           <div>
-               <h5 class="why-heading">Effortless Migration</h5>
-                <p class="why-para">Our team of Technical hosting professionals will seamlessly transfer all your websites to the new server</p>
-           </div>
-       </div>
+              </div>
             </div>
-            <div class="col-lg-6">
-                <img src="assets/img/why-choose-girl.jpg" alt="why-choose-girl" class="why-choose-girl">
+            <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
+              <div> <img src="assets/img/ddos-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
+              <div>
+                <h5 class="why-heading">DDos Protected</h5>
+                <p class="why-para">With the industry’s best DDoS Protected VPS Servers, you can protect your website
+                  proactively from malicious</p>
+              </div>
             </div>
+            <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
+              <div> <img src="assets/img/migration-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
+              <div>
+                <h5 class="why-heading">Effortless Migration</h5>
+                <p class="why-para">Our team of Technical hosting professionals will seamlessly transfer all your
+                  websites to the new server</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <img src="assets/img/why-choose-girl.jpg" alt="why-choose-girl" class="why-choose-girl">
+          </div>
         </div>
 
 
@@ -1074,7 +1083,8 @@ include ('inc/header.php');
     <div class="text-center">
       <h2 class="Banner-Heading">Enhanced VPS Hosting with Powerful Operating Systems
       </h2>
-      <p class="operating-title-width">Experience the full potential of your Virtual Private Server with our Enhanced KVM VPS Hosting Servers, <br>featuring top-tier Operating Systems and Apps for unmatched performance!</p>
+      <p class="operating-title-width">Experience the full potential of your Virtual Private Server with our Enhanced
+        KVM VPS Hosting Servers, <br>featuring top-tier Operating Systems and Apps for unmatched performance!</p>
       <div class="row">
         <div class="col-md-3 server-cols">
           <div class="bg-lt-blacks">
@@ -1230,38 +1240,38 @@ include ('inc/header.php');
 </section>
 
 <!--Review section-->
-  <section class="hosting-rating hosting-review">
-    <div class="container">
+<section class="hosting-rating hosting-review">
+  <div class="container">
 
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
-            </span>
-        </div>
-           <?php include ('animate-text.php')?>
-
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
-                <img src="assets/img/wave-yellow.png" class="floating">
-            </span>
-        </div>
-
-
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-circle.png" class="movingcloud">
+      </span>
     </div>
+    <?php include('animate-text.php') ?>
+
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-wave.png" class="movingclouds">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
+        <img src="assets/img/wave-yellow.png" class="floating">
+      </span>
+    </div>
+
+
+  </div>
 </section>
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 
@@ -1354,40 +1364,42 @@ include ('inc/customer-reviews.php');
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">Have Concerns?</h2>
+          <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
+            24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>

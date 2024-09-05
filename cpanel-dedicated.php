@@ -195,25 +195,27 @@ include('inc/header.php');
         <div class="row align-items-center reverse-column">
             <div class="col-md-6">
                 <div class="banner-left-content">
-                    <h1 class="Banner-Heading padding-heading robust-one"> Best Bare Metal Dedicated Server in India
+                    <h1 class="Banner-Heading padding-heading robust-one">cPanel Dedicated Server Hosting
                     </h1>
-                    <p class="Banner-title p-0">Experience the power of a secure, scalable, and high-speed network
-                        architecture with award-winning, trusted Tier III Data Center Providers in India. Enjoy blazing
-                        fast bare Metal Server hosting in India with 24/7 dedicated support, and affordable prices for
-                        your online success.</p>
+                    <p class="Banner-title p-0">Experience unparalleled performance and top-tier security with a low
+                        cost cpanel Dedicated Server in India.
+                        <br><br>
+                        Unlock the full potential of your website with our high-powered dedicated server hosting and
+                        enjoy the peace of mind that comes with the highest level of security. Rest assured, your
+                        valuable data will remain secure, backed by unlimited storage capabilities./p>
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Flexible-management.svg"
-                                    alt="tick" class="tick-square">Full Control </li>
+                                    alt="tick" class="tick-square">cPanel Optimized Server</li>
                             <li class="purple-text_dark"><img src="assets/img/newImages/Automatic-security-patches.svg"
-                                    alt="tick" class="tick-square">Indian Data Center</li>
+                                    alt="tick" class="tick-square">NVMe SSD Drive</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3"><img
                                     src="assets/img/newImages/One-click-app-installer.svg" alt="tick"
-                                    class="tick-square">Zero Setup Fee</li>
+                                    class="tick-square">24*7 Technical Support</li>
                             <li class="purple-text_dark"><img src="assets/img/newImages/Shared-SSH-access.svg"
-                                    alt="tick" class="tick-square">Windows & Linux OS</li>
+                                    alt="tick" class="tick-square">Latest Hardware</li>
                         </ul>
                     </div>
                 </div>
@@ -277,11 +279,10 @@ include('inc/header.php');
 <!--Explore Section-->
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
     <div class="text-center shared-hosting-plan-heading">
-        <h2 class="server-heading">Get Robust Reliability with our Bare Metal <br class="remove-mobile"> Dedicated
-            Server
-            Plans</h2>
-        <p class="server-title choose">Get powerful bare metal servers at a low price in india, enabling you to achieve
-            more with less.</p>
+        <h2 class="server-heading">Best price performance for cPanel Dedicated Server hosting Plans</h2>
+        <p class="server-title choose">By opting for our Best & Cheap cPanel Dedicated Server Plans in India, you can
+            host your applications or services with confidence. Our high-performing servers empower your business to
+            thrive and grow.</p>
     </div>
     <div class="container">
         <div class="row">
@@ -745,7 +746,7 @@ include('inc/header.php');
                         is here to help! <a href="#">Get in touch with us today.</a>
                     </p>
                     <div class="row mt-4">
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -753,7 +754,7 @@ include('inc/header.php');
                                 <h5>Free Website Migration Service</h5>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -761,7 +762,7 @@ include('inc/header.php');
                                 <h5>Designed for Performance</h5>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 pb-4">
                             <div class="service-card">
                                 <!-- <div class="icon-circle">
                                     <i class="fa fa-check-circle"></i>
@@ -893,13 +894,13 @@ include('inc/header.php');
     <div class="container">
         <div class="right-cols-awesome">
             <div class="text-center">
-                <h2 class="ay_heading">Why choose YouStable for your Bare Metal servers?</span></h2>
+                <h2 class="ay_heading">Why Choose YouStable for your cPanel Dedicated servers?</span></h2>
                 <p class="server-title title_sides_width pb-3">We offer a lot more than what you are expecting!</p>
 
             </div>
             <div class=" ">
                 <div class="row text-left cpanel-awe">
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/Free-domain-Registration.svg" alt="ssd-storage">
                             <h5 class="ay-heading">24/7 on-site Technical Support</h5>
@@ -908,20 +909,19 @@ include('inc/header.php');
                                 support.</p>
                         </div>
                     </div>
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/NVMe-SSD-Powered-Servers.svg" alt="ssl-certificate">
-                            <h5 class="ay-heading">Best Price-Performance Ratio</h5>
-                            <p class="ay-title m-0 w-100">We provide high-quality servers at competitive prices by
-                                leveraging discounted Intel and AMD components, optimizing server loads, and efficient
-                                self-owned data center management.</p>
+                            <h5 class="ay-heading">cPanel Control Panel</h5>
+                            <p class="ay-title m-0 w-100">With the cPanel Control Panel provided by YouStable, managing
+                                your entire hosting infrastructure becomes a breeze and Easy to Handle.</p>
                         </div>
                     </div>
-                    <div class="col-md-4 cols-awesome-youstable">
+                    <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
                             <img src="assets/img/icons/99.95-Server-Uptime-Guarantee.svg" alt="speed-web-server">
                             <h5 class="ay-heading">99.95% Uptime</h5>
-                            <p class="ay-title m-0 w-100">YouStable's Bare Metal server comes with Multiple Indian Data
+                            <p class="ay-title m-0 w-100">YouStable's dedicated server comes with Multiple Indian Data
                                 Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
                         </div>
                     </div>
@@ -967,15 +967,11 @@ include('inc/header.php');
                 </div>
 
                 <div class="col-md-6 available-cols">
-                    <h2>Available Add-ons for Your Bare metal Servers</h2>
-                    <p class="server-title server-title-width my-0 enhance">Improve your Bare metal server by
-                        incorporating these software addons and upgrades. You can easily add or remove all upgrades and
-                        addons by sending an email to our sales team. There will be no downtime during the upgrade
-                        process. The only condition is that the addon must remain on your account for a minimum of 30
-                        days.
-
-
-                    </p>
+                    <h2>Available Add-ons for your cPanel+WHM Dedicated Server</h2>
+                    <p class="server-title server-title-width my-0 enhance">Improve your server by incorporating these
+                        software addons and upgrades. <br><br>You can easily add or remove all upgrades and addons by
+                        sending an email to our sales team. There will be no downtime during the upgrade process. The
+                        only condition is that the addon must remain on your account for a minimum of 30 days. </p>
                 </div>
             </div>
         </div>
@@ -1027,7 +1023,7 @@ include('inc/header.php');
 <section class="performance-sec plans">
     <div class="container">
         <div class="text-center">
-            <h2 class="Banner-Heading">Control Panel Pricing For Dedicated Servers</h2>
+            <h2 class="Banner-Heading">User-Friendly GUI Control Panels</h2>
             <p class="server-title server-title-width mt-0 mt-p">No expertise in the command line interface? No worries!
                 We provide top-notch control panels that stand out in the market. With these tools, you can effortlessly
                 manage and monitor your Bare Metal dedicated server.</p>
@@ -1095,19 +1091,19 @@ include('inc/header.php');
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Single user (1 Domain)</td>
+                                <td>Single user </td>
                                 <td> ₹1271+GST/monthly</td>
                             </tr>
                             <tr>
-                                <td>5 Users (5 Domain)</td>
+                                <td>5 Users </td>
                                 <td>₹1987+GST/monthly</td>
                             </tr>
                             <tr>
-                                <td>30 Users (30 Domain)</td>
+                                <td>30 Users </td>
                                 <td>₹2861+GST/monthly</td>
                             </tr>
                             <tr>
-                                <td>100 Users (100 Domain)</td>
+                                <td>100 Users </td>
                                 <td>₹4214+GST/monthly</td>
                             </tr>
                         </tbody>
@@ -1127,19 +1123,19 @@ include('inc/header.php');
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Single user (10 Domain)</td>
+                                <td>Single user </td>
                                 <td> ₹159+GST/month</td>
                             </tr>
                             <tr>
-                                <td>2 Users (20 Domain)</td>
+                                <td>2 Users </td>
                                 <td>₹398+GST/month</td>
                             </tr>
                             <tr>
-                                <td>10 Users (50 Domain)</td>
+                                <td>10 Users </td>
                                 <td> ₹1193+GST/month</td>
                             </tr>
                             <tr>
-                                <td>Unlimited Users (Unlimited Domain)</td>
+                                <td>Unlimited Users </td>
                                 <td>₹2306+GST/month</td>
                             </tr>
                         </tbody>
@@ -1159,8 +1155,20 @@ include('inc/header.php');
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Unlimited users</td>
-                                <td>Free</td>
+                                <td>Single user (1 Domain)</td>
+                                <td>₹1271+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>5 Users (5 Domain)</td>
+                                <td>₹1987+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>30 Users (30 Domain)</td>
+                                <td>₹2861+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>100 Users (100 Domain)</td>
+                                <td>₹4214+GST/monthly</td>
                             </tr>
                         </tbody>
                     </table>
@@ -1197,9 +1205,8 @@ include('inc/header.php');
         <div class="bg-purple purple high-q-bg" style="background: #fff; padding-top: 0px;">
             <div class="text-center">
                 <h2 class="server-heading">Technologies YouStable Works With </h2>
-                <p class="server-title title_sides-width">YouStable leverages highly reputable and trusted technologies
-                    to
-                    deliver superior and unmatched services.</p>
+                <p class="server-title title_sides-width">We are committed to delivering top-notch hosting in India by
+                    harnessing industry-leading technologies that will optimize your website's speed to the fullest.</p>
                 <div class="width-slider">
                     <div class="row autoplay autoplay_slider">
                         <div class="col-lg-3 server-cols">
@@ -1254,18 +1261,20 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        What is Bare Metal Server?
+                        What is cPanel Dedicated Server?
                     </button>
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">A bare-metal server refers to the physical server exclusively for a
-                        particular client or company, providing the user with full control over and access to hardware
-                        resources. In contrast to virtual servers, there exists no layer of virtualization giving you
-                        the best performance and customizing options.
+                    <div class="accordion-body">The cPanel Dedicated Server is a type of hosting solution that gives you
+                        an exclusive server environment designed for the cPanel control panel. With the cPanel Dedicated
+                        Server, you get access to only the server's resources. This ensures maximum efficiency and
+                        protection for your website or application.
                         <br><br>
-                        Bare metal servers are great for high-performance workloads, resource-intensive applications, as
-                        well as businesses that require strong computing power and direct hardware control.
+                        The control panel for cPanel offers an easy-to-use interface that lets you effectively manage
+                        and set up the various elements of your hosting system, including website databases, files,
+                        email accounts, and other things. It comes with advanced features and tools that help simplify
+                        server management and improve the overall experience of hosting.
                     </div>
                 </div>
             </div>
@@ -1274,23 +1283,30 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        What are the benefits of choosing a Bare Metal Server?
+                        What are the benefits of choosing a cPanel Dedicated Server in India?
                     </button>
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">The choice of a bare-metal server has several advantages. First, it
-                        gives you the best efficiency and more dedicated resources with none of the expense of
-                        virtualization. This results in greater processing power, more rapid responses, and better
-                        stability. Additionally, bare-metal servers permit greater customisation, allowing users full
-                        control over configurations of the hardware and the software stack.
-
-                        <br><br>
-                        This flexibility is advantageous for applications and workloads that require specific
-                        configurations. Furthermore, bare-metal servers offer greater security and protection as there
-                        is no shared resources among other clients. In addition, bare-metal servers typically offer
-                        greater capacity options that allow businesses to scale up or down according to their
-                        requirements.
+                    <div class="accordion-body">Choosing a cPanel Dedicated Server comes with several benefits:
+                        <ul style="margin-left:30px;">
+                            <li style="list-style-type:disc;">Improved Performance
+                            </li>
+                            <li style="list-style-type:disc;">
+                                Greater Security Increased Security
+                            </li>
+                            <li style="list-style-type:disc;">
+                                Flexible and customizable Flexible and Customization
+                            </li style="list-style-type:disc;">
+                            <li style="list-style-type:disc;">Scalability
+                            </li>
+                            <li style="list-style-type:disc;">Simple Server Management
+                            </li>
+                            <li style="list-style-type:disc;">24*7 technical Support</li>
+                        </ul>
+                        Overall, a cPanel dedicated Server Hosting gives you performance security the ability to scale,
+                        flexibility, and effective server management that makes it the ideal solution for individuals or
+                        businesses who have particular hosting requirements.
                     </div>
                 </div>
             </div>
@@ -1299,13 +1315,14 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingThree">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Does YouStable Offers other Data Center Location?
+                        Do I need a cPanel control panel for my Dedicated Server?
                     </button>
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable offers other data centre location other then Indore i.e.
-                        Mumbai, Europe & USA
+                    <div class="accordion-body">Yes, if you want user friendly interface for managing your server,
+                        websites, and other hosting resources effectively. The cPanel control panel offers a wide range
+                        of features and tools that simplify server management tasks and enhance your hosting experience.
                     </div>
                 </div>
             </div>
@@ -1314,19 +1331,18 @@ include('inc/customer-reviews.php');
                 <h2 class="accordion-header" id="flush-headingFour">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                        Can YouStable help you with server migration and Support?
+                        Can YouStable help you with cPanel server migration and cPanel Support?
                     </button>
                 </h2>
                 <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
                     data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes, YouStable is able to assist with the migration of your server and
-                        provide continuous assistance. If you require assistance in transferring your server from
-                        YouStable or need assistance with technical issues and management issues, Their experienced team
-                        is there to assist all the way through.
+                    <div class="accordion-body">Yes, YouStable offers comprehensive support for cPanel server migration,
+                        ensuring a seamless transition to your new hosting environment. Additionally, our knowledgeable
+                        team provides ongoing cPanel support, assisting you with any technical issues, configuration, or
+                        management tasks related to your cPanel control panel on our dedicated server.
                     </div>
                 </div>
             </div>
-
 
 
         </div>
