@@ -76,24 +76,24 @@ include ('inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content">
           <p class="experience">cPanel VPS Hosting</p>
-          <h1 class="Banner-Heading padding-heading robust">VPS hosting with cPanel/WHM</h1>
-          <p class="Banner-title p-0">Manage your Virtual Private Server with ease and secure your site in minutes with YouStable's VPS Hosting with cPanel/WHM!</p>
+          <h1 class="Banner-Heading padding-heading robust">cPanel VPS Hosting in India</h1>
+          <p class="Banner-title p-0">Experience the power and flexibility you need while simplifying hosting management and protecting your site within minutes with YouStable's cPanel VPS</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/New-NGINX-Server-Technology.svg"
-                  alt="tick" class="tick-square">New NGINX Server Technology</li>
+                  alt="tick" class="tick-square">24/7 Support</li>
               <li class="purple-text_dark"><img src="assets/img/easy-to-manage-control-panel.svg" alt="tick"
-                  class="tick-square">Easy to Manage Control Panel</li>
+                  class="tick-square">NVMe SSD Drive</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/managed-security-modules.svg" alt="tick"
-                  class="tick-square">Managed Security Modules</li>
+                  class="tick-square">99.99% Uptime</li>
               <li class="purple-text_dark"><img src="assets/img/Easy-Scalability-of-resources.svg" alt="tick"
-                  class="tick-square">Easy Scalability of resources</li>
+                  class="tick-square">cPanel/WHM Optimized VPS</li>
             </ul>
           </div>
         </div>
-        <button class="btn-yellow btn-explore-plan" type="submit">Get Started Today <i
+        <button class="btn-yellow btn-explore-plan" type="submit">Compare Plans<i
             class="fa-solid fa-arrow-right"></i></button>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
@@ -175,14 +175,14 @@ include ('inc/header.php');
       <div class="tab-pane fade tab-titles" id="pills-monthly" role="tabpanel" aria-labelledby="pills-monthly-tab">
         <!-- start monthly tab plan -->
         <div class="row flex_unset">
-          <div class="col-md-3 explore-cols">
+          <div class="col-md-4 explore-cols">
             <div class="position-relative h-100">
               <div class="upper-card upper-card-vps">
                 <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
                 <h4 class="hosting-heading">vStart</h4>
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1149</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>14.46</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>979</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>14.46</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <!--<p class="regular-price ">Regular price<span class="cross-price"> ₹11,590/month</span></p>-->
@@ -190,9 +190,9 @@ include ('inc/header.php');
                 <a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=341&billingcycle=monthly"
                   class="indian-host-price" target="_self" class="link-color-black"><button
                     class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=monthly"
                   class="usa-host-price" target="_self" class="link-color-black"><button
-                    class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a>
+                    class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a> -->
 
                 <div class="hosting_specification vps-specification">
                   <div class="d-flex gap-2 specifications vps-speci">
@@ -209,20 +209,20 @@ include ('inc/header.php');
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>1 TB Bandwidth</p>
+                    <p>750 GB Bandwidth</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>Dedicated IPv4</p>
+                    <p>CPanel</p>
                   </div>
-                  <div class="d-flex gap-2 specifications vps-speci">
+                  <!-- <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Full Root Access</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Free Control Panel*</p>
-                  </div>
+                  </div> -->
                 </div>
 
                 <!--<div class="free_setup btn-yellow " bis_skin_checked="1">-->
@@ -233,7 +233,7 @@ include ('inc/header.php');
             </div>
           </div>
 
-          <div class="col-md-3 explore-cols">
+          <div class="col-md-4 explore-cols">
             <div class="position-relative h-100">
               <!--<div class="most-popular-hosting btn-light-purple">-->
               <!--    <p class="m-0">Experts Choice</p>-->
@@ -243,8 +243,8 @@ include ('inc/header.php');
                 <h4 class="hosting-heading">vProfessional</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1999</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>25.14</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1699</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>25.14</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <p></p>
@@ -253,10 +253,10 @@ include ('inc/header.php');
                   class="text-white indian-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=monthly"
                   class="text-white usa-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
                 <div class="hosting_specification vps-specification">
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
@@ -276,16 +276,16 @@ include ('inc/header.php');
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>Dedicated IPv4</p>
+                    <p>cPanel</p>
                   </div>
-                  <div class="d-flex gap-2 specifications vps-speci">
+                  <!-- <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Full Root Access</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Free Control Panel*</p>
-                  </div>
+                  </div> -->
                 </div>
 
                 <!--<div class="free_setup btn-light-purple" bis_skin_checked="1">-->
@@ -296,15 +296,15 @@ include ('inc/header.php');
             </div>
           </div>
 
-          <div class="col-md-3 explore-cols">
+          <div class="col-md-4 explore-cols">
             <div class="position-relative h-100">
               <div class="upper-card upper-card-vps">
                 <!--<img class="hosting-icons" src="assets/img/shared-plan.png" alt="shared plan">-->
                 <h4 class="hosting-heading ">vPopular</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>3499</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>44.02</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>2469</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>44.02</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -313,9 +313,9 @@ include ('inc/header.php');
                 <a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=343&billingcycle=monthly"
                   class="indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=monthly"
                   class="usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
                 <div class="hosting_specification vps-specification">
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
@@ -323,28 +323,28 @@ include ('inc/header.php');
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>12 GB RAM</p>
+                    <p>8 GB RAM</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>150 GB NVMe SSD</p>
+                    <p>120 GB NVMe SSD</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>2.0 TB Bandwidth</p>
+                    <p>1.75 TB Bandwidth</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
-                    <p>Dedicated IPv4</p>
+                    <p>cPanel</p>
                   </div>
-                  <div class="d-flex gap-2 specifications vps-speci">
+                  <!-- <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Full Root Access</p>
                   </div>
                   <div class="d-flex gap-2 specifications vps-speci">
                     <img src="assets/img/speci-tick.png" class="specification-tick vps-tick">
                     <p>Free Control Panel*</p>
-                  </div>
+                  </div> -->
                 </div>
 
                 <!--<div class="free_setup btn-yellow " bis_skin_checked="1"> -->
@@ -356,10 +356,10 @@ include ('inc/header.php');
           </div>
 
 
-          <div class="col-md-3 explore-cols">
+          <!-- <div class="col-md-3 explore-cols">
             <div class="position-relative h-100">
               <div class="upper-card upper-card-vps">
-                <!--<img class="hosting-icons" src="assets/img/shared-plan.png" alt="shared plan">-->
+          
                 <h4 class="hosting-heading">vStable</h4>
 
                 <div class="price-container">
@@ -369,7 +369,7 @@ include ('inc/header.php');
                   <p class="per_month">/month</p>
                 </div>
                 <p></p>
-                <!--<p class="regular-price">Regular price<span class="cross-price"> ₹199/month</span></p>-->
+               
                 <a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=344&billingcycle=monthly"
                   class="indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
                     Started</button></a>
@@ -407,13 +407,11 @@ include ('inc/header.php');
                   </div>
                 </div>
 
-                <!--<div class="free_setup btn-yellow " bis_skin_checked="1">-->
-                <!--    <p class="m-0">50% Off</p>-->
-                <!--</div>-->
+          
 
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
       <!-- close monthly plan -->
@@ -945,9 +943,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Experience the Power of a Virtual Private Server with cPanel</h2>
-        <p class="server-title title_sides_width pb-3">Industry-leading technology with faster loading sites, YouStable
-          is ready to support you in all ways.</p>
+        <h2 class="ay_heading">cPanel VPS Hosting Features</h2>
+        <p class="server-title title_sides_width pb-3">Industry-leading technology with faster loading sites, YouStable is ready to support you in all ways.
+</p>
         <!--<p class="purple-text_dark see-yourself">See for yourself!</p>-->
         <P></P>
       </div>
@@ -956,26 +954,22 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/migration.png" alt="migration">
-              <h5 class="ay-heading">Free and Instant Migration</h5>
-              <p class="ay-title m-0 w-100">Giving our techy website owners the ability to control their domain network.
-                It can be used to add or remove subdomains, manage DNS zones, and guide site visitors.</p>
+              <h5 class="ay-heading">Free Migration</h5>
+              <p class="ay-title m-0 w-100">Transfer cPanel accounts from remote servers effortlessly. Migrations are a breeze, and YouStable's in-house technical support team will provide guidance every step of the way.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/secure-domain.png" alt="domain">
               <h5 class="ay-heading">Control Domains</h5>
-              <p class="ay-title m-0 w-100">One of the fastest and most lightweight running control panels on the
-                market. Due to this, DirectAdmin is perfect for a variety of systems, including VPS units.</p>
+              <p class="ay-title m-0 w-100">Enabling tech-savvy website owners with the capability to manage their domain network. This feature empowers them to effortlessly add or delete subdomains, efficiently handle DNS</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/email-calendar.png" alt="calendar">
               <h5 class="ay-heading">Create Calendars and Emails</h5>
-              <p class="ay-title m-0 w-100">With the robust email and calendar features included into cPanel, you can
-                start new email accounts, make shared calendars, and take advantage of several levels of spam
-                protection.</p>
+              <p class="ay-title m-0 w-100">With the powerful email and calendar functionalities integrated into cPanel, users can easily create new email accounts, establish shared calendars, and benefit from multiple layers of spam protection.</p>
             </div>
           </div>
         </div>
@@ -984,25 +978,21 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/server-security.png" alt="server-security">
               <h5 class="ay-heading">Security and Protection</h5>
-              <p class="ay-title m-0 w-100">With security features like SSL certificates and multi-factor authentication
-                built into cPanel VPS Hosting, you can safeguard both you machines and your clients.</p>
+              <p class="ay-title m-0 w-100">By incorporating security measures such as SSL certificates and multi-factor authentication into cPanel VPS Hosting, you can protect both your machines and your clients effectively.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/View-and-Identify-Server-Statistics.svg" alt="server">
-              <h5 class="ay-heading">View and Identify Server Statistics</h5>
-              <p class="ay-title m-0 w-100">Our sophisticated server monitoring tools will let you know everything that
-                is happening with your website. View the uses as well as the potential problems that may occur on your
-                hosting.</p>
+              <h5 class="ay-heading">Seamless Scaling</h5>
+              <p class="ay-title m-0 w-100">Scale your cPanel VPS hosting seamlessly, effortlessly meeting growing demands and maximizing performance, ensuring smooth and scalable hosting experience.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/create-website.png" alt="monitoring-alerts">
-              <h5 class="ay-heading">Create a Website</h5>
-              <p class="ay-title m-0 w-100">Build your site with one of the most well-liked site builders, or use the
-                tools to create and maintain your websites from scratch.</p>
+              <h5 class="ay-heading">Guarateed Uptime</h5>
+              <p class="ay-title m-0 w-100">Maximize your online productivity with our reliable cPanel VPS Hosting, delivering a rock-solid 99.99% uptime guarantee for consistent website accessibility and optimal user experience</p>
             </div>
           </div>
         </div>
@@ -1151,10 +1141,7 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">cPanel VPS is a virtual server that comes with pre-installed cPanel (control
-            panel) and all the necessary resources so that you can easily manage your website on the internet. For
-            example, virtual private servers are quite complex to operate but cPanel makes it very easy, thanks to its
-            simple user interface.</div>
+          <div class="accordion-body">A cPanel VPS is a virtual server equipped with pre-installed cPanel (control panel) and all essential resources, enabling effortless website management on the internet. Virtual private servers can be intricate to operate, but cPanel simplifies the process with its user-friendly interface.</div>
         </div>
       </div>
 
@@ -1168,10 +1155,7 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">To ensure that you get optimum performance, blazing fast loading speed and
-            impenetrable security for your website, we run flexible servers especially optimised for cPanel so that can
-            smoothly function with each other without causing any lagging or any kind of technical error causing
-            downtime to your website.</div>
+          <div class="accordion-body">In order to guarantee optimal performance, extremely fast loading speed, and robust security for your website, we operate versatile servers specifically optimized for cPanel. This enables seamless coordination among them, preventing any delays or technical glitches that could lead to downtime for your website.</div>
         </div>
       </div>
 
@@ -1184,15 +1168,11 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">The main difference Between cPanel VPS and cPanel hosting is the type of hosting
-            environment they provide. With cPanel VPS hosting, you get your own virtual private server, with dedicated
-            resources and full root access.
+          <div class="accordion-body">The primary distinction between cPanel VPS and cPanel hosting lies in the hosting environment they offer. In cPanel VPS hosting, you receive your own virtual private server that provides dedicated resources and complete root access.
             <br>
-            This means you have more control over your resources and can customize it to meet all your needs and
-            requirements. Whereas in cPanel hosting, your website is hosted on a shared server with other websites.
+            This grants you greater control over your resources, allowing customization to fulfill your specific needs and requirements. On the other hand, cPanel hosting involves hosting your website on a shared server alongside other websites.
             <br>
-            This means you have less control over your server’s resources and may not be able to install and run custom
-            software or applications.
+            Consequently, in cPanel hosting, you have less control over the server's resources and may encounter limitations in installing and running custom software or applications.
           </div>
         </div>
       </div>
@@ -1207,27 +1187,38 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, you can easily migrate your website from DirectAdmin to cPanel VPS servers,
-            thanks to our dedicated team of certified technical experts that works 24*7 to migrate your website’s data
-            on our quality servers as soon as possible without any data loss or errors.</div>
+          <div class="accordion-body">With the assistance of our dedicated team of certified technical experts, you can effortlessly transfer your website from DirectAdmin to cPanel VPS servers. Our team works around the clock to ensure a swift and seamless migration of your website's data to our reliable servers, minimizing the risk of any data loss or errors.
+            <br>
+            However, the duration of the migration process may vary depending on the size of your website's files. For instance, if you operate a large-scale e-commerce website with a substantial number of listed products, we take extra care during the migration, which might result in a slight delay.
+          </div>
         </div>
       </div>
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-            Do I need cPanel on my VPS?
+            I already have VPS hosting, but I want to switch to cPanel VPS. Any tips?
 
           </button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">If you are a beginner with no technical expertise then we will recommend you to
-            choose cPanel VPS server because of two reasons that are mentioned below-
-            <ul>
-              <li>- We are providing Managed cPanel VPS server</li>
-              <li>- cPanel works of Graphical user Interface.</li>
-            </ul>
+          <If class="accordion-body">If you have previously selected a different control panel for your websites, like DirectAdmin, CyberPanel, or any other widely used control panel in the market, your remaining option is to migrate your website to cPanel VPS servers, which are optimized for control panel functionality.
+          <br>
+          However, if you have recently purchased VPS servers and have not yet installed a control panel, you can effortlessly install cPanel.
+          </div>
+        </div>
+        <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingFive1">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseFive1" aria-expanded="false" aria-controls="flush-collapseFive1">
+            Do you offer a money-back guarantee?
+
+          </button>
+        </h2>
+        <div id="flush-collapseFive1" class="accordion-collapse collapse" aria-labelledby="flush-headingFive1"
+          data-bs-parent="#accordionFlushExample">
+          <If class="accordion-body">We provide a 30-days refund policy alongside our VPS Hosting packages. Our refund policy guarantees a complete reimbursement should you find our service unsatisfactory.
           </div>
         </div>
       </div>

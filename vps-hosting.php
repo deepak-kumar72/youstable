@@ -83,21 +83,21 @@ include('inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content">
           <p class="experience">Powerful VPS Hosting</p>
-          <h1 class="Banner-Heading padding-heading robust">Virtual Server for High Performance</h1>
-          <p class="Banner-title p-0">Easily manage your website on flexible VPS servers built with the latest hardware
-            technologies and experience.</p>
+          <h1 class="Banner-Heading padding-heading robust">Blazing Fast & Reliable
+          Managed VPS Hosting in India</h1>
+          <p class="Banner-title p-0">Effortlessly handle your website with flexible VPS servers in India with Local Data Center that incorporate cutting-edge hardware technologies, ensuring optimal performance.</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/1-IPv4-IP-Address.svg" alt="tick"
-                  class="tick-square"> 1 IPv4 IP Address</li>
+                  class="tick-square"> Easy to manage</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/US-NL-&-India-Locations.svg" alt="tick"
-                  class="tick-square"> US, NL & India Locations</li>
+                  class="tick-square">Easy to scale</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Easy-to-scale.svg" alt="tick"
-                  class="tick-square"> Easy to scale</li>
+                  class="tick-square">Indian Data Center</li>
               <li class="purple-text_dark"><img src="assets/img/newImages/Free-Migration_1.svg" alt="tick"
-                  class="tick-square"> Free Migration</li>
+                  class="tick-square">Free Migration</li>
             </ul>
           </div>
         </div>
@@ -163,23 +163,7 @@ include('inc/header.php');
 <section class="explore-section vps hosting-plan mt-4" id="explore">
   <div class="container">
     <div class="text-center margin-top-bottom ideak-choice">
-      <h2 class="server-heading shared-heading-plan">Choose the Best VPS Hosting Plan for Your Needs</h2>
-      <p class="server-title">Customise the Best KVM VPS hosting servers resources for your website as per your needs
-        <br>and make it ultra-smooth on the internet without any hidden or additional charges.
-      </p>
-    </div>
 
-
-    <div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab"
-          data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly"
-          aria-selected="true" tabindex="-1">1 Year</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab"
-          data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab"
-          aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab"
-          data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly"
-          aria-selected="false">1 Month</button></div>
     </div>
 
 
@@ -195,8 +179,8 @@ include('inc/header.php');
                 <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
                 <h4 class="hosting-heading">vStart</h4>
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1149</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>14.46</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>574</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>14.46</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <!--<p class="regular-price ">Regular price<span class="cross-price"> ₹11,590/month</span></p>-->
@@ -206,9 +190,9 @@ include('inc/header.php');
                   class="indian-host-price" target="_self" class="link-color-black"><button
                     class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a>
 
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=monthly"
                   class="usa-host-price" target="_self" class="link-color-black"><button
-                    class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a>
+                    class="btn-yellow exploreplan-btn" type="submit">Get Started</button></a> -->
 
                 <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
@@ -239,11 +223,35 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup(CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
-                <!--<div class="free_setup btn-yellow " bis_skin_checked="1">-->
-                <!--    <p class="m-0">50% Off</p>-->
-                <!--</div>-->
+                <div class="free_setup btn-yellow " bis_skin_checked="1">
+                   <p class="m-0">50% Off</p>
+                </div>
 
               </div>
             </div>
@@ -259,8 +267,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vProfessional</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1999</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>25.14</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>999</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>25.14</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <p></p>
@@ -271,10 +279,10 @@ include('inc/header.php');
                     type="submit">Get
                     Started</button></a>
 
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=monthly"
                   class="text-white usa-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
                 <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
@@ -305,11 +313,36 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support*</p>
+                  </div>
+
                 </div>
 
-                <!--<div class="free_setup btn-light-purple" bis_skin_checked="1">-->
-                <!--    <p class="m-0">50% Off</p>-->
-                <!--</div>-->
+                <div class="free_setup btn-light-purple" bis_skin_checked="1">-->
+                   <p class="m-0">50% Off</p>
+                </div>
 
               </div>
             </div>
@@ -322,8 +355,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading ">vPopular</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>3499</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>44.02</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1749</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>44.02</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -334,9 +367,9 @@ include('inc/header.php');
                   class="indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
                     Started</button></a>
 
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=monthly"
                   class="usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
                 <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
@@ -367,11 +400,35 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
-                <!--<div class="free_setup btn-yellow " bis_skin_checked="1"> -->
-                <!--    <p class="m-0">50% Off</p>-->
-                <!--</div>-->
+                <div class="free_setup btn-yellow " bis_skin_checked="1"> -->
+                   <p class="m-0">50% Off</p>
+                </div>
 
               </div>
             </div>
@@ -385,8 +442,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vStable</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>4699</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>59.11</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>2349</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>59.11</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -397,9 +454,9 @@ include('inc/header.php');
                   class="indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
                     Started</button></a>
 
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=monthly"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=monthly"
                   class="usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn" type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
                 <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
@@ -430,11 +487,37 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
-                <!--<div class="free_setup btn-yellow " bis_skin_checked="1">-->
-                <!--    <p class="m-0">50% Off</p>-->
-                <!--</div>-->
+               
+
+                <div class="free_setup btn-yellow " bis_skin_checked="1">
+                   <p class="m-0">50% Off</p>
+                </div>
 
               </div>
             </div>
@@ -455,7 +538,7 @@ include('inc/header.php');
 
                 <div class="price-container">
                   <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>804</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>10.12</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>10.12</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -465,13 +548,13 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=semiannually&promocode=VPS30"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=semiannually&promocode=VPS30"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>1 CPU</p>
@@ -499,6 +582,30 @@ include('inc/header.php');
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup(CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
                   </div>
                 </div>
 
@@ -522,7 +629,7 @@ include('inc/header.php');
 
                 <div class="price-container">
                   <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1399</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>17.59</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>17.59</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -532,11 +639,11 @@ include('inc/header.php');
                   class="text-white indian-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=semiannually&promocode=VPS30"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=semiannually&promocode=VPS30"
                   class="text-white usa-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
-                <div class="hosting_specification">
+                    Started</button></a> -->
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>2 CPU</p>
@@ -565,6 +672,31 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support*</p>
+                  </div>
+
                 </div>
 
                 <div class="free_setup btn-light-purple" bis_skin_checked="1">
@@ -583,7 +715,7 @@ include('inc/header.php');
 
                 <div class="price-container">
                   <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>2449</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>30.81</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>30.81</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -593,12 +725,12 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=semiannually&promocode=VPS30"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=semiannually&promocode=VPS30"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>4 CPU</p>
@@ -627,6 +759,30 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
                 <div class="free_setup btn-yellow " bis_skin_checked="1">
@@ -646,7 +802,7 @@ include('inc/header.php');
 
                 <div class="price-container">
                   <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>3289</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>41.37</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>41.37</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -656,12 +812,12 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=semiannually&promocode=VPS30"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=semiannually&promocode=VPS30"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>6 CPU</p>
@@ -689,6 +845,30 @@ include('inc/header.php');
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
                   </div>
                 </div>
 
@@ -716,8 +896,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vStart</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>574</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>7.23</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1149</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>7.23</p> -->
 
                   <p class="per_month">/month</p>
                 </div>
@@ -727,12 +907,12 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=annually&promocode=VPS50"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=341&billingcycle=annually&promocode=VPS50"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>1 CPU</p>
@@ -761,11 +941,35 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup(CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
-                <div class="free_setup btn-yellow " bis_skin_checked="1">
+                <!-- <div class="free_setup btn-yellow " bis_skin_checked="1">
                   <p class="m-0">50% Off</p>
-                </div>
+                </div> -->
 
               </div>
             </div>
@@ -781,8 +985,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vProfessional</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>999</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>12.57</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1999</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>12.57</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <p></p>
@@ -791,11 +995,11 @@ include('inc/header.php');
                   class="text-white indian-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=annually&promocode=VPS50"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=342&billingcycle=annually&promocode=VPS50"
                   class="text-white usa-host-price" target="_self"><button class="btn-purple exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
-                <div class="hosting_specification">
+                    Started</button></a> -->
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>2 CPU</p>
@@ -824,11 +1028,36 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSl all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support*</p>
+                  </div>
+
                 </div>
 
-                <div class="free_setup btn-light-purple" bis_skin_checked="1">
+                <!-- <div class="free_setup btn-light-purple" bis_skin_checked="1">
                   <p class="m-0">50% Off</p>
-                </div>
+                </div> -->
 
               </div>
             </div>
@@ -841,8 +1070,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vPopular</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>1749</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>22.01</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>3499</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>22.01</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <!--<p class="regular-price ">Regular price<span class="cross-price"> ₹11,590/month</span></p>-->
@@ -851,12 +1080,12 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=annually&promocode=VPS50"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=343&billingcycle=annually&promocode=VPS50"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>4 CPU</p>
@@ -885,6 +1114,30 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
                 <div class="free_setup btn-yellow " bis_skin_checked="1">
@@ -903,8 +1156,8 @@ include('inc/header.php');
                 <h4 class="hosting-heading">vStable</h4>
 
                 <div class="price-container">
-                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>2349</p>
-                  <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>29.55</p>
+                  <p class="hosting-price vps-price indian-host-price"><span class="hin-rs-1-1">₹</span>4699</p>
+                  <!-- <p class="hosting-price vps-price usa-host-price"><span class="hin-rs-1-1">$</span>29.55</p> -->
                   <p class="per_month">/month</p>
                 </div>
                 <!--<p class="regular-price ">Regular price<span class="cross-price"> ₹11,590/month</span></p>-->
@@ -913,12 +1166,12 @@ include('inc/header.php');
                   class="link-color-black indian-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
                     Started</button></a>
-                <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=annually&promocode=VPS50"
+                <!-- <a href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=344&billingcycle=annually&promocode=VPS50"
                   class="link-color-black usa-host-price" target="_self"><button class="btn-yellow exploreplan-btn"
                     type="submit">Get
-                    Started</button></a>
+                    Started</button></a> -->
 
-                <div class="hosting_specification">
+                    <div class="hosting_specification">
                   <div class="d-flex gap-2 specifications">
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>6 CPU</p>
@@ -947,6 +1200,30 @@ include('inc/header.php');
                     <img src="assets/img/speci-tick.png" class="specification-tick">
                     <p>Free Control Panel*</p>
                   </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Free SSL all Websites</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Firewall Setup (CSF)</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Optimised Smart Caching</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>Weekly 1 Snapshot</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>99.95% Uptime</p>
+                  </div>
+                  <div class="d-flex gap-2 specifications">
+                    <img src="assets/img/speci-tick.png" class="specification-tick">
+                    <p>24X7 Support</p>
+                  </div>
                 </div>
 
                 <div class="free_setup btn-yellow " bis_skin_checked="1">
@@ -966,23 +1243,7 @@ include('inc/header.php');
 
 
 <!--new list section-->
-<section class="new-list-section container">
-  <div class="text-center margin-top-bottom ideak-choice">
-    <h2 class="server-heading shared-heading-plan">All VPS Hosting Server Plans Come With</h2>
-    <p class="server-title">From professional business to enterprise, we've got you covered!</p>
-  </div>
-  <div class="container ">
 
-    <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons" />
-    <div class="new-list-sec">
-      <div class="row">
-        <div class="col-lg-3 list-imp">
-          <ul style="list-style: disc;">
-            <li class="support-list">24/7/365 Support</li>
-            <li class="support-list">SSH and SFTP Access</li>
-            <li class="support-list">Weekly Backup</li>
-            <li class="support-list">30-Day Money-Back</li>
-          </ul>
         </div>
         <div class="col-lg-3 list-imp">
           <ul style="list-style: disc;">
@@ -1018,9 +1279,7 @@ include('inc/header.php');
         </div>
       </div>
     </div>
-    <img src="assets/img/rocket-1.png" alt="rocket-icon" class="rocket-icons rocket-icons-1" />
-  </div>
-</section>
+
 <!--new list section-->
 
 
@@ -1029,33 +1288,11 @@ include('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
 
-      <div class="text-center">
-        <h2 class="ay_heading text-center mt-5">Why Choose YouStable for Your VPS Hosting Needs?</h2>
-        <p class="server-title title_sides_width pb-3">Our budget-friendly fast VPS server hosting comes with robust
-          features tailored to enhance your <br class="remove-mobile">website's speed, security, and stability, ensuring
-          top-notch quality without
-          compromise.</p>
         <!--<p class="server-title title_sides_width pb-3">Our services are backed by strong features that are especially focused on making your website more fast, secure and steady on the internet so that you can enjoy uncompromised quality.</p>-->
       </div>
       <div class="why-choose">
         <div class="row text-left">
-          <div class="col-lg-6">
 
-            <div class="d-flex gap-3 mt-5 align-items-center border-design-box">
-              <div> <img src="assets/img/nvme-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
-              <div>
-                <h5 class="why-heading">Powerful NVMe SSD</h5>
-                <p class="why-para">Get faster access and superior storage with NVMe Drives. Boost your
-                  website’s performance dramatically</p>
-              </div>
-            </div>
-            <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
-              <div> <img src="assets/img/ddos-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
-              <div>
-                <h5 class="why-heading">DDos Protected</h5>
-                <p class="why-para">With the industry’s best DDoS Protected VPS Servers, you can protect your website
-                  proactively from malicious</p>
-              </div>
             </div>
             <div class="d-flex gap-3 mt-2 align-items-center border-design-box">
               <div> <img src="assets/img/migration-icon-why.svg" class="icons-why" alt="nvme-ssd"></div>
@@ -1125,10 +1362,9 @@ include('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Powerful Features For Your Unstoppable Growth</span></h2>
-        <p class="server-title title_sides_width pb-3">We have equipped our servers with the most advanced features so
-          that you can experience both high performance and super security for your website because we understand the
-          value your data security</p>
+        <h2 class="ay_heading">Powerful features that will give you superpowers
+        </span></h2>
+        <p class="server-title title_sides_width pb-3">Our servers are equipped with state-of-the-art features to provide you with optimal performance and exceptional security for your website. We prioritize the importance of safeguarding your data.</p>
         <!--<p class="purple-text_dark see-yourself">See for yourself!</p>-->
         <P></P>
       </div>
@@ -1138,24 +1374,21 @@ include('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Root-access.svg" alt="root-access">
               <h5 class="ay-heading">Root Access</h5>
-              <p class="ay-title m-0 w-100">Full admin access allows you to manage your VPS hosting easily. It allows
-                you to authorise any modification on your website.</p>
+              <p class="ay-title m-0 w-100">With full administrative access, you can easily manage your VPS hosting. It grants you the authority to authorize any modifications to your website.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Free-Migration.svg" alt="free-migration">
               <h5 class="ay-heading">Free Migration</h5>
-              <p class="ay-title m-0 w-100">YouStable offers free migration of up to 5 GB of data to its Virtual Private
-                Servers with NVMe SSD drive and user-friendly control panel.</p>
+              <p class="ay-title m-0 w-100">YouStable provides a complimentary migration service for transferring data of up to 5 GB to its Virtual Private Servers, which are equipped with NVMe SSD drives and a user-friendly control</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Enhanced-Control-Panel.svg" alt="enhance-control-panel">
-              <h5 class="ay-heading">Enhanced Control Panel</h5>
-              <p class="ay-title m-0 w-100">Availability of multiple control panels like cPanel, DirectAdmin and more.
-                They give an enhanced user interface....</p>
+              <h5 class="ay-heading">Friendly Control Panel</h5>
+              <p class="ay-title m-0 w-100">Multiple control panels such as cPanel, DirectAdmin, and others are available, providing an improved user interface and enabling you to manage your hosting using a control</p>
             </div>
           </div>
         </div>
@@ -1164,24 +1397,21 @@ include('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Free-SSL-Cerificate.svg" alt="ssl">
               <h5 class="ay-heading">Let’s Encrypt SSL Certificates</h5>
-              <p class="ay-title m-0 w-100">Ensure the trustworthiness of your website and keep your customer’s data
-                safe. SSL adds to the authenticity of a website....</p>
+              <p class="ay-title m-0 w-100">Ensure the reliability of your website and safeguard your customers' data. SSL enhances the credibility of a website and enhances its ranking in SERP.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Guaranteed-Resources.svg" alt="granted-resources">
               <h5 class="ay-heading">Guaranteed Resources</h5>
-              <p class="ay-title m-0 w-100">Important resources like bandwidth, storage, RAM, and CPU have been
-                optimized to guarantee the best VPS Hosting.</p>
+              <p class="ay-title m-0 w-100">We have optimized important resources such as bandwidth, storage, RAM, and CPU to ensure & experience best VPS Hosting in India.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Monitoring-&-Alerts.svg" alt="monitoring-alerts">
               <h5 class="ay-heading">Monitoring & Alerts</h5>
-              <p class="ay-title m-0 w-100">Monitor your website and get important alerts and updates about our best VPS
-                hosting directly in your mailbox.</p>
+              <p class="ay-title m-0 w-100">Stay updated on your website's performance with timely alerts and receive valuable updates regarding our top-notch VPS hosting India straight to your email inbox.</p>
             </div>
           </div>
         </div>
@@ -1290,9 +1520,7 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">As you may infer from its name, managed VPS servers are specially designed for
-            beginners so that you can easily host, manage or modify your website on the high-quality KVM VPS servers
-            even if you have no technical knowledge.</div>
+          <div class="accordion-body">Indian VPS hosting refers to VPS hosting services provided by datacenters located in India. These datacenters have their servers housed within India, which can offer benefits such as lower latency, faster data transfer, and improved performance for websites targeting an Indian audience.</div>
         </div>
       </div>
 
@@ -1305,10 +1533,12 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">It totally depends upon your needs and requirements. For example, if you want your
-            server to be fast and quick, then you can choose Linux for your VPS servers because it is very lightweight,
-            making it quite fast. But Linux is not easy to use, so we will recommend you choose Windows OS, all thanks
-            to its GUI-based interface, which does not require any technical knowledge to operate.</div>
+          <div class="accordion-body">When choosing the operating system for your VPS server in India, it's essential to consider the preferences and requirements of the Indian audience.
+Here are a few popular operating systems to consider:
+
+Linux (Ubuntu, CentOS, Debian) to ensure reliability and flexibility.
+Windows to be compatible and compatibility with Microsoft techniques
+Choose based on your needs.</div>
         </div>
       </div>
 
@@ -1316,15 +1546,12 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingThree">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-            Is a managed VPS better than shared hosting?
+            How many IPs are included with VPS hosting?
           </button>
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, as the name suggests, the shared servers are distributed with multiple users
-            so the performance is too!! That’s why shared servers can not provide high performance to your website. But
-            VPS servers come with fixed resources so that you can enjoy the optimum and unrestricted performance for
-            your website.</div>
+          <div class="accordion-body">We provide one IP address with our standard VPS hosting plans. However, you have the option to obtain additional IPs by paying $5 per month. This will enable you to manage your website seamlessly and avoid any potential issues. For instance, if one of your IPs experiences a DDoS attack, you can quickly switch to a different IP address to bypass the attack.</div>
         </div>
       </div>
 
@@ -1332,29 +1559,36 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            Do you provide Windows VPS hosting?
+            Does VPS require a lot of technical knowledge?
           </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, our servers are flexible enough to let you enjoy any operating system or
-            application you want for your managed VPS hosting servers. Hence, no matter whether you are comfortable with
-            Linux, Windows or any other popular operating systems to manage your website, you can easily choose our VPS
-            hosting plans.</div>
+          <div class="accordion-body">The choice for your website depends on several factors. For instance, if you lack advanced technical knowledge, it is advisable to opt for managed VPS hosting servers in India as they come pre-customized. On the other hand, unmanaged servers demand a high level of technical expertise since you need to customize everything according to your specific requirements.</div>
         </div>
       </div>
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-            How many IPs are included with VPS hosting?
+            How do I Upgrade my VPS plan?
           </button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">We offer you 1 IP with our normal VPS hosting plans, but you can also get extra
-            IPs by paying $5/mo to manage your website easily without facing any issues. For example, if your one IP is
-            under a DDoS attack, then you can immediately switch to different IP to bypass that attack.</div>
+          <div class="accordion-body">We offer highly flexible hosting plans that allow you to effortlessly enhance the resources of your SSD VPS hosting plans in India, USA & Europe location. Just get in touch with our team of experts, and they will provide guidance at every step of your online journey.</div>
+        </div>
+      </div>
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingFive1">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseFive1" aria-expanded="false" aria-controls="flush-collapseFive1">
+            What is the money-back guarantee YouStable offers?
+          </button>
+        </h2>
+        <div id="flush-collapseFive1" class="accordion-collapse collapse" aria-labelledby="flush-headingFive1"
+          data-bs-parent="#accordionFlushExample">
+          <v class="accordion-body">We utilize high-performance servers that are equipped with top-of-the-line features, ensuring that you can enjoy optimal performance. Additionally, to provide you with assurance of our quality, we offer a 30-days money-back guarantee. This allows you to cancel our services at any time within the first 30 days if you are unsatisfied with the quality.</div>
         </div>
       </div>
 
