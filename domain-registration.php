@@ -313,7 +313,7 @@ include ('inc/header.php');
                         <!--<input type="text" class="form-control find-domain" placeholder="Enter a desired domain name here" aria-label="Selectlang" aria-describedby="basic-addon1">-->
                     </div>
                 </div>
-                <div class="row banner-col domain-col">
+                <!-- <div class="row banner-col domain-col">
                     <div class="col-md-4 dom ">
                         <div class="box-ribbon">
                             <span class="wdp-ribbon wdp-ribbon-two fade-in-text">Sale</span>
@@ -337,7 +337,7 @@ include ('inc/header.php');
                             <p class="usa-host-price">.XYZ $2.99</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-6">
                 <img class="domain-reg-img floatings" src="assets/img/domain-hero-image.png" alt="Banner" srcset="">
@@ -345,13 +345,105 @@ include ('inc/header.php');
         </div>
     </div>
 </section>
+<style>
+.domain-price{
+    border: 1px solid #cacaca;
+    border-radius: 18px;
+    transition: 0.3s;
+    padding: 20px;
+    height:300px;
+}
+.domain-price:hover{
+    transform: scale(1.03);
+    background: #fff !important;
+    box-shadow: 0px 5px 16px #ababab;
+    border: 1px solid #292929;
+}
+.btn-yellow1{
+    background-color: #ffc235;
+    padding: 10px 40px;
+    border: 1px solid #ffc235;
+    border-radius: 30px;
+}
+.btn-yellow2{
+    background-color: #fff;
+    padding: 10px 30px;
+    border: 1px solid #ffc235;
+    border-radius: 40px;
+}
+.btn-yellow1:hover{
+    background: #292929;
+    color: #fff;
+}
+.btn-yellow2:hover{
+    background-color:#ffc235;
+}
+.plan-name{
+    font-weight:800;
+    font-size:35px
+}
+
+
+</style>
+<div class="container">
+    <div class="">
+        <h2 class="ay_heading">Domain Extensions-On Demand</h2>
+        <p class="server-title text-center">Looking for gTLD, sTLD & ccTLD domian name extension? YouStable has got it all for you.<br>
+        Take a look at some of the most famous Domain name extensions.</p>
+        <div class="row mb-5">
+            <div class=col-md-4>
+                <div class="text-center domain-price">
+                    <h4 class="plan-name">
+                        .com
+                    </h4>
+                    <p>
+                    The most recognised Domain extension stands for Component Object Model and it was introduced by Microsoft in 1993.
+                    </p>
+                    <h3>₹873</h3>
+                    <div class="mt-4">
+                    <a href=""><button class="btn-yellow1 ">Register</button></a>
+                    <a href=""><button class="btn-yellow2 ">Transfer</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class=col-md-4>
+                <div class="text-center domain-price">
+                    <h4 class="plan-name">
+                    .CO.IN
+                    </h4>
+                    <p>
+                    CO.IN is a country code domain extension. Fulfill various business criteria's by using it.
+                    </p>
+                    <h3>₹476</h3>
+                    <div class="mt-4">
+                    <a href=""><button class="btn-yellow1 ">Register</button></a>
+                    <a href=""><button class="btn-yellow2 ">Transfer</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class=col-md-4>
+                <div class="text-center domain-price">
+                    <h4 class="plan-name">
+                        .online
+                    </h4>
+                    <p>.online a top-level domain since 2014. The user often uses this generic domain to get their website a proper domain name.</p>
+                    <h3>₹714</h3>
+                    <div class="mt-4">
+                    <a href=""><button class="btn-yellow1 ">Register</button></a>
+                    <a href=""><button class="btn-yellow2 ">Transfer</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <!--<div id="apiData"></div>-->
 
 <!--free service-->
 
-<section class="awesome-youstable affiliate-two affiliate-domain">
+<!-- <section class="awesome-youstable affiliate-two affiliate-domain">
     <div class="container">
         <div class="right-cols-awesome">
             <div class="text-center">
@@ -408,7 +500,7 @@ include ('inc/header.php');
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!--free service-->
 
@@ -418,68 +510,11 @@ include ('inc/header.php');
         <div class="row why-buy-domain-one">
             <div class="col-lg-6">
                 <div class="why-serve-domain">
-                    <h3>Why buy Domain from YouStable?</h3>
+                    <h3>The Top Domain Extensions, You Can Choose From
+                    </h3>
                 </div>
                 <div class="d-flex gap-3 lists-hosting">
-                    <ul class="banner-list list-unstyled">
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">Firstly, YouStable is the
-                                    Leading Domain Registrar with a decade of experience in serving over 20+ thousand
-                                    clients with around 80+thousand domains.</li>
-                            </div>
-                        </div>
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">No Wonders Clients Trust Us!
-                                    Thanks to our <a href="https://www.youstable.com/privacy-policy.php"
-                                        target="_blank">Free Domain Privacy**</a>.</li>
-                            </div>
-                        </div>
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">Talk to Our Support Staff at
-                                    your preferred language whenever you have a problem! Get 24/7 LiveChat and Phone
-                                    Support.</li>
-                            </div>
-                        </div>
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">Instant Domain SetUp! No need
-                                    of any Tech Expertise to operate the service.</li>
-                            </div>
-                        </div>
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">Get over 800+ Domain
-                                    Extension. Choose One as per your likeness. </li>
-                            </div>
-                        </div>
-                        <div class="d-flex dedicate-mumbai-li">
-                            <div>
-                                <span class="tick-top-features"><img src="assets/img/tick-top-features.png"></span>
-                            </div>
-                            <div>
-                                <li class="purple-text_dark mb-3 service-lines" style="color: #292929;">Up to 100 subdomains to create
-                                    a custom web address.</li>
-                            </div>
-                        </div>
-                    </ul>
+                    <p class="server-title">You know it’s all yours, don't you? Register, Transfer or Renew your domain name whenever and however you want!</p>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -603,6 +638,86 @@ include ('inc/customer-reviews.php');
                         otherwise, you will have to continue with the same after registration.</div>
                 </div>
             </div>
+
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive1">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive1" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Can I Transfer A Domain I Already Own To Youstable?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive1" class="accordion-collapse collapse" aria-labelledby="flush-headingFive1"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Yes, YouStable provides Domain Transfer services.</div>
+                </div>
+            </div>
+
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive2">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive2" aria-expanded="false" aria-controls="flush-collapseFour">
+                        How Do I Search If My Domain Name Is Available To Be Registered?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive2" class="accordion-collapse collapse" aria-labelledby="flush-headingFive2"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">The search box mentioned at the start of this webpage will help you in searching for a domain name and let you know if it's available in the market or not.</div>
+                </div>
+            </div>
+
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive3">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive3" aria-expanded="false" aria-controls="flush-collapseFour">
+                        How Do I Choose The Perfect Domain?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive3" class="accordion-collapse collapse" aria-labelledby="flush-headingFive3"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">The search box mentioned at the start of this webpage will help you in searching for a domain name and let you know if it's available in the market or not.There are some aspects you need to keep in mind to decide on a perfect domain name for yourself. Those things are like choosing a short domain name. In this case, the lesser, the better! Incorporate your brand name, research before deciding, think as per your targetted and local audience, and in the last, decide quickly and act even more quick to lay your hands on your desired and decided domain!</div>
+                </div>
+            </div>
+
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive4">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive4" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Can I register more than one Domain Name at a time?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive4" class="accordion-collapse collapse" aria-labelledby="flush-headingFive4"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">As soon as you register your domain name, you will receive a mail of successful registration from YouStable to let you know about the completion and implementation of the process.</div>
+                </div>
+            </div>
+
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive5">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive5" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Can I modify the DNS server information?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive5" class="accordion-collapse collapse" aria-labelledby="flush-headingFive5"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Go to the YouStable domain management dashboard and modify the DNS server information according to your needs.</div>
+                </div>
+            </div>
+
+            
+            <div class="accordion-item faq-items">
+                <h2 class="accordion-header" id="flush-headingFive6">
+                    <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive6" aria-expanded="false" aria-controls="flush-collapseFour">
+                        What is domain privacy, and do I need it?
+                    </button>
+                </h2>
+                <div id="flush-collapseFive6" class="accordion-collapse collapse" aria-labelledby="flush-headingFive6"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Domain privacy protects your personal details from anyone who searches about your domain, safeguarding all confidential information. Yes, you need it to keep your website and your business safe!</div>
+                </div>
+            </div>
+
         </div>
     </div>
 
