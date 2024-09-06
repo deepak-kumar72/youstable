@@ -1,6 +1,6 @@
 <?php
 $page = 'cyberpanel-vps';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <style>
@@ -89,32 +89,31 @@ include ('inc/header.php');
     <div class="row align-items-center reverse-column">
       <div class="col-md-6">
         <div class="banner-left-content">
-          <p class="experience">Preinstalled CyberPanel VPS With Addons</p>
-          <h1 class="Banner-Heading padding-heading robust">Premium CyberPanel VPS</h1>
-          <p class="Banner-title p-0">Control Panel that comes with Open LiteSpeed, WordPress Manager, Staging and
-            Backup for ultimate performance.</p>
+          <p class="experience"> Included with VPS Hosting</p>
+          <h1 class="Banner-Heading padding-heading robust">Fast,Easy & Secure CyberPanel VPS Hosting</h1>
+          <p class="Banner-title p-0">Get a preconfigured CyberPanel VPS server in India with instant setup. Benefit
+            from our CyberPanel Addons, including easy backup, OpenLiteSpeed, and restore features.</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/open-litespeed.svg" alt="tick"
-                  class="tick-square">Open LiteSpeed Optimised VPS</li>
+                  class="tick-square">OpenLiteSpeed Optimised VPS</li>
               <li class="purple-text_dark"><img src="assets/img/easy-to-manage-control-panel.svg" alt="tick"
-                  class="tick-square">Easy to Manage Control Panel</li>
+                  class="tick-square">1 IPv4 Dedicated IP</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/managed-security-modules.svg" alt="tick"
-                  class="tick-square">Managed Security Modules</li>
-              <li class="purple-text_dark"><img src="assets/img/scalability.svg" alt="tick"
-                  class="tick-square">Easy Scalability of resources</li>
+                  class="tick-square">Easy Scalability for Resources</li>
+              <li class="purple-text_dark"><img src="assets/img/scalability.svg" alt="tick" class="tick-square">Indian
+                Data Center</li>
             </ul>
           </div>
         </div>
-        <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore"><button class="btn-yellow btn-explore-plan">Start Now <i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/cyberpanel-VPS-hero-image.png"
-          alt="Banner" srcset="">
+        <img class="banner_img floatings" src="assets/img/cyberpanel-VPS-hero-image.png" alt="Banner" srcset="">
       </div>
     </div>
   </div>
@@ -171,18 +170,25 @@ include ('inc/header.php');
 <section class="explore-section vps hosting-plan " id="explore">
   <div class="container">
     <div class="text-center margin-top-bottom ideak-choice">
-      <h2 class="server-heading shared-heading-plan">Pick the Best CyberPanel VPS Hosting plan</h2>
-      <p class="server-title">You were looking for CyberPanel VPS Hosting; we got that and a lot more for you!.</p>
+      <h2 class="server-heading shared-heading-plan">Best And Affordable CyberPanel VPS Hosting in India</h2>
+      <p class="server-title">Are you in need of CyberPanel VPS Hosting? We have exactly what you're looking for, and
+        even more!</p>
     </div>
 
 
 
 
 
-<div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab" data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly" aria-selected="true" tabindex="-1">1 Year</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab" aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly" aria-selected="false">1 Month</button></div>
+    <div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly"
+          aria-selected="true" tabindex="-1">1 Year</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab"
+          aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly"
+          aria-selected="false">1 Month</button></div>
     </div>
 
 
@@ -935,86 +941,43 @@ include ('inc/header.php');
 
 
 
-<!--Feature in Market-->
 
-<section class="awesome-youstable affiliate-two affiliate-four">
-  <div class="container">
-    <div class="right-cols-awesome">
-      <div class="text-center">
-        <h2 class="ay_heading">CyberPanel VPS Premium Add-ons​</span></h2>
-        <p class="server-title title_sides_width pb-3">YouStable, in partnership with CyberPanel, is thrilled to boost
-          your CP VPS experience by adding Premium Addon options at Zero Cost. Get top-performing features & enhance
-          your web presence Now!</p>
-      </div>
-      <div class="why-choose">
-        <div class="row text-left">
-          <div class="col-md-4 cols">
-            <div class="feature_cols_dedicated">
-              <img src="assets/img/servers/Auto-login.svg" alt="nvme-ssd" class="python-feature">
-              <div class="border-box">
-                <h5 class="ay-heading">Auto Login</h5>
-                <p class="ay-title m-0 w-100">Finding it Challenging to Recall Your Login Credentials? Do not worry!
-                  CyberPanel VPS hosting service does away with such issues as here, we offer an amazing Auto Login
-                  feature ensuring VPS Hosting account accessibility 24/7.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 cols-awesome-youstable">
-            <div class="feature_cols_dedicated">
-              <img src="assets/img/servers/1-click-backups.svg" alt="ddos-protected" class="python-feature">
-              <div class="border-box">
-                <h5 class="ay-heading">1 Click Backups</h5>
-                <p class="ay-title m-0 w-100">Anxious about your Archival Data? CyberPanel VPS hosting solution allows
-                  you to Retrieve your crucial website Data with the Single Click BackUp option, thereby assuring swift
-                  & secure access to your BackUp data with minimum risk.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 cols-awesome-youstable">
-            <div class="feature_cols_dedicated">
-              <img src="assets/img/servers/1-Click-Staging-Sites.svg" alt="migration" class="python-feature">
-              <div class="border-box">
-                <h5 class="ay-heading">1 Click Staging Sites</h5>
-                <p class="ay-title m-0 w-100">Develop a Staging Site simply in just One Click to Check How your Post
-                  will look when it Goes live. CyberPanel’s Staging Site provides a testing ground for your Post before
-                  actually Publishing it online.</p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- Operating system -->
 <section class="operating-sytems operating-sytems-one">
   <div class="container">
     <div class="text-center">
-      <h2 class="Banner-Heading">Maximum Operating System Support!</h2>
-      <p class="operating-title-width"> YouStable offers custom operating system installation support! No matter which
-        OS you need in our<br class="remove-mobile"> CyberPanel VPS hosting server, YouStable has got it all for you.
+      <h2 class="Banner-Heading">Available Operating Systems</h2>
+      <p class="operating-title-width"> Manage your website effortlessly without any limitations, thanks to the seamless
+        compatibility of our Indian<br class="remove-mobile"> VPS servers with your preferred operating system. Our
+        servers are designed to work smoothly with all <br>operating systems currently available in the market.
       </p>
       <div class="row">
-        <div class="col-md-4 server-cols">
+        <div class="col-md-4 server-cols pb-4">
           <div class="bg-lt-blacks">
             <img src="assets/img/servers/almalinux.svg" alt="open cart" class="">
           </div>
         </div>
-        <div class="col-md-4 server-cols">
+        <div class="col-md-4 server-cols pb-4">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/rocky.svg" alt="open cart" class="">
+            <img src="https://youstable.in/assets/img/os/centos.png" alt="open cart" class="">
           </div>
         </div>
-        <div class="col-md-4 server-cols">
+        <div class="col-md-4 server-cols pb-4">
           <div class="bg-lt-blacks">
             <img src="assets/img/servers/ubuntu.svg" alt="open cart" class="">
           </div>
         </div>
-
+        <div class="col-md-4 server-cols pb-4">
+          <div class="bg-lt-blacks">
+            <img src="https://youstable.in/assets/img/os/windows.png" alt="open cart" class="">
+          </div>
+        </div>
+        <div class="col-md-4 server-cols pb-4">
+          <div class="bg-lt-blacks">
+            <img src="https://youstable.in/assets/img/os/debian.png" alt="open cart" class="">
+          </div>
+        </div>
       </div>
     </div>
 
@@ -1034,9 +997,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Configured CyberPanel VPS Hosting Features</span></h2>
-        <p class="server-title title_sides_width pb-3">Industry-leading technology with faster loading sites, YouStable
-          is ready to support you in all ways.</p>
+        <h2 class="ay_heading">CyberPanel VPS Hosting Features</span></h2>
+        <p class="server-title title_sides_width pb-3">YouStable offers cutting-edge technology for faster loading
+          websites, and we are fully equipped to provide comprehensive support in every aspect</p>
         <!--<p class="purple-text_dark see-yourself">See for yourself!</p>-->
         <P></P>
       </div>
@@ -1046,24 +1009,25 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Free-and-open-source.svg" alt="root-access">
               <h5 class="ay-heading">Free and Open Source</h5>
-              <p class="ay-title m-0 w-100">The first open-source control panel that supports LiteSpeed Enterprise and
-                OpenLiteSpeed- CyberPanel. Manage your hosting quite easily.</p>
+              <p class="ay-title m-0 w-100">CyberPanel, the pioneering open-source control panel that offers seamless
+                management of LiteSpeed Enterprise and OpenLiteSpeed. Easily handle your hosting needs with CyberPanel
+              </p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Install-with-one-click.svg" alt="free-migration">
-              <h5 class="ay-heading">Install with one click</h5>
-              <p class="ay-title m-0 w-100">Offer one-click setup for well-known frameworks like WordPress, Joomla,
-                Drupal, Mautic, and many other CMS platforms.</p>
+              <h5 class="ay-heading">1-Click CyberPanel Install</h5>
+              <p class="ay-title m-0 w-100">Provide one-click installation for popular frameworks such as WordPress,
+                Joomla, Drupal, Mautic, and various other content management system (CMS) platforms.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Let's-Encrypt-SSL.svg" alt="enhance-control-panel">
               <h5 class="ay-heading">Let's Encrypt SSL</h5>
-              <p class="ay-title m-0 w-100">CyberPanel VPS Hosting will automatically renew your Certificates before
-                they expire because auto-renewal is activated by default!</p>
+              <p class="ay-title m-0 w-100">CyberPanel VPS Hosting has default auto-renewal activated to ensure that
+                your Certificates are automatically renewed before they expire!</p>
             </div>
           </div>
         </div>
@@ -1071,25 +1035,26 @@ include ('inc/header.php');
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/cache-LiteSpeed.svg" alt="ssl">
-              <h5 class="ay-heading">Cache LiteSpeed</h5>
-              <p class="ay-title m-0 w-100">On a Litespeed server, the LSCache plugin is unmatched. Your websites will
-                load quickly using page and server-level caching!</p>
+              <h5 class="ay-heading">
+                Cache LiteSpeed</h5>
+              <p class="ay-title m-0 w-100">The LSCache plugin is unparalleled on a Litespeed server. It ensures fast
+                loading times for your websites through efficient page and server-level caching.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Unlimited-installations.svg" alt="granted-resources">
               <h5 class="ay-heading">Unlimited installations</h5>
-              <p class="ay-title m-0 w-100">There are no restrictions on the number of installations or websites under
+              <p class="ay-title m-0 w-100">There are no limitations on the number of installations or websites within
                 the free CyberPanel control panel.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Monitor-Easy-Resources.svg" alt="monitoring-alerts">
-              <h5 class="ay-heading">Monitor Easy Resources</h5>
-              <p class="ay-title m-0 w-100">You have the authority to restart the LiteSpeed server or suspend the
-                problematic website. You can also check the usage of your CPU, memory, and disc usage anytime.</p>
+              <h5 class="ay-heading">Easy Monitoring</h5>
+              <p class="ay-title m-0 w-100">You have the ability to initiate a restart of the LiteSpeed server or
+                suspend the troublesome website. You can also monitor your CPU, memory, and disk usage at any time. </p>
             </div>
           </div>
         </div>
@@ -1108,9 +1073,10 @@ include ('inc/header.php');
   <div class=" container">
     <div class="bg-purple purple" style="background: #fff;">
       <div class="text-center">
-        <h2 class="server-heading">Industry-leading Technologies For Your Website!!</h2>
-        <p class="server-title title_sides-width">YouStable relies on the most renowned and trusted technologies to
-          provide better and<br class="remove-mobile">unbeatable services</p>
+        <h2 class="server-heading">Technologies YouStable Works With</h2>
+        <p class="server-title title_sides-width">We are committed to delivering top-notch hosting in India by
+          harnessing industry-leading technologies that will <br class="remove-mobile">optimize your website's speed to
+          the fullest.</p>
         <div class="width-slider">
           <div class="row autoplay autoplay_slider">
             <div class="col-lg-3 server-cols">
@@ -1151,38 +1117,38 @@ include ('inc/header.php');
 </section>
 
 <!--Review section-->
-  <section class="hosting-rating hosting-review">
-    <div class="container">
+<section class="hosting-rating hosting-review">
+  <div class="container">
 
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
-            </span>
-        </div>
-           <?php include ('animate-text.php')?>
-
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
-                <img src="assets/img/wave-yellow.png" class="floating">
-            </span>
-        </div>
-
-
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-circle.png" class="movingcloud">
+      </span>
     </div>
+    <?php include('animate-text.php') ?>
+
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-wave.png" class="movingclouds">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
+        <img src="assets/img/wave-yellow.png" class="floating">
+      </span>
+    </div>
+
+
+  </div>
 </section>
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 
@@ -1190,7 +1156,7 @@ include ('inc/customer-reviews.php');
 <!--(FAQ)-->
 <section class="faq faq-1">
   <div class="container">
-    <h2 class="text-center faq-question">FAQs</h2>
+    <h2 class="text-center faq-question">Frequently Asked Questions</h2>
     <div class="accordion accordion-flush" id="accordionFlushExample">
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingOne">
@@ -1201,10 +1167,13 @@ include ('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">VPS Stands for Virtual Private Server. With CyberPanel VPS hosting you get a
-            private space for your site. In other words, when you get a separate space in a dedicated server it is said
-            to be VPS Hosting. You can find Cheap CyberPanel VPS hosting for your site, but for that, you need to do an
-            in-depth research. Here are the most important features of reliable CyberPanel VPS hosting.</div>
+          <div class="accordion-body">CyberPanel VPS hosting utilizes the CyberPanel control panel that is installed on
+            the Virtual Private Server (VPS). It has an intuitive interface for web site management as well as server
+            resource control. With features such as the one-click WordPress installing, LiteSpeed web server, integrated
+            email management, as well as security measures CyberPanel VPS hosting offers the most efficient hosting
+            experience. <br>Users can manage databases, domains and email accounts, as well as monitor server resources
+            and ensure maximum performance for their websites. It's a great option for both businesses and individuals
+            who want a straightforward but effective control panel to manage their VPS hosting requirements.</div>
         </div>
       </div>
 
@@ -1212,14 +1181,44 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingTwo">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-            How many inodes for CyberPanel VPS hosting?
+            How to setup CyberPanel manually on VPS Server?
           </button>
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">The best part about YouStable is, we do not place any limits on Inode. It totally
-            depends upon the specifications of the server. There’s no limit on Inode making YouStable one of the best
-            CyberPanel VPS hosting providers available on the internet.</div>
+          <div class="accordion-body">
+            Follow these steps to set-up your Virtual Private Server (VPS):
+
+            Purchase the best CyberPanel VPS hosting for your site
+            <ul style="margin-left:30px;">
+
+              <li style="list-style-type:disc;">
+                Root Access Login
+              </li>
+              <li style="list-style-type:disc;">
+                Install the Operating System of your choice
+              </li style="list-style-type:disc;">
+              <li style="list-style-type:disc;">Install Web Server
+              </li>
+              <li style="list-style-type:disc;">Install Database of your choice
+              </li>
+              <li style="list-style-type:disc;">Install PHP with the most compatible version.</li>
+            </ul>
+            Add a new user to your VPS server in just 5 steps. <ul style="margin-left:30px;">
+
+              <li style="list-style-type:disc;">
+                Step 1: Login in to your VPS through SSH
+              </li>
+              <li style="list-style-type:disc;">
+                Step 2: Update your server configurations
+              </li style="list-style-type:disc;">
+              <li style="list-style-type:disc;">Step 3: Create a new user
+              </li>
+              <li style="list-style-type:disc;">Step 4: Enable Public key authentication
+              </li>
+              <li style="list-style-type:disc;">Step 5: Set up your Firewall.</li>
+            </ul>
+          </div>
         </div>
       </div>
 
@@ -1227,47 +1226,19 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingThree">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-            What is CyberPanel VPS hosting used for?
+            Does YouStable offer CyberPanel VPS hosting with root access?
           </button>
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">YouStable recommends CyberPanel VPS hosting when you need better reliability,
-            dedicated resources, dedicated IP, better efficiency, improved performance, easily scalable resources and
-            most important fully self managed VPS Hosting KVM.</div>
+          <div class="accordion-body">TYes, YouStable provides VPS hosting with complete root access, allowing you to
+            have a completely unrestricted and isolated environment. You have the freedom to install your preferred
+            operating system, along with essential components such as PHP, a database, and a web server. YouStable
+            offers VPS hosting with root access to guarantee a premium private space at affordable rates.</div>
         </div>
       </div>
 
-      <div class="accordion-item faq-items">
-        <h2 class="accordion-header" id="flush-headingFour">
-          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            Does YouStable offer CyberPanel VPS hosting with root access?
-          </button>
-        </h2>
-        <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
-          data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes. YouStable offers full root access VPS which gives you a totally open and
-            separate environment. You can even install the operating system of your choice, all the essentials like PHP,
-            Database, & Web Server. YouStable offers VPS hosting with root access to ensure that you get premium private
-            space at afforable prices.</div>
-        </div>
-      </div>
-      <div class="accordion-item faq-items">
-        <h2 class="accordion-header" id="flush-headingFive">
-          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-            How to point my domain to YouStable VPS hosting?
-          </button>
-        </h2>
-        <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
-          data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">When you purchase KVM VPS hosting from YouStable, we will send you an email and in
-            that email, you will get 3 important details: Username, Password and IP. This IP will help you point your
-            domain to YouStable. You have to copy-paste that IP in your DNS settings. And this will redirect your VPS
-            hosting server to your Domain.</div>
-        </div>
-      </div>
+
 
     </div>
   </div>
@@ -1275,39 +1246,41 @@ include ('inc/customer-reviews.php');
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">Have Concerns?</h2>
+          <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
+            24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>
