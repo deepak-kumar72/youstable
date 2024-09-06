@@ -1,6 +1,6 @@
 <?php
 $page = 'directadmin-vps';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <style>
@@ -79,29 +79,31 @@ include ('inc/header.php');
     <div class="row align-items-center reverse-column cpanel-power cpanel-two">
       <div class="col-md-6">
         <div class="banner-left-content">
-          <p class="experience">DirectAdmin VPS Hosting</p>
-          <h1 class="Banner-Heading padding-heading robust">Fast, Secure DirectAdmin VPS</h1>
-          <p class="Banner-title p-0">Premium Control Panel is for free with YouStable’s VPS Hosting. Experience the
-            latest technology hosting with YouStable.</p>
+          <p class="experience"> 15% Discount first annual purchase</p>
+          <h1 class="Banner-Heading padding-heading robust">DirectAdmin VPS Hosting
+            Managed NVMe SSD VPS for Opensource Apps</h1>
+          <p class="Banner-title p-0">Explore the immense expanse of the Open Source Universe, which our DirectAdmin VPS
+            Hosting Plans offer to you with speed, stability, and security!</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/cutting-edge-technology.svg" alt="tick"
-                  class="tick-square">Cutting-Edge Technology
+                  class="tick-square">Multilangual Interface
 
               </li>
-              <li class="purple-text_dark"><img src="assets/img/stability.svg" alt="tick"
-                  class="tick-square">Stability</li>
+              <li class="purple-text_dark"><img src="assets/img/stability.svg" alt="tick" class="tick-square">Friendly
+                Control Panel
+              </li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3"><img src="assets/img/NVMeSSD-Drive.svg" alt="tick"
-                  class="tick-square">NVMe SSD Drive
+                  class="tick-square">Cutting-Edge Technologies
               </li>
-              <li class="purple-text_dark"><img src="assets/img/easy-to-manage.svg" alt="tick"
-                  class="tick-square">Easy to Manage</li>
+              <li class="purple-text_dark"><img src="assets/img/easy-to-manage.svg" alt="tick" class="tick-square">Easy
+                Scalability of resources</li>
             </ul>
           </div>
         </div>
-        <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore"><button class="btn-yellow btn-explore-plan"> Start Now <i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
@@ -171,10 +173,16 @@ include ('inc/header.php');
 
 
 
-<div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab" data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly" aria-selected="true" tabindex="-1">1 Year</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab" aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
-      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab" data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly" aria-selected="false">1 Month</button></div>
+    <div class="row nav nav-pills wid-more" id="pills-tab" role="tablist" style="padding: 4px;">
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked active" id="pills-monthly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-yearly" type="button" role="tab" aria-controls="pills-monthly"
+          aria-selected="true" tabindex="-1">1 Year</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked" id="pills-half-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-half-yearly" type="button" role="tab"
+          aria-controls="pills-half-yearly" aria-selected="false" tabindex="-1">6 Month</button></div>
+      <div class="col-lg-4 nav-button-plans"><button class="nav-link nav-linked " id="pills-yearly-tab"
+          data-bs-toggle="pill" data-bs-target="#pills-monthly" type="button" role="tab" aria-controls="pills-yearly"
+          aria-selected="false">1 Month</button></div>
     </div>
 
 
@@ -948,6 +956,23 @@ include ('inc/header.php');
 </section>
 
 
+<div class="container customer-support-container">
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">You Can also Install DirectAdmin for Yourself on CentOS now!</h2>
+          <p class="server-titles py-4">Manage your server effortlessly by Installing DirectAdmin Hosting Panel. You may
+            also configure the server with the default Apache Server or OpenLiteSpeed by setting them up.</p>
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="https://youstable.in/assets/images/plan-host.svg" height="300px">
+      </div>
+    </div>
+  </section>
+</div><br>
+
 <!--direct admin-->
 <!-- <section class="direct-admin-box">
   <div class="container">
@@ -976,9 +1001,9 @@ include ('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">Configured DirectAdmin VPS Hosting Features</h2>
-        <p class="server-title title_sides_width pb-3">Industry-leading technology with faster loading sites, YouStable
-          is ready to support you in all ways.</p>
+        <h2 class="ay_heading">DirectAdmin VPS Hosting Features</h2>
+        <p class="server-title title_sides_width pb-3">With its cutting-edge technology and accelerated site loading,
+          YouStable stands out in the <br> industry and is fully prepared to provide comprehensive support.</p>
         <!--<p class="purple-text_dark see-yourself">See for yourself!</p>-->
         <P></P>
       </div>
@@ -988,24 +1013,30 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Easy-of-use.svg" alt="root-access">
               <h5 class="ay-heading">Ease of Use</h5>
-              <p class="ay-title m-0 w-100">The easiest to use control panel with VPS hosting. By simply clicking a
-                button, design layouts can be changed....</p>
+              <p class="ay-title m-0 w-100">The control panel for VPS hosting is designed to be incredibly
+                user-friendly. With just a single click, you can modify design layouts, allowing for swift and
+                effortless alterations to the interface. This control panel offers intuitive tools that are accessible
+                and easy to operate, even for individuals without extensive technical knowledge.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Lightweight-speed.svg" alt="free-migration">
               <h5 class="ay-heading">Lightweight Speed</h5>
-              <p class="ay-title m-0 w-100">One of the fastest and most lightweight running control panels on the
-                market. Due to this, DirectAdmin is perfect for a variety of systems, including VPS units.</p>
+              <p class="ay-title m-0 w-100">DirectAdmin is widely recognized as one of the swiftest and most
+                resource-efficient running control panels available today. Its exceptional speed makes it an ideal
+                choice for various systems, including VPS units. We encourage you to personally experience the notable
+                disparity in performance by giving DirectAdmin a try.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Everlasting-Stability.svg" alt="enhance-control-panel">
               <h5 class="ay-heading">Everlasting Stability</h5>
-              <p class="ay-title m-0 w-100">DirectAdmin prevents downtime by automatically repairing itself after
-                crashes and notifying the system administrator for further action.</p>
+              <p class="ay-title m-0 w-100">DirectAdmin utilizes automated self-repair mechanisms to mitigate downtime
+                caused by crashes, while also promptly notifying the system administrator for necessary follow-up
+                actions. It functions as a comprehensive standalone control panel, enabling administrators to
+                efficiently manage service upgrades, downgrades, libraries, and more.</p>
             </div>
           </div>
         </div>
@@ -1014,24 +1045,28 @@ include ('inc/header.php');
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Free-Migration.svg" alt="ssl">
               <h5 class="ay-heading">Free Migration</h5>
-              <p class="ay-title m-0 w-100">YouStable provides free migration facilities to its DirectAdmin VPS Hosting
-                users. You can easily transfer your website from your previous hosting providers...</p>
+              <p class="ay-title m-0 w-100">YouStable offers free migration services to its DirectAdmin VPS Hosting
+                users. You can effortlessly move your website from your previous hosting providers to ours, without any
+                loss of data! Simply get in touch with our technical support team, and they will take care of the rest.
+              </p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/Highly-scalable.svg" alt="granted-resources">
               <h5 class="ay-heading">Highly Scalable</h5>
-              <p class="ay-title m-0 w-100">You can easily scale your server's configurations and increase or decrease
-                the resources per your requirements.</p>
+              <p class="ay-title m-0 w-100">You have the flexibility to easily adjust your server's configurations,
+                increasing or decreasing resources based on your specific needs. As the owner of your hosting, you will
+                have access to all the necessary facilities, enabling you to have a seamless experience.</p>
             </div>
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
               <img src="assets/img/servers/24x7-customer-support.svg" alt="monitoring-alerts">
               <h5 class="ay-heading">24*7 Customer Support</h5>
-              <p class="ay-title m-0 w-100">There’s no need to worry when you’re working with YouStable. Get technical,
-                and all other hosting supports at any time of the day or night.</p>
+              <p class="ay-title m-0 w-100">When you work with YouStable, there's no need to worry. They provide
+                round-the-clock technical support for hosting, as well as support in Hindi and English. YouStable offers
+                various communication options, including phone calls, chat, email, and tickets.</p>
             </div>
           </div>
         </div>
@@ -1045,9 +1080,10 @@ include ('inc/header.php');
 <section class="operating-sytems operating-sytems-one">
   <div class="container">
     <div class="text-center">
-      <h2 class="Banner-Heading">Maximum Operating System Support!</h2>
-      <p class="operating-title-width"> YouStable offers custom operating system installation support! No matter which
-        OS you need in our<br class="remove-mobile"> CyberPanel VPS hosting server, YouStable has got it all for you.
+      <h2 class="Banner-Heading">Maximum Available Operating Systems</h2>
+      <p class="operating-title-width"> Manage your website effortlessly without any limitations, thanks to the seamless
+        compatibility of our Indian<br class="remove-mobile"> VPS servers with your preferred operating system. Our
+        servers are designed to work smoothly with all <br>operating systems currently available in the market.
       </p>
       <div class="row">
         <div class="col-md-3 server-cols">
@@ -1090,9 +1126,9 @@ include ('inc/header.php');
   <div class=" container">
     <div class="bg-purple purple" style="background: #fff;">
       <div class="text-center">
-        <h2 class="server-heading">Industry-leading Technologies For Your Website!!</h2>
-        <p class="server-title title_sides-width">YouStable relies on the most renowned and trusted technologies to
-          provide better and unbeatable services</p>
+        <h2 class="server-heading">Technologies YouStable Works With</h2>
+        <p class="server-title title_sides-width">We are committed to delivering top-notch hosting in India by
+          harnessing industry-leading technologies that will optimize your website's speed to the fullest.</p>
         <div class="width-slider">
           <div class="row autoplay autoplay_slider">
             <div class="col-lg-3 server-cols">
@@ -1134,38 +1170,38 @@ include ('inc/header.php');
 
 
 <!--Review section-->
-  <section class="hosting-rating hosting-review">
-    <div class="container">
+<section class="hosting-rating hosting-review">
+  <div class="container">
 
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
-            </span>
-        </div>
-           <?php include ('animate-text.php')?>
-
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
-                <img src="assets/img/wave-yellow.png" class="floating">
-            </span>
-        </div>
-
-
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-circle.png" class="movingcloud">
+      </span>
     </div>
+    <?php include('animate-text.php') ?>
+
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-wave.png" class="movingclouds">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
+        <img src="assets/img/wave-yellow.png" class="floating">
+      </span>
+    </div>
+
+
+  </div>
 </section>
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 
@@ -1174,22 +1210,24 @@ include ('inc/customer-reviews.php');
 <!--(FAQ)-->
 <section class="faq faq-1">
   <div class="container">
-    <h2 class="text-center faq-question">FAQs</h2>
+    <h2 class="text-center faq-question">FAQs
+    </h2>
     <div class="accordion accordion-flush" id="accordionFlushExample">
+
+
+
       <div class="accordion-item faq-items">
         <h2 class="accordion-header" id="flush-headingOne">
-          <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-            What is VPS Hosting?
+            How do I get started with DirectAdmin VPS Hosting?
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">A virtual private server is referred to as VPS. A VPS operates by creating
-            separate virtual machines on a physical server. These virtual computers, also known as virtual private
-            servers, all function separately from one another. In other words, each VPS has a dedicated operating system
-            with a set amount of RAM, CPU, and disc space. This gives you access to a setting that nearly resembles that
-            of a dedicated server without having to pay the associated fees.</div>
+          <div class="accordion-body">Simply place an order for the desired DirectAdmin VPS plan and entrust the rest to
+            YouStable. From the initial setup to configuration and initiation, all aspects will be meticulously handled
+            by YouStable.</div>
         </div>
       </div>
 
@@ -1197,14 +1235,14 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingTwo">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-            What are VPS Hosting Benefits?
+            Which Operating System is available for my DirectAdmin VPS Server plan?
 
           </button>
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Getting to have dedicated services than shared and enjoying the provided features
-            to the fullest is what VPS imparts and benefits to its users.</div>
+          <div class="accordion-body">YouStable offers a range of operating system choices, including CentOS, Ubuntu,
+            Fedora, and Windows.</div>
         </div>
       </div>
 
@@ -1212,13 +1250,13 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingThree">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-            How do I get started with VPS Hosting? (How do I set up VPS Hosting?)
+            Will I get a free domain name and email service included with my VPS?
           </button>
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">All you have to do is order the VPS plan you want and leave the rest upon
-            YouStable. From set-up, configuring and getting it started for you, all will be taken care of.</div>
+          <div class="accordion-body">While you will receive free email services, it's important to note that
+            YouStable's VPS plans do not include a free domain.</div>
         </div>
       </div>
 
@@ -1226,14 +1264,18 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            Why Host your VPS with YouStable?
+            What’s the difference between VPS Hosting, Shared Hosting, and Dedicated Server Hosting?
 
           </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">With full root access, superfast NVMe SSD drives, latest processors, choice of
-            control panel and a lot more are comprised within VPS hosting plans. 24*7 customer support works as a plus!
+          <div class="accordion-body">Shared Hosting is a type of hosting where you obtain a portion or allocation on a
+            server alongside multiple other users. VPS Hosting, on the other hand, provides you with an exclusive
+            portion of the server solely for your use. <br />
+            The resources you receive are not intended to be shared with anyone else; they belong entirely to you.
+            Dedicated Hosting entails having complete control over the entire server without sharing it with others,
+            ensuring absolute privacy and unrestricted access to all available resources.
           </div>
         </div>
       </div>
@@ -1242,14 +1284,14 @@ include ('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-            Can I host several websites on a VPS?
+            Is there a trial period or money-back guarantee?
 
           </button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, you can host an unlimited number of websites on VPS once you purchase the
-            appropriate plan.</div>
+          <div class="accordion-body">Yes, YouStable offers a 3-day trial period, as well as a 30-day money-back
+            guarantee for first-time sign-ups on their VPS hosting services.</div>
         </div>
       </div>
 
@@ -1259,39 +1301,41 @@ include ('inc/customer-reviews.php');
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">Have Concerns?</h2>
+          <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
+            24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>

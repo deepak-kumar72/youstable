@@ -1,6 +1,6 @@
 <?php
 $page = 'dedicated-servers';
-include ('inc/header.php');
+include('inc/header.php');
 ?>
 
 <style>
@@ -167,8 +167,7 @@ include ('inc/header.php');
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/dedicated-server-hero-image.png" alt="Banner"
-          srcset="">
+        <img class="banner_img floatings" src="assets/img/dedicated-server-hero-image.png" alt="Banner" srcset="">
       </div>
     </div>
   </div>
@@ -232,7 +231,8 @@ include ('inc/header.php');
     </div>
 
     <div class="choose-country-tab">
-      <ul class="nav nav-pills my-5 justify-content-center country-choose-pill dedicated-mrgin" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills my-5 justify-content-center country-choose-pill dedicated-mrgin" id="pills-tab"
+        role="tablist">
         <li class="nav-item" role="presentation">
           <button class="nav-link active country-choose-btn choose-country-btn1 text-dark dedicated-button-click"
             id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab"
@@ -995,39 +995,39 @@ include ('inc/header.php');
 
 
 <!--Review section-->
-  <section class="hosting-rating hosting-review">
-    <div class="container">
+<section class="hosting-rating hosting-review">
+  <div class="container">
 
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
-            </span>
-        </div>
-           <?php include ('animate-text.php')?>
-
-        <div class="d-flex justify-content-between">
-            <span class="text-start">
-                <!--<img src="assets/img/floating-imgs.png" class="floating">-->
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
-            </span>
-            <span class="text-end">
-                <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
-                <img src="assets/img/wave-yellow.png" class="floating">
-            </span>
-        </div>
-
-
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-circle.png" class="movingcloud">
+      </span>
     </div>
+    <?php include('animate-text.php') ?>
+
+    <div class="d-flex justify-content-between">
+      <span class="text-start">
+        <!--<img src="assets/img/floating-imgs.png" class="floating">-->
+        <img src="assets/img/cloud-wave.png" class="movingclouds">
+      </span>
+      <span class="text-end">
+        <!--<img src="assets/img/floating-imgs.png" class="floatingcloud">-->
+        <img src="assets/img/wave-yellow.png" class="floating">
+      </span>
+    </div>
+
+
+  </div>
 </section>
 
 
 <!--(What our customer says) -->
 <?php
-include ('inc/customer-reviews.php');
+include('inc/customer-reviews.php');
 ?>
 
 
@@ -1125,39 +1125,41 @@ include ('inc/customer-reviews.php');
 
 <!--customer support-->
 <div class="container customer-support-container">
-    <section class="bg-light-yellow" style="padding: 15px;">
-        <div class="row reverse ">
-            <div class="col-lg-6 support-rev">
-                <div class="mt-4">
-                    <h2 class="ay_heading text-start">Have Concerns?</h2>
-                    <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
-                        24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/phone-call.png">
-                    </div>
-                    <div class="mb-4">
-                        <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
-                    </div>
-                </div>
-                <div class="d-flex">
-                    <div class="contact-hosting one">
-                        <img src="assets/img/newImages/Expert-Support.svg">
-                    </div>
-                    <div class="mb-4">
-                        <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip" data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
-                    </div>
-                </div>
-                <div>
-
-                </div>
-            </div>
-            <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
-            </div>
+  <section class="bg-light-yellow" style="padding: 15px;">
+    <div class="row reverse ">
+      <div class="col-lg-6 support-rev">
+        <div class="mt-4">
+          <h2 class="ay_heading text-start">Have Concerns?</h2>
+          <p class="server-titles py-4">Connect to our Best Technical Support Team now! Our Staff is online
+            24/7 and accessible via LiveChat Window, Ticket Support, Call and email.</p>
         </div>
-    </section>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/phone-call.png">
+          </div>
+          <div class="mb-4">
+            <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip" data-placement="top"
+              target="_self" data-bs-original-title="Contact us anytime">+919616782253</a>
+          </div>
+        </div>
+        <div class="d-flex">
+          <div class="contact-hosting one">
+            <img src="assets/img/newImages/Expert-Support.svg">
+          </div>
+          <div class="mb-4">
+            <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
+              data-placement="top" target="_self" data-bs-original-title="Click to Chat">Live Chat with Experts</a>
+          </div>
+        </div>
+        <div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 support-rev">
+        <img class="thinking-girl support-imgs" src="assets/img/support-new.png">
+      </div>
+    </div>
+  </section>
 </div><br>
 
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>
