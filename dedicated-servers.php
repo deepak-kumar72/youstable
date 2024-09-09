@@ -123,6 +123,8 @@ include('inc/header.php');
   section.review-content {
     margin: 70px 0;
   }
+  .choose-country-btn3 {
+  border-radius: 0px 50px 50px 0px !important;}
 
   @media screen and (max-width: 768px) {
     img.dedicated-server-hero {
@@ -143,26 +145,25 @@ include('inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content margin-top dedicated-margin">
           <p class="experience">Powerful Dedicated Servers</p>
-          <h1 class="Banner-Heading padding-heading robust">NVMe SSD Dedicated Server </h1>
-          <p class="Banner-title p-0">Enjoy Robust Server Control and Experience maximum website performance with
-            YouStable’s LiteSpeed-powered Dedicated servers.</p>
+          <h1 class="Banner-Heading padding-heading robust">High-Power Servers
+          Ideal for Indian Businesses </h1>
+          <p class="Banner-title p-0">Experience peak performance and security with affordable Dedicated Server Hosting in India. Full Root Access, unlimited storage, and top-tier security for your data!</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img
-                  src="assets/img/newImages/Premium-Latest-Hardware.svg" alt="tick" class="tick-square"> Full Root Admin
-                Access</li>
+                  src="assets/img/newImages/Premium-Latest-Hardware.svg" alt="tick" class="tick-square"> 24/7/365 Customer Support</li>
               <li class="purple-text_dark color-black-1"><img src="assets/img/newImages/DDoS-Protection.svg" alt="tick"
-                  class="tick-square"> Enhanced DDoS Protection</li>
+                  class="tick-square"> Hassle-Free Migrations</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img src="assets/img/newImages/1-Gbps-uplink.svg"
-                  alt="tick" class="tick-square"> 1 Gbps Uplink</li>
+                  alt="tick" class="tick-square"> Dedicated 1 IPv4 Address</li>
               <li class="purple-text_dark color-black-1"><img src="assets/img/newImages/Multiple-Server-Location.svg"
-                  alt="tick" class="tick-square"> Multiple Server Locations</li>
+                  alt="tick" class="tick-square">Lightning Fast Indian Servers</li>
             </ul>
           </div>
         </div>
-        <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started Today <i
+        <a href="#explore"><button class="btn-yellow btn-explore-plan">Compare Plans <i
               class="fa-solid fa-arrow-right"></i></button></a>
         <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>
       </div>
@@ -224,9 +225,9 @@ include('inc/header.php');
 <section class="explore-section mt-5 decdicated-plans-server" id="explore">
   <div class="container">
     <div class="text-center">
-      <h2 class="server-heading shared-heading-plan">Select the Best Dedicated Server Hosting Plan</h2>
-      <p class="server-title">Buy the most Affordable Dedicated server from among the options provided to Enjoy Ultimate
-        Website Performance with a server powered by the Latest Hardware at a Price You Can Afford!
+      <h2 class="server-heading shared-heading-plan">What if we say you are getting all in one here?</h2>
+      <p class="server-title">What makes you choose to host? The rich quality, enough quantity, reasonable prices and extraordinary features?
+      What if we say you are getting all in one here?
       </p>
     </div>
 
@@ -245,12 +246,12 @@ include('inc/header.php');
             aria-controls="pills-profile" aria-selected="false"><span class="flag-icons-country"><img
                 src="assets/img/412828.png" alt="" /></span> USA</button>
         </li>
-        <li class="nav-item" role="presentation">
+        <!-- <li class="nav-item" role="presentation">
           <button class="nav-link country-choose-btn choose-country-btn2 text-dark dedicated-button-click"
             id="pills-country-tab" data-bs-toggle="pill" data-bs-target="#pills-country" type="button" role="tab"
             aria-controls="pills-country" aria-selected="false"><span class="flag-icons-country"><img
                 src="assets/img/2151356.png" alt="" /></span> Netherlands</button>
-        </li>
+        </li> -->
       </ul>
       <div class="tab-content pt-4" id="pills-tabContent">
         <!--India-->
@@ -274,7 +275,7 @@ include('inc/header.php');
                   <td>4</td>
                   <td>32GB DDR4</td>
                   <td>480GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td>10 TB/1G</td>
                   <td class="indian-host-price">₹4999/mo<p class="actual-prize m-0">₹6665/Mo</p>
                   </td>
                   <td class="usa-host-price">$60.00/mo<p class="actual-prize m-0">$79.97/Mo</p>
@@ -289,7 +290,7 @@ include('inc/header.php');
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
                   <td class="purple-color-server">E3-123x v5/v6-3.2Ghz</td>
-                  <td>4</td>
+                  <td>8</td>
                   <td>32GB DDR4</td>
                   <td>480GB SSD</td>
                   <td>10 TB/1Gbps</td>
@@ -364,8 +365,8 @@ include('inc/header.php');
                       href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=347"
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
-                <!-- <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">Dual E5-2680v4-3.2Ghz</td>
+                <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
                           <td>28</td>
                           <td>128GB DDR4</td>
                           <td>960GB SSD</td>
@@ -377,7 +378,7 @@ include('inc/header.php');
                           <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=349" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                         </tr>
                         <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">Dual E5-2680v4-3.2Ghz</td>
+                          <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
                           <td>28</td>
                           <td>256GB DDR4</td>
                           <td>1.92TB SSD</td>
@@ -423,7 +424,7 @@ include('inc/header.php');
                           <td class="usa-host-price">$456.08/mo<p class="actual-prize m-0">$607.94/Mo</p></td>
                           
                           <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=353" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr> -->
+                        </tr>
 
               </tbody>
             </table>
@@ -449,11 +450,11 @@ include('inc/header.php');
               </thead>
               <tbody>
                 <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">E3-1230v3-3.30Ghz</td>
-                  <td>4</td>
+                  <td class="purple-color-server">Intel Quad-Core Xeon E-2274G</td>
+                  <td>4 x 4.0GHz</td>
                   <td>32GB DDR4</td>
-                  <td>480GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td>2X480GB SSD</td>
+                  <td>10 TB</td>
                   <td class="indian-host-price">₹4999/mo<p class="actual-prize m-0">₹6665/Mo</p>
                   </td>
                   <td class="usa-host-price">$60.00/mo<p class="actual-prize m-0">$79.97/Mo</p>
@@ -468,11 +469,11 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">E3-123x v5/v6-3.2Ghz</td>
-                  <td>4</td>
-                  <td>32GB DDR4</td>
-                  <td>480GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td class="purple-color-server">Intel Hexa-Core Xeon E-2286G</td>
+                  <td>6 x 4.0GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480GB SSD</td>
+                  <td>10 TB</td>
                   <td class="indian-host-price">₹6999/mo<p class="actual-prize m-0">₹9332/Mo</p>
                   </td>
                   <td class="usa-host-price">$84.01/mo<p class="actual-prize m-0">$111.98/Mo</p>
@@ -486,11 +487,11 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">E-2136-3.30Ghz</td>
-                  <td>6</td>
-                  <td>32GB DDR4</td>
-                  <td>480GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td class="purple-color-server">Intel Octa-Core Xeon E-2278G</td>
+                  <td>8 x 3.40GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480 GB SSD</td>
+                  <td>10 TB</td>
 
                   <td class="indian-host-price">₹7999/mo<p class="actual-prize m-0">₹10666/Mo</p>
                   </td>
@@ -506,11 +507,11 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">E-2286G - HEXA CORE-4.0Ghz</td>
-                  <td>6</td>
-                  <td>32GB DDR4</td>
-                  <td>480GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
+                  <td>2x 10 cores - 2.20GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>4x2TB SATA</td>
+                  <td>10 TB</td>
 
                   <td class="indian-host-price">₹9999/mo<p class="actual-prize m-0">₹13332/Mo</p>
                   </td>
@@ -526,11 +527,11 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">E5-2667v4-3.2Ghz</td>
-                  <td>8</td>
-                  <td>32GB DDR4</td>
-                  <td>960GB SSD</td>
-                  <td>10 TB/1Gbps</td>
+                  <td class="purple-color-server">AMD 16-Core EPYC 7302P</td>
+                  <td>16 Cores 3.06GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480GB SSD</td>
+                  <td>10 TB</td>
 
                   <td class="indian-host-price">₹11999/mo<p class="actual-prize m-0">₹15999/Mo</p>
                   </td>
@@ -546,10 +547,10 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
 
-                <!-- <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">Intel Quad-Core Xeon E-2274G</td>
-                          <td>4 x 4.0GHz</td>
-                          <td>32GB DDR4</td>
+                <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
+                          <td>2x 12 cores - 2.20GHz</td>
+                          <td>128GB DDR4</td>
                           <td>2x480GB SSD</td>
                           <td>10 TB</td>
 
@@ -559,10 +560,10 @@ include('inc/header.php');
                           <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-2" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                         </tr>
                         <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">Intel Hexa-Core Xeon E-2286G</td>
-                          <td>6 x 4.0GHz</td>
-                          <td>64GB DDR4</td>
-                          <td>2x480GB SSD</td>
+                          <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
+                          <td>2x 16 cores - 2.30GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
                           <td>10 TB</td>
 
                           <td class="indian-host-price">₹14,000/mo<p class="actual-prize m-0">₹18667/Mo</p></td>
@@ -571,10 +572,10 @@ include('inc/header.php');
                           <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-3" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                         </tr>
                         <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">Intel Octa-Core Xeon E-2278G</td>
-                          <td>8 x 3.40GHz</td>
-                          <td>64GB DDR4</td>
-                          <td>2x480 GB SSD</td>
+                          <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
+                          <td>2x 24 cores - 2.80GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
                           <td>10 TB</td>
 
                           <td class="indian-host-price">₹14,250/mo<p class="actual-prize m-0">₹19000/Mo</p></td>
@@ -582,7 +583,7 @@ include('inc/header.php');
                           
                           <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-4" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                         </tr>
-                        <tr class="border-white country-server-specs top-specs">
+                        <!-- <tr class="border-white country-server-specs top-specs">
                           <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
                           <td>2x 10 cores - 2.20GHz</td>
                           <td>64GB DDR4</td>
@@ -650,185 +651,6 @@ include('inc/header.php');
 
 
 
-        <!--Netherlands-->
-        <div class="tab-pane fade" id="pills-country" role="tabpanel" aria-labelledby="pills-country-tab">
-          <div class="table-responsive responsive-specs-table">
-            <table class="table mb-2">
-              <thead>
-                <tr class="country-server-specs-head">
-                  <th scope="col" style="color: #6b46f2;width: 24%;text-align: start;">Server Name</th>
-                  <th scope="col" class="wid-space">CPU</th>
-                  <th scope="col">Memory</th>
-                  <th scope="col">Storage</th>
-                  <th scope="col">Bandwidth</th>
-                  <th scope="col">Price</th>
-                  <th scope="col"></th>
-                </tr>
-              </thead>
-              <tbody>
-                <!-- <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E3-1230v3-3.30Ghz</td>
-                          <td>4</td>
-                          <td>32GB DDR4</td>
-                          <td>480GB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          <td>₹4999/mo<p class="actual-prize m-0">₹6665/Mo</p></td>
-                          <td><button class="buy-now-btn">Buy Now</button></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E3-123x v5/v6-3.2Ghz</td>
-                          <td>4</td>
-                          <td>32GB DDR4</td>
-                          <td>480GB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          <td>₹6999/mo<p class="actual-prize m-0">₹9332/Mo</p></td>
-                          <td><button class="buy-now-btn">Buy Now</button></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E-2136-3.30Ghz</td>
-                          <td>6</td>
-                          <td>32GB DDR4</td>
-                          <td>480GB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          <td>₹7999/mo<p class="actual-prize m-0">₹10666/Mo</p></td>
-                          <td><button class="buy-now-btn">Buy Now</button></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E-2286G - HEXA CORE-4.0Ghz</td>
-                          <td>6</td>
-                          <td>32GB DDR4</td>
-                          <td>480GB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          <td>₹9999/mo<p class="actual-prize m-0">₹13332/Mo</p></td>
-                          <td><button class="buy-now-btn">Buy Now</button></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E5-2667v4-3.2Ghz</td>
-                          <td>8</td>
-                          <td>32GB DDR4</td>
-                          <td>960GB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          <td>₹11999/mo<p class="actual-prize m-0">₹15999/Mo</p></td>
-                          <td><button class="buy-now-btn">Buy Now</button></td>
-                        </tr> -->
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">Ryzen 9 3900X(12c/24t)</td>
-                  <td>12</td>
-                  <td>64 GB DDR4</td>
-                  <td>960GB NVMe SSD</td>
-                  <td>50 TB/1Gbps</td>
-                  <td class="indian-host-price">₹11886/mo<p class="actual-prize m-0">₹14271/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$149.00/mo<p class="actual-prize m-0">$179/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=356"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=356"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">AMD Ryzen 9 5900X(12c/24t)</td>
-                  <td>12</td>
-                  <td>64GB DDR4</td>
-                  <td>960GB NVMe SSD</td>
-                  <td>50 TB/1Gbps</td>
-                  <td class="indian-host-price">₹13436/mo<p class="actual-prize m-0">₹15821/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$169.00/mo<p class="actual-prize m-0">$199/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=357"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=357"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">2x Intel Xeon E5- 2620 v2(12c/24t)</td>
-                  <td>12</td>
-                  <td>64GB DDR4</td>
-                  <td>960GB NVMe SSD</td>
-                  <td>50 TB/1Gbps</td>
-                  <td class="indian-host-price">₹15582/mo<p class="actual-prize m-0">₹17967/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$196.00/mo<p class="actual-prize m-0">$410/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=358"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=358"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">Intel Xeon E5-2680 v3(12c/24t)</td>
-                  <td>12</td>
-                  <td>64GB DDR4</td>
-                  <td>960GB NVMe SSD</td>
-                  <td>50 TB/1Gbps</td>
-                  <td class="indian-host-price">₹17013/mo<p class="actual-prize m-0">₹19398/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$214.00/mo<p class="actual-prize m-0">$244/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=359"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=359"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">Intel Xeon E5-2683 v4(16c/32t)</td>
-                  <td>16</td>
-                  <td>64GB DDR4 ECC*</td>
-                  <td>960GB NVMe SSD</td>
-                  <td>50 TB/1Gbps</td>
-                  <td class="indian-host-price">₹20114/mo<p class="actual-prize m-0">₹22499/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$253.00/mo<p class="actual-prize m-0">$283/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=360"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=360"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-                <tr class="border-white country-server-specs top-specs">
-                  <td class="purple-color-server">AMD EPYC 7502P (32c/64t)</td>
-                  <td>32</td>
-                  <td>256GB DDR4 ECC*</td>
-                  <td>2×1.92TB NVMe SSD</td>
-                  <td>UNMETERED</td>
-                  <td class="indian-host-price">₹29336/mo<p class="actual-prize m-0">₹31721/Mo</p>
-                  </td>
-                  <td class="usa-host-price">$369.00/mo<p class="actual-prize m-0">$399/Mo</p>
-                  </td>
-                  <td class="indian-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=361"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-
-                  <td class="usa-host-price"><a
-                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=361"
-                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                </tr>
-
-              </tbody>
-            </table>
-          </div>
-        </div>
 
       </div>
     </div>
@@ -843,10 +665,9 @@ include('inc/header.php');
   <div class="container">
     <div class="right-cols-awesome">
       <div class="text-center">
-        <h2 class="ay_heading">What makes YouStable’s Dedicated Server different? </span></h2>
-        <p class="server-title title_sides_width pb-3">We deliver something that is beyond your expectations, offering
-          you LiteSpeed Servers, Intel/ AMD Processors and a wide range of services exclusively meant to boost your
-          website performance.
+        <h2 class="ay_heading">Why choose YouStable for your Dedicated
+        Server Hosting?</span></h2>
+        <p class="server-title title_sides_width pb-3">We offer a lot more than what you are expecting!
         </p>
       </div>
       <div class="why-choose">
@@ -855,9 +676,8 @@ include('inc/header.php');
             <div class="feature_cols_dedicated">
               <img src="assets/img/call-center-copy-2.png" alt="ssd-storage">
               <div class="border-box">
-                <h5 class="ay-heading">24/7 Support</h5>
-                <p class="ay-title dedicate-content">Having no Technical knowledge about handling Servers? Our Dedicated
-                  Expert Staff offers you Instant Support to configure the server per your requirements.</p>
+                <h5 class="ay-heading">24/7 on-site Tech Support</h5>
+                <p class="ay-title dedicate-content">The dedicated team of YouStable is prepared to resolve any issue, whether it arises beforehand or afterwards, with its high-quality 24/7 technical support.</p>
               </div>
             </div>
           </div>
@@ -865,9 +685,8 @@ include('inc/header.php');
             <div class="feature_cols_dedicated">
               <img src="assets/img/CONTROL-1.png" alt="ssl-certificate">
               <div class="border-box">
-                <h5 class="ay-heading">Full Root Control</h5>
-                <p class="ay-title dedicate-content">YManage your Dedicated Server infrastructure from CPU to Processor,
-                  through YouStable’s Client Portal & scale it as per your need without any interruptions.</p>
+                <h5 class="ay-heading">Maximum Control</h5>
+                <p class="ay-title dedicate-content">With YouStable's user-friendly client portal and API, you have the ability to manage your entire hosting infrastructure effortlessly from a single interface.</p>
               </div>
             </div>
           </div>
@@ -875,9 +694,8 @@ include('inc/header.php');
             <div class="feature_cols_dedicated">
               <img src="assets/img/115803-1.png" alt="speed-web-server">
               <div class="border-box">
-                <h5 class="ay-heading">24/7 Monitoring </h5>
-                <p class="ay-title dedicate-content">Want to Check the performance of your Server? If so, then you are
-                  at the right place as at YouStable, you can easily monitor your servers and make changes.</p>
+                <h5 class="ay-heading">99.95% Uptime </h5>
+                <p class="ay-title dedicate-content">YouStable's dedicated server comes with Multiple Indian Data Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
               </div>
             </div>
           </div>
@@ -959,37 +777,33 @@ include('inc/header.php');
           <ul class="available-points">
 
 
-            <li class="indian-host-price">cPanel <span class="purple-bg">₹5200</span></li>
-            <li class="usa-host-price">cPanel <span class="purple-bg">$65</span></li>
-            <li class="indian-host-price">DirectAdmin <span class="purple-bg">₹400</span></li>
-            <li class="usa-host-price">DirectAdmin <span class="purple-bg">$5</span></li>
-            <li class="indian-host-price">Plesk <br> <span class="purple-bg">₹1200</span></li>
-            <li class="usa-host-price">Plesk <br> <span class="purple-bg">$15</span></li>
+            <li class="indian-host-price">BitNinja Server Security <span class="purple-bg">₹1220</span></li>
+            <li class="indian-host-price">VPS Offsite Cloud Backup<span class="purple-bg">₹4000</span></li>
+            <li class="indian-host-price">LiteSpeed 2-CPU <br> <span class="purple-bg">₹400</span></li>
           </ul>
         </div>
 
         <div class="col-md-3 available-cols">
           <ul class="available-points">
-            <li class="indian-host-price">Softaculous <span class="purple-bg">₹200</span></li>
-            <li class="usa-host-price">Softaculous <span class="purple-bg">$2.5</span></li>
-            <li class="indian-host-price">Immunify 360 <span class="purple-bg">₹960</span></li>
-            <li class="usa-host-price">Immunify 360 <span class="purple-bg">$12</span></li>
-            <li class="indian-host-price">Litespeed 2-CPU <span class="purple-bg">₹1600</span></li>
-            <li class="usa-host-price">Litespeed 2-CPU <span class="purple-bg">$20</span></li>
+            <li class="indian-host-price">Load Balancer <span class="purple-bg">₹1600</span></li>
+            <li class="indian-host-price">Performance Boost & Analytics <span class="purple-bg">₹800</span></li>
+            <li class="indian-host-price">Blesta (unbranded)<span class="purple-bg">₹400</span></li>
           </ul>
         </div>
 
         <div class="col-md-6 available-cols">
-          <h2>Premium Add-Ons!</h2>
-          <p class="server-title server-title-width my-0 enhance">Boost your server performance with these Premium
-            Add-Ons. You can easily scale these Add-Ons by Connecting to our Support Team. Worried about the Uptime?
-            Uptime is not affected during the scaling process.
+          <h2>Available Add-ons for your Dedicated Server</h2>
+          <p class="server-title server-title-width my-0 enhance">Improve your server by incorporating these software add-ons and upgrades.<br>
+
+You can easily add or remove all upgrades and addons by sending an email to our sales team. There will be no downtime during the upgrade process. The only condition is that the addon must remain on your account for a minimum of 30 days.
           </p>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
 
 
 
@@ -1041,16 +855,12 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingOne">
           <button class="accordion-button acc-purple-bg" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-            What is Dedicated Server Hosting?
+            What is a Dedicated Server Hosting?
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Dedicated Server Hosting is a kind of Web hosting solution in which an entire
-            server is allocated to a user (with Zero sharing members) with Complete server control and high
-            customization options including a choice of OS/ RAM/ CPU/ Storage/ BandWidth along with Enhanced Security
-            Technology like DDoS Protection and chances to Scale the web server resources as per the greater
-            requirements of the websites.
+          <div class="accordion-body">Dedicated Server Hosting refers to the situation where the business owner who purchased the hosting owns and is provided with the entire (physical) server. The owner has complete authority over the server and can personalize and expand it according to their requirements, maximizing its potential while enjoying complete autonomy and privacy.
           </div>
         </div>
       </div>
@@ -1059,15 +869,12 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingTwo">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-            What can you do with a Dedicated Server?
+            What are the reasons for choosing a Dedicated Server Hosting?
           </button>
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">With a Dedicated server, you can get uninterrupted website hosting service
-            ensuring maximum performance, checking your server status, its Uplink and Data transfer due to its 24/7
-            Monitoring feature, and unlimited Web resources for higher website needs. Dedicated servers can even host
-            your multiplayer games, trading and enterprise-level websites.
+          <div class="accordion-body">One of the key advantages of a dedicated server is the exceptional resource capacity it offers for hosting and managing your website. With a dedicated server, you have access to unlimited resources, enabling you to effortlessly attract and handle any amount of web traffic you desire.
           </div>
         </div>
       </div>
@@ -1076,15 +883,12 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingThree">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-            What are the reasons for choosing a dedicated Server?
+            Do I need a Dedicated Server for my website?
           </button>
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Dedicated Servers are specifically chosen by users wanting to get Complete Root
-            Access allowing them to make major changes on the server, and to experience uninterrupted server performance
-            for higher-traffic websites. Moreover, Users even choose Dedicated Servers as here they get an Exclusive
-            chance of scaling resources as needed. </div>
+          <div class="accordion-body">The ideal choice for your website will vary based on factors such as your website's characteristics, future plans, needs, and requirements. If your website experiences significant traffic and contains a large amount of content, and you desire to enhance its scalability, dedicated servers would be the most suitable option for you. </div>
         </div>
       </div>
 
@@ -1092,15 +896,12 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-            Do I need a Dedicated Server for my website?
+            What is the difference between VPS and a Dedicated Server?
           </button>
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">If you have an Organisational-level website with a heavy influx of visitors, then,
-            in that case, you’ll need Dedicated server hosting for your website where you’ll get separate web resources
-            like CPU/ Storage/ Bandwidth offering Uninterrupted hosting of your website. You can even monitor the
-            performance of your server resources to ensure their functionality.
+          <div class="accordion-body">The fundamental distinction between a VPS (Virtual Private Server) and a dedicated server lies in their resource allocation. VPS servers have relatively constrained resources, whereas dedicated servers offer unlimited resources. This abundance of resources enables dedicated servers to make your website exceptionally fast on the internet.
           </div>
         </div>
       </div>
@@ -1109,13 +910,37 @@ include('inc/customer-reviews.php');
         <h2 class="accordion-header" id="flush-headingFive">
           <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFour">
-            What is the difference between a VPS and a dedicated Server? </button>
+            Can I upgrade my VPS to a dedicated server?</button>
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">In very simple words, VPS distributes server resources across multiple virtual
-            servers on the same physical machine using virtualisation Technology, whereas dedicated hosting allocates
-            all of the physical server's resources to only one User.
+          <div class="accordion-body">Yes! You have the convenience of seamlessly transitioning your VPS services to Dedicated by reaching out to YouStable's customer support. Just get in touch with them, request the upgrade, and patiently await the processing of your request. Your services will be upgraded swiftly and efficiently.
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingFive1">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseFive1" aria-expanded="false" aria-controls="flush-collapseFour">
+            Do you offer control panels for an easy administration of my Dedicated Server?</button>
+        </h2>
+        <div id="flush-collapseFive1" class="accordion-collapse collapse" aria-labelledby="flush-headingFive1"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">Yes, We offer various GUI-based control panel options like DirectAdmin, cPanel, and more. These panels allow you to effortlessly manage and maintain your website, as well as its associated resources!
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item faq-items">
+        <h2 class="accordion-header" id="flush-headingFive2">
+          <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseFive2" aria-expanded="false" aria-controls="flush-collapseFour">
+            Can I upgrade the Configuration of my Dedicated Server Later On?</button>
+        </h2>
+        <div id="flush-collapseFive2" class="accordion-collapse collapse" aria-labelledby="flush-headingFive2"
+          data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">Yes, We provide you services with unmetered resources that means you can anytime upgrade to as much resources as you want without any restrictions or interruptions.
           </div>
         </div>
       </div>

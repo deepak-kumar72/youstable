@@ -875,23 +875,23 @@ include ('inc/customer-reviews.php');
                 
             </div>
             <div class="accordion-item faq-items">
-                <h2 class="accordion-header" id="flush-headingSix">
+                <h2 class="accordion-header" id="flush-headingSix1">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
+                        data-bs-target="#flush-collapseSix1" aria-expanded="false" aria-controls="flush-collapseFour">
                         Are YouStable's hosting plans suitable for individuals with no technical expertise?
 
                     </button>
                 </h2>
-                <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
+                <div id="flush-collapseSix1" class="accordion-collapse collapse" aria-labelledby="flush-headingSix1"
                     data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">Yes, With our fully managed web hosting services in India, you can effortlessly handle and maintain your website, even if you lack technical expertise. Focus on your content while we take care of the technicalities for you.</div>
                 </div>
                 
             </div>
             <div class="accordion-item faq-items">
-                <h2 class="accordion-header" id="flush-headingSix">
+                <h2 class="accordion-header" id="flush-headingSix2">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
+                        data-bs-target="#flush-collapseSix2" aria-expanded="false" aria-controls="flush-collapseFour">
                         Do you offer a money-back Guaranteed?
 
                     </button>

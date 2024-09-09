@@ -218,26 +218,26 @@ if (!isset($meta_data[$page])) {
                   About
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item first-shared" href="vps-hosting.php"><span class="icon-drop">
+                  <li><a class="dropdown-item first-shared" href="about-us.php"><span class="icon-drop">
                       <img src="assets/img/VPS-server.png" alt="hosting-icon"></span>
                       <span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav"> About Us </p>
                         <!-- <p class="dropdown-menu-main-description">Get Reliable Web Resources</p> -->
                       </span></a></li>
-                  <li><a class="dropdown-item first-shared" href="cyberpanel-vps.php"><span class="icon-drop"><img
+                  <li><a class="dropdown-item first-shared" href="contact-us.php"><span class="icon-drop"><img
                           src="assets/img/cyberpanel.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav"> Contact Us</p>
                         <!-- <p class="dropdown-menu-main-description">Free Addon’s worth $94 (WP Optimized)</p> -->
                       </span> </a></li>
-                  <li><a class="dropdown-item first-shared" href="directadmin-vps.php"><span class="icon-drop"><img
+                  <li><a class="dropdown-item first-shared" href=""><span class="icon-drop"><img
                           src="assets/img/direct.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav"> Affiliate</p>
                         <!-- <p class="dropdown-menu-main-description">Fast and Reliable Panel</p> -->
                       </span> </a></li>
-                  <li><a class="dropdown-item first-shared-one" href="cpanel-vps.php" style="border-bottom:0px;"><span
+                  <li><a class="dropdown-item first-shared-one" href="data-center.php" style="border-bottom:0px;"><span
                         class="icon-drop"><img src="assets/img/cpanel.png" alt="hosting-icon"></span><span
                         class="dropdown-menu-link-conatiner">
                         <p class="dropdown-menu-main-nav">Datacenter</p>
@@ -258,7 +258,7 @@ if (!isset($meta_data[$page])) {
 
             </ul>
           </div>
-              <!-- <li class="nav-item flag-border login-remover-bd" style="position: relative;">
+              <li class="nav-item flag-border login-remover-bd" style="position: relative;">
                 
                 <span class="select" id="select">
                   <img src="assets/img/india-f.png" alt="flag-icon" class="flag-i">
@@ -266,11 +266,11 @@ if (!isset($meta_data[$page])) {
                 
                 <ul class="list" id="list">
                   <li id="rupee"><img src="assets/img/india-f.png" title="RUPEE" alt="" class="flag-i" /></li>
-                  <li id="usd"><img src="assets/img/usd-f.png" alt="" title="USD" class="flag-i" /></li>
+                  <li><a href="https://www.youstable.com/"><img src="assets/img/usd-f.png" alt="" title="USD" class="flag-i" /></a></li>
                 </ul>
 
                 
-              </li>  -->
+              </li> 
         </div>
       </nav>
       </div>

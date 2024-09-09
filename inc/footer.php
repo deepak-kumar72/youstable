@@ -95,7 +95,7 @@
               <div class="footer-options">
                 <h5>Domain Services</h5>
                 <ul>
-                  <li><a href="cheap-web-hosting.php" target="_self">Domain Name Search</a></li>
+                  <li><a href="domain-registration.php" target="_self">Domain Name Search</a></li>
                   <li class="nav-item dropdown footer-li-adjust">
                     <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown"
                       aria-expanded="false">Speed Test <span class="arrow-whites"><img
@@ -141,7 +141,7 @@
               <div class="footer-options">
                 <h5>Tutorials</h5>
                 <ul>
-                  <li><a href="">Wordpress Tutorial</a></li>
+                  <li><a href="#">Wordpress Tutorial</a></li>
                   <li><a href="https://www.youtube.com/c/YouStable" target="_self">YouStable Academy</a></li>
                   <li><a href="https://www.youstable.com/manage/submitticket.php?step=2&deptid=2"
                       target="_self">Customer Support</a></li>
