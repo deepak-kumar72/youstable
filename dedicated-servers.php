@@ -804,6 +804,173 @@ You can easily add or remove all upgrades and addons by sending an email to our 
 </section>
 
 
+<section class="performance-sec plans">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="Banner-Heading">User-Friendly GUI Control Panels</h2>
+            <p class="server-title server-title-width mt-0 mt-p">No expertise in the command line interface? No worries!
+                We provide top-notch control panels that stand out in the market. With these tools, you can effortlessly
+                manage and monitor your Bare Metal dedicated server.</p>
+        </div>
+
+        <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
+            <div class="col-lg-3 quality-standard">
+                <p class="nav-item" role="presentation">
+                    <button class="nav-link active teb-bg-purple" id="pills-home-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
+                        aria-selected="true">
+                        <li class="color-black-1"><span class="text-dark dot"><img
+                                    src="assets/img/newImages/nvme-ssd-1.svg" alt="migration"></span>FcPanel</li>
+                    </button>
+                </p>
+            </div>
+            <div class="col-lg-3 quality-standard">
+                <p class="nav-item" role="presentation">
+                    <button class="nav-link teb-bg-purple" id="pills-profile-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
+                        aria-selected="false">
+                        <li class="color-black-1"><span class="text-dark dot"><img
+                                    src="assets/img/newImages/optimized-servers.svg" alt="migration"></span>DirectAdmin
+                        </li>
+                    </button>
+                </p>
+            </div>
+            <div class="col-lg-3 quality-standard">
+                <p class="nav-item" role="presentation">
+                    <button class="nav-link teb-bg-purple" id="pills-contact-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
+                        aria-selected="false">
+                        <li class="color-black-1"><span class="text-dark dot"><img
+                                    src="assets/img/newImages/advanced-control-panel.svg"
+                                    alt="migration"></span>CyberPanel
+                        </li>
+                    </button>
+                </p>
+            </div>
+            <div class="col-lg-3 quality-standard">
+                <p class="nav-item" role="presentation">
+                    <button class="nav-link teb-bg-purple" id="pills-uptime-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-uptime" type="button" role="tab" aria-controls="pills-uptime"
+                        aria-selected="false">
+                        <li class="color-black-1"><span class="text-dark dot"><img
+                                    src="assets/img/newImages/guaranteed-uptime.svg" alt="migration"></span>CentOs Web
+                            Panel</li>
+                    </button>
+                </p>
+            </div>
+        </div>
+
+        <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active border tab-titles" id="pills-home" role="tabpanel"
+                aria-labelledby="pills-home-tab">
+                <h5 class="heading-servers m-0">
+                    cPanel Control Panel Pricing</h5>
+                <div class="server-title py-2 m-0 mt-2">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col">User</td>
+                                <th scope="col">Price</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Single user (1 Domain)</td>
+                                <td> ₹1271+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>5 Users (5 Domain)</td>
+                                <td>₹1987+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>30 Users (30 Domain)</td>
+                                <td>₹2861+GST/monthly</td>
+                            </tr>
+                            <tr>
+                                <td>100 Users (100 Domain)</td>
+                                <td>₹4214+GST/monthly</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade border tab-titles" id="pills-profile" role="tabpanel"
+                aria-labelledby="pills-profile-tab">
+                <h5 class="heading-servers m-0">DirectAdmin Control Panel Price</h5>
+                <div class="server-title py-2 m-0 mt-2">
+                    <table class="table table-striped table-bordered ">
+                        <thead>
+                            <tr>
+                                <th scope="col">User</td>
+                                <th scope="col">Price</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Single user (10 Domain)</td>
+                                <td> ₹159+GST/month</td>
+                            </tr>
+                            <tr>
+                                <td>2 Users (20 Domain)</td>
+                                <td>₹398+GST/month</td>
+                            </tr>
+                            <tr>
+                                <td>10 Users (50 Domain)</td>
+                                <td> ₹1193+GST/month</td>
+                            </tr>
+                            <tr>
+                                <td>Unlimited Users (Unlimited Domain)</td>
+                                <td>₹2306+GST/month</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade border tab-titles" id="pills-contact" role="tabpanel"
+                aria-labelledby="pills-contact-tab">
+                <h5 class="heading-servers m-0">CyberPanel Control Panel Pricing</h5>
+                <div class="server-title py-2 m-0 mt-2">
+                    <table class="table table-striped table-bordered ">
+                        <thead>
+                            <tr>
+                                <th scope="col">User</td>
+                                <th scope="col">Price</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Unlimited users</td>
+                                <td>Free</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade border tab-titles" id="pills-uptime" role="tabpanel"
+                aria-labelledby="pills-uptime-tab">
+                <h5 class="heading-servers m-0">CentOs Control Panel Pricing</h5>
+                <div class="server-title py-2 m-0 mt-2">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col">User</td>
+                                <th scope="col">Price</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Unlimited users</td>
+                                <td> Free</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 
 

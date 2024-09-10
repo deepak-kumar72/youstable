@@ -277,503 +277,440 @@ include('inc/header.php');
 </section>
 
 <!--Explore Section-->
-<section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
-    <div class="text-center shared-hosting-plan-heading">
-        <h2 class="server-heading">Best price performance for cPanel Dedicated Server hosting Plans</h2>
-        <p class="server-title choose">By opting for our Best & Cheap cPanel Dedicated Server Plans in India, you can
-            host your applications or services with confidence. Our high-performing servers empower your business to
-            thrive and grow.</p>
+<section class="explore-section mt-5 decdicated-plans-server" id="explore">
+  <div class="container">
+    <div class="text-center">
+      <h2 class="server-heading shared-heading-plan">Robust Mumbai Dedicated Server Plans</h2>
+      <p class="server-title">Enjoy Our Dedicated Server Hosting in Mumbai Data Center Services
+      With Exclusive and Intense Resources With Greater Flexibility and NVMe SSD Drives.
+      </p>
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">Intel Quad-Core Xeon E-2274G</h4>
 
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹10,694
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+    <div class="choose-country-tab">
+      <!-- <ul class="nav nav-pills my-5 justify-content-center country-choose-pill dedicated-mrgin" id="pills-tab"
+        role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active country-choose-btn choose-country-btn1 text-dark dedicated-button-click"
+            id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab"
+            aria-controls="pills-home" aria-selected="true"><span class="flag-icons-country"><img
+                src="assets/img/206606.png" alt="" /></span> India </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link country-choose-btn choose-country-btn3 text-dark dedicated-button-click"
+            id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab"
+            aria-controls="pills-profile" aria-selected="false"><span class="flag-icons-country"><img
+                src="assets/img/412828.png" alt="" /></span> USA</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link country-choose-btn choose-country-btn2 text-dark dedicated-button-click"
+            id="pills-country-tab" data-bs-toggle="pill" data-bs-target="#pills-country" type="button" role="tab"
+            aria-controls="pills-country" aria-selected="false"><span class="flag-icons-country"><img
+                src="assets/img/2151356.png" alt="" /></span> Netherlands</button>
+        </li>
+      </ul> -->
+      <div class="tab-content pt-4" id="pills-tabContent">
+        <!--India-->
+        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+          <div class="table-responsive responsive-specs-table">
+            <table class="table mb-2">
+              <thead>
+                <tr class="country-server-specs-head">
+                  <th scope="col" style="color: #6b46f2;width: 24%;text-align: start;">Server Name</th>
+                  <th scope="col" style="color: #292929;width: 12%;" class="wid-space">CPU</th>
+                  <th scope="col" style="color: #292929;width: 12%;">Memory</th>
+                  <th scope="col" style="color: #292929;width: 12%;">Storage</th>
+                  <th scope="col" style="color: #292929;width: 12%;">Bandwidth</th>
+                  <th scope="col" style="color: #292929;width: 12%;">Price</th>
+                  <th scope="col" style="color: #292929;width: 12%;">Get Started</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Quad-Core Xeon E-2274G</td>
+                  <td>4 x 4.0GHz CPU</td>
+                  <td>32GB DDR4</td>
+                  <td>2X480GB SSD</td>
+                  <td>10 TB/1G</td>
+                  <td class="indian-host-price">₹10694/mo<p class="actual-prize m-0">₹10694/Mo</p>
+                  </td>
+                  <!-- <td class="usa-host-price">$60.00/mo<p class="actual-prize m-0">$79.97/Mo</p>
+                  </td> -->
 
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=354"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                  <!-- <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=354"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td> -->
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Hexa-Core Xeon E-2286G</td>
+                  <td>6</td>
+                  <td>64GB DDR4</td>
+                  <td>2X480GB SSD</td>
+                  <td>10 TB/1Gbps</td>
+                  <td class="indian-host-price">₹14000/mo<p class="actual-prize m-0">₹9332/Mo</p>
+                  </td>
+                  <!-- <td class="usa-host-price">$84.01/mo<p class="actual-prize m-0">$111.98/Mo</p>
+                  </td> -->
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=346"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                  <!-- <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=346"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td> -->
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Octa-Core Xeon E-2278G</td>
+                  <td>8</td>
+                  <td>64GB DDR4</td>
+                  <td>2X480GB SSD</td>
+                  <td>10 TB/1Gbps</td>
 
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>4 x 4.0GHz CPU</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>32GB DDR4 RAM</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x480GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">Intel Hexa-Core Xeon E-2286G</h4>
+                  <td class="indian-host-price">₹7999/mo<p class="actual-prize m-0">₹14250/Mo</p>
+                  </td>
+                  <!-- <td class="usa-host-price">$96.01/mo<p class="actual-prize m-0">$127.98/Mo</p>
+                  </td> -->
 
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹14,000
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=355"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+<!-- 
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=355"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td> -->
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
+                  <td>2x 10 cores - 2.20GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>4x2TB SATA</td>
+                  <td>10 TB/1Gbps</td>
 
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                  <td class="indian-host-price">₹9999/mo<p class="actual-prize m-0">₹22300/Mo</p>
+                  </td>
+                  <!-- <td class="usa-host-price">$120.01/mo<p class="actual-prize m-0">₹159.97/Mo</p>
+                  </td> -->
 
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>6 x 4.0GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>64GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x480GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=348"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
 
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">Intel Octa-Core Xeon E-2278G</h4>
+                  <!-- <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=348"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>-->
+                </tr> 
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">AMD 16-Core EPYC 7302P</td>
+                  <td>16 Cores 3.06GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>960GB SSD</td>
+                  <td>2x480GB SSD</td>
 
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹14,254
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                  <td class="indian-host-price">₹22900/mo<p class="actual-prize m-0">₹22300/Mo</p>
+                  </td>
+                  <!-- <td class="usa-host-price">$144.02/mo<p class="actual-prize m-0">$191.98/Mo</p>
+                  </td> -->
 
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=347"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
 
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>8 x 3.40GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>64GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x480 GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">2x Intel Deca-Core Xeon E5-2630v4</h4>
+                  <!-- <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=347"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td> -->
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
+                          <td>2x 12 cores - 2.20GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x480GB SSD</td>
+                          <td>10 TB/1Gbps</td>
 
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹22,300
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                          <td class="indian-host-price">₹34600/mo<p class="actual-prize m-0">₹21332/Mo</p></td>
+                          <!-- <td class="usa-host-price">$192.03/mo<p class="actual-prize m-0">$255.97/Mo</p></td> -->
+                          
+                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=349" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
+                          <td>2x 16 cores - 2.30GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB/1Gbps</td>
 
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
+                           <td class="indian-host-price">₹41700/mo<p class="actual-prize m-0">₹41700/Mo</p></td>
+                          <!-- <td class="usa-host-price">$228.03/mo<p class="actual-prize m-0">$303.96/Mo</p></td> -->
+                          
+                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=350" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
+                          <td>2x 24 cores - 2.80GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB/1Gbps</td>
+                          
+                           <td class="indian-host-price">₹47500/mo<p class="actual-prize m-0">₹33332/Mo</p></td>
+                          <!-- <td class="usa-host-price">$300.05/mo<p class="actual-prize m-0">$399.96/Mo</p></td> -->
+                          
+                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=351" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <!-- <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">AMD EPYC 7543-2.8Ghz</td>
+                          <td>32</td>
+                          <td>128GB DDR4</td>
+                          <td>1.92TB SSD</td>
+                          <td>10 TB/1Gbps</td>
 
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x 10 cores - 2.20GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>64GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>4x2TB SATA</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                           <td class="indian-host-price">₹27999/mo<p class="actual-prize m-0">₹33332/Mo</p></td>
+                          <td class="usa-host-price">$336.06/mo<p class="actual-prize m-0">$447.96/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=352" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2X AMD EPYC 7543-2.8Ghz</td>
+                          <td>64</td>
+                          <td>256GB DDR4</td>
+                          <td>1.92TB SSD</td>
+                          <td>10 TB/1Gbps</td>
 
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">AMD 16-Core EPYC 7302P</h4>
+                           <td class="indian-host-price">₹37999/mo<p class="actual-prize m-0">₹50665/Mo</p></td>
+                          <td class="usa-host-price">$456.08/mo<p class="actual-prize m-0">$607.94/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=353" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr> -->
 
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹22,900
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>16 Cores 3.06GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>64GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x480GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">2x Intel 12-Core Xeon Silver 4214</h4>
-
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹34,600
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x 12 cores - 2.20GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>128GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x480GB SSD
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">2x Intel 16-Core Xeon Gold 5218</h4>
-
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹41,700
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x 16 cores - 2.30GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>128GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x960GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 explore-cols mb-4">
-                <div class="position-relative">
-                    <div class="upper-card">
-                        <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
-                        <h4 class="hosting-heading">2x AMD 24-Core EPYC 7402</h4>
-
-                        <div class="price-container" style="display:ruby-text;">
-                            <p class=" display-4 mb-0 fw-bolder">₹47,500
-                                <span style="font-size:30px;">/month</span>
-                            </p>
-                        </div>
-                        <a href="https://www.youstable.com/manage/order.php?currency=2&pid=21"
-                            class="link-color-black indian-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <a href="https://www.youstable.com/manage/order.php?currency=1&pid=21"
-                            class="link-color-black usa-host-price" target="_self"><button
-                                class="btn-yellow exploreplan-btn" type="submit">Buy Now</button></a>
-
-                        <div class="row mb-1 p">
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications" style="">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x 24 cores - 2.80GHz</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>128GB DDR4</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>2x960GB SSD</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="hosting_specification">
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 Gbit Port Speed</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>10TB Monthly Transfer</p>
-                                    </div>
-                                    <div class="d-flex gap-2 specifications">
-                                        <img src="assets/img/speci-tick.png" class="specification-tick">
-                                        <p>1 IPv4 IP Address</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="service-section">
-                <div class="container">
-                    <p class="text-center">Looking for high-performance and custom resources? Our friendly
-                        <strong>support sales
-                            team</strong>
-                        is here to help! <a href="#">Get in touch with us today.</a>
-                    </p>
-                    <div class="row mt-4">
-                        <div class="col-md-4 pb-4">
-                            <div class="service-card">
-                                <!-- <div class="icon-circle">
-                                    <i class="fa fa-check-circle"></i>
-                                </div> -->
-                                <h5>Free Website Migration Service</h5>
-                            </div>
-                        </div>
-                        <div class="col-md-4 pb-4">
-                            <div class="service-card">
-                                <!-- <div class="icon-circle">
-                                    <i class="fa fa-check-circle"></i>
-                                </div> -->
-                                <h5>Designed for Performance</h5>
-                            </div>
-                        </div>
-                        <div class="col-md-4 pb-4">
-                            <div class="service-card">
-                                <!-- <div class="icon-circle">
-                                    <i class="fa fa-check-circle"></i>
-                                </div> -->
-                                <h5>Keeping Your Data Safe</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+              </tbody>
+            </table>
+          </div>
         </div>
+
+
+
+        <!--USA-->
+        <!-- <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+          <div class="table-responsive responsive-specs-table">
+            <table class="table mb-2">
+              <thead>
+                <tr class="country-server-specs-head">
+                  <th scope="col" style="color: #6b46f2;width: 24%;text-align: start;">Server Name</th>
+                  <th scope="col" class="wid-space">CPU</th>
+                  <th scope="col">Memory</th>
+                  <th scope="col">Storage</th>
+                  <th scope="col">Bandwidth</th>
+                  <th scope="col">Price</th>
+                  <th scope="col"></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Quad-Core Xeon E-2274G</td>
+                  <td>4 x 4.0GHz</td>
+                  <td>32GB DDR4</td>
+                  <td>2X480GB SSD</td>
+                  <td>10 TB</td>
+                  <td class="indian-host-price">₹4999/mo<p class="actual-prize m-0">₹6665/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$60.00/mo<p class="actual-prize m-0">$79.97/Mo</p>
+                  </td>
+
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=354"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=354"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Hexa-Core Xeon E-2286G</td>
+                  <td>6 x 4.0GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480GB SSD</td>
+                  <td>10 TB</td>
+                  <td class="indian-host-price">₹6999/mo<p class="actual-prize m-0">₹9332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$84.01/mo<p class="actual-prize m-0">$111.98/Mo</p>
+                  </td>
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=346"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=346"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">Intel Octa-Core Xeon E-2278G</td>
+                  <td>8 x 3.40GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480 GB SSD</td>
+                  <td>10 TB</td>
+
+                  <td class="indian-host-price">₹7999/mo<p class="actual-prize m-0">₹10666/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$96.01/mo<p class="actual-prize m-0">$127.98/Mo</p>
+                  </td>
+
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=355"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=355"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
+                  <td>2x 10 cores - 2.20GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>4x2TB SATA</td>
+                  <td>10 TB</td>
+
+                  <td class="indian-host-price">₹9999/mo<p class="actual-prize m-0">₹13332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$120.01/mo<p class="actual-prize m-0">₹159.97/Mo</p>
+                  </td>
+
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=348"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=348"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">AMD 16-Core EPYC 7302P</td>
+                  <td>16 Cores 3.06GHz</td>
+                  <td>64GB DDR4</td>
+                  <td>2x480GB SSD</td>
+                  <td>10 TB</td>
+
+                  <td class="indian-host-price">₹11999/mo<p class="actual-prize m-0">₹15999/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$144.02/mo<p class="actual-prize m-0">$191.98/Mo</p>
+                  </td>
+
+                  <td class="indian-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=347"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+
+                  <td class="usa-host-price"><a
+                      href="https://www.youstable.com/manage/order.php?currency=1&a=add&pid=347"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+
+                <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
+                          <td>2x 12 cores - 2.20GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x480GB SSD</td>
+                          <td>10 TB</td>
+
+                           <td class="indian-host-price">₹10,694/mo<p class="actual-prize m-0">₹14259/Mo</p></td>
+                          <td class="usa-host-price">$134.0/mo<p class="actual-prize m-0">$171.10/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-2" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
+                          <td>2x 16 cores - 2.30GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹14,000/mo<p class="actual-prize m-0">₹18667/Mo</p></td>
+                          <td class="usa-host-price">$170.0/mo<p class="actual-prize m-0">$223.99/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-3" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
+                          <td>2x 24 cores - 2.80GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹14,250/mo<p class="actual-prize m-0">₹19000/Mo</p></td>
+                          <td class="usa-host-price">$173.0/mo<p class="actual-prize m-0">$227.9/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-4" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
+                          <td>2x 10 cores - 2.20GHz</td>
+                          <td>64GB DDR4</td>
+                          <td>4x2TB SATA</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹22,300/mo<p class="actual-prize m-0">₹29733/Mo</p></td>
+                         <td class="usa-host-price">$246.0/mo<p class="actual-prize m-0">$356.77/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-6" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">AMD 16-Core EPYC 7302P</td>
+                          <td>16 Cores 3.06GHz</td>
+                          <td>64GB DDR4</td>
+                          <td>2x480GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹22,900/mo<p class="actual-prize m-0">₹30533/Mo</p></td>
+                          <td class="usa-host-price">$279.0/mo<p class="actual-prize m-0">$366.37/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-5" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
+                          <td>2x 12 cores - 2.20GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x480GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹34,600/mo<p class="actual-prize m-0">₹46133/Mo</p></td>
+                          <td class="usa-host-price">$420.0/mo<p class="actual-prize m-0">$553.56/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-8" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
+                          <td>2x 16 cores - 2.30GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹41,700/mo<p class="actual-prize m-0">₹55600/Mo</p></td>
+                          <td class="usa-host-price">$507.0/mo<p class="actual-prize m-0">$667.16/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/intel-quad-core-xeon-e5-1620v4" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+                        <tr class="border-white country-server-specs top-specs">
+                          <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
+                          <td>2x 24 cores - 2.80GHz</td>
+                          <td>128GB DDR4</td>
+                          <td>2x960GB SSD</td>
+                          <td>10 TB</td>
+
+                          <td class="indian-host-price">₹47,500/mo<p class="actual-prize m-0">₹63333/Mo</p></td>
+                          <td class="usa-host-price">$577.0/mo<p class="actual-prize m-0">$759.95/Mo</p></td>
+                          
+                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/intel-quad-core-xeon-e5-1620v4-1" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                        </tr>
+
+              </tbody>
+            </table>
+          </div>
+        </div> -->
+
+
+
+
+      </div>
+    </div>
+
+  </div>
 </section>
 
 <!-- ninth section (Hosting rating) -->
