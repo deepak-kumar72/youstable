@@ -58,20 +58,92 @@ include ('inc/header.php');
     padding: 20px;
     border-radius: 40px
     }
+    .tooltip1 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+
+.tooltip1 .tooltiptext {
+  visibility: hidden;
+  width: 320px;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 98%;
+  left: 50%;
+  margin-left: -150px;
+  font-family: "Open Sans", sans-serif !important;
+  line-height: 21px;
+  padding: 10px;
+    font-size: 16px;
+    border: 1px solid #000
+}
+
+
+
+.tooltip1 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+.tooltip1:hover .tooltiptext {
+  visibility: visible;
+}
+#more {display: none;}
+
+.readMore-btn{
+    border:0px;
+    background: #fff;
+    color:#0d6efd;
+    margin-left: 5px;
+
+}
+
 </style>
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
 
 <!-- Banner section -->
 <section class="banner-sec share-bg-four">
     <div class=" container">
         <div class="row reverse">
             <div class="col-md-6">
+          
                 <div class="banner-left-content ">
-                    <h1 class="Banner-Heading padding-heading">Cloud Hosting Solutions for Ultimate peace of mind!</h1>
-                    <p class="Banner-title">We at YouStable focused on your success! That’s why we provide the best quality features to make you stand apart from the competition.</p>
+                <p class="experience">Web Hosting India</p>
+                    <h1 class="Banner-Heading padding-heading">India's Best Web Hosting Solution</h1>
+                    <p class="Banner-title">Experience lightning-fast and secure web hosting tailored to deliver outstanding digital experiences for your Indian audience.</p>
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/newImages/domain_1.svg" alt="ssd"></span>Latest NVMe SSD storage
+                                        src="assets/img/newImages/domain_1.svg" alt="ssd"></span>NVMe SSD storage
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
                                         src="assets/img/newImages/ssl.svg" alt="manage"></span>Easy to manage</li>
@@ -84,8 +156,11 @@ include ('inc/header.php');
                             </li>
                         </ul>
                     </div>
+
+                    
                 </div>
-                <a href="#explore"><button class="btn-yellow btn-explore-plan">Explore <i
+                
+                <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started <i
                             class="fa-solid fa-arrow-right"></i></button></a>
                 <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back
                     Guarantee</p>
@@ -147,7 +222,7 @@ include ('inc/header.php');
 <!-- Fourth sec (Explore Plan section) -->
 <section class="explore-section mt-5 plans-mobile-one" id="explore">
     <div class="text-center shared-hosting-plan-heading web-host">
-        <h2 class="server-heading shared-heading-plan">Choose the Perfect Web Hosting for your Site</h2>
+        <h2 class="server-heading shared-heading-plan">Get the Best Web Hosting in India</h2>
         <p class="server-title choose">Choose the Perfect Web Hosting Solution from among the various options provided
             as under.<br> Don’t know which one to Go for? Let us help you! Connect with <a href="https://www.youstable.com/contact-us" target="_blank">our Sales Team</a> Now!
         </p>
@@ -161,7 +236,7 @@ include ('inc/header.php');
                         <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
                         <h4 class="hosting-heading">DEDICATED SERVER</h4>
                         <div class="price-container">
-                            <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>10,694</p>
+                            <p class="hosting-price indian-host-price"><span class="hin-rs">₹</span>4,999</p>
                             <p class="per_month">/month</p>
                         </div>
 
@@ -175,15 +250,16 @@ include ('inc/header.php');
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p> Intel Xeon E-2274G</p>
+                                <p> Intel Xeon E3-1230</p>
                             </div>
+                           
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
                                 <p>32 GB DDR4</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>2x480 GB SSD</p>
+                                <p>480 GB NVMe SSD</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -199,7 +275,7 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p class="m-0">Free Direct Admin</p>
+                                <p class="m-0">Free Control Panel*</p>
                             </div>
                         </div>
                         <div class="free_setup btn-yellow ">
@@ -230,7 +306,11 @@ include ('inc/header.php');
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>1 CPU</p>
+                                <p class="tooltip1">1 Free Domain
+  <span class="tooltiptext">Choose a YouStart Web Hosting plan for 1 or 3 years and get a free domain name for the first year! You can select from the following extensions: .xyz, .shop, .cam, .co, <span id="dots">...</span><span id="more">.blog, .info, .life, .live, .site, .tech, or .technology.
+  After purchasing your hosting plan, the free domain registration will appear in your control panel. The domain is free for the first year, with renewal charges applying after that. This offer cannot be customized.</span><button class="readMore-btn" onclick="myFunction()" id="myBtn">Read more</button></p></span>
+</p>
+
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
@@ -250,11 +330,11 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>Free Control Panel</p>
+                                <p>Free Control Panel*</p>
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p class="m-0">99.9% Uptime</p>
+                                <p class="m-0">99.99% Uptime</p>
                             </div>
                         </div>
                         <div class="free_setup btn-light-purple">
@@ -305,7 +385,7 @@ include ('inc/header.php');
                             </div>
                             <div class="d-flex gap-2 specifications">
                                 <img src="assets/img/speci-tick.png" class="specification-tick" />
-                                <p>99.9% Uptime</p>
+                                <p>99.99% Uptime</p>
                             </div> -->
 
                         </div>
@@ -324,8 +404,8 @@ include ('inc/header.php');
     <div class="container">
         <div class="right-cols-awesome">
             <div class="padding-r-l text-center">
-                <h2 class="ay_heading">Discover India’s Best Web Hosting Features<span class="awesome-q line-1 anim-typewriter">
-                        Awesome?</span></h2>
+                <h2 class="ay_heading">Discover India’s Best Web Hosting <span class="awesome-q line-1 anim-typewriter">
+                        Features</span></h2>
                 <p class="server-title title-sides-width">Our hosting is focused on your success! That’s why we provide the best quality features to make you stand apart from the competition.</p>
             </div>
             <div class="sides-width">
@@ -626,43 +706,94 @@ include ('inc/header.php');
 
 <!--Performance section-->
 <section class="performance-sec plans">
-    <!-- <div class="container">
-        <div class="text-center">
-            <h2 class="Banner-Heading">Get the Best Results with<br></h2>
-            <h2 class="Banner-Heading fw-bold awesome-q line-1 anim-typewriter purple-text_dark managed-vps-hosting"> #1
-                Managed VPS Hosting Platform
-            </h2>
-            <p class="server-title">From online project managers to professional web
-                portfolios, SMBs, and web developers, <br class="remove-mobile">users trust our <a href="https://www.youstable.com/vps-hosting.php" target="_blank">managed VPS hosting</a>
-                solutions to boost their online presence.</p>
-        </div> -->
-        <div class="container">
-                    <section class="">
-                        <div class="row reverse demo-sec">
-                            <div class="col-lg-6">
-                                <div class="mt-4"
-                                    style="height: 100%;display: flex;flex-direction: column;justify-content: center;">
-                                    <h2 class="ay_heading text-start">Easily manage your tasks with DirectAdmin.l</h2>
-                                    <p class="server-titles py-4">Our GUI-based control panel ensures smooth and effortless website file management. The best part? It's included in our services, absolutely free of cost!.</p>
+  <div class="container">
+    <div class="text-center">
+      <h2 class="Banner-Heading">Why Choose YouStable Shared Web Hosting</h2>
+      <p class="server-title server-title-width mt-0 mt-p">At YouStable, we never compromise on quality! Benefit from
+        our exceptional features that come included at no extra cost.</p>
+    </div>
 
-                                        <a href=""><button class="btn-yellow btn-explore-plan">Try Demo<i
-                            class="fa-solid fa-arrow-right"></i></button></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <img class="thinking-girl" src="">
-                            </div>
-                        </div>
-                    </section>
-                </div>
+    <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link active teb-bg-purple" id="pills-home-tab" data-bs-toggle="pill"
+            data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/nvme-ssd-1.svg"
+                  alt="migration"></span>Fast
+              Nvme SSD Storage</li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills-profile-tab" data-bs-toggle="pill"
+            data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
+            aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/optimized-servers.svg"
+                  alt="migration"></span>Optimized Servers</li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills-contact-tab" data-bs-toggle="pill"
+            data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
+            aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img
+                  src="assets/img/newImages/advanced-control-panel.svg" alt="migration"></span>Advanced Control Panel
+            </li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills-uptime-tab" data-bs-toggle="pill"
+            data-bs-target="#pills-uptime" type="button" role="tab" aria-controls="pills-uptime" aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/guaranteed-uptime.svg"
+                  alt="migration"></span>Guaranteed Uptime</li>
+          </button>
+        </p>
+      </div>
+    </div>
 
+    <div class="tab-content" id="pills-tabContent">
+      <div class="tab-pane fade show active border tab-titles" id="pills-home" role="tabpanel"
+        aria-labelledby="pills-home-tab">
+        <h5 class="heading-servers m-0">
+          Fast Nvme SSD Storage</h5>
+        <p class="server-title py-2 m-0">We take pride in our market-leading server infrastructures. Wondering why? We
+          utilize top-notch, state-of-the-art hardware like lightning-fast NVMe SSD drives, ensuring seamless data
+          transfer between the server and your audience.</p>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="pills-profile" role="tabpanel"
+        aria-labelledby="pills-profile-tab">
+        <h5 class="heading-servers m-0">Optimized Servers</h5>
+        <p class="server-title py-2 m-0">Our servers are optimized to seamlessly function with all major content
+          management systems (CMS) such as WordPress, Joomla, Magento, and more. No matter which CMS you use, rest
+          assured our servers are fully compatible with your preferred platform.</p>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="pills-contact" role="tabpanel"
+        aria-labelledby="pills-contact-tab">
+        <h5 class="heading-servers m-0">Advanced Control Panel</h5>
+        <p class="server-title py-2 m-0">To ensure effortless management of your website files and server resources, we
+          offer industry-leading control panels like cPanel and DirectAdmin. Whether you prefer a budget-friendly or
+          feature-rich option, we have you covered with the best choices available.</p>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="pills-uptime" role="tabpanel" aria-labelledby="pills-uptime-tab">
+        <h5 class="heading-servers m-0">Guaranteed Uptime</h5>
+        <p class="server-title py-2 m-0">What if your website goes down? No worries! We proactively prevent such
+          situations with our highly secure servers and dedicated team of technical experts. They continuously monitor
+          your resources, eliminating vulnerabilities to ensure uninterrupted website performance.</p>
+      </div>
+    </div>
+  </div>
 </section>
 
 
 <section class="explore-section mt-5 plans-mobile-one" id="explore">
     <div class="text-center shared-hosting-plan-heading web-host">
         <h2 class="server-heading shared-heading-plan">Looking for Something More? <br> Avail it as per Your Needs</h2>
-        <p class="server-title choose">Whether you’re in need of WordPress Hosting, VPS Hosting, Dedicated Server or any other web hosting services, we’ve got you Everything covered!
+        <p class="server-title choose w-75">Whether you’re in need of WordPress Hosting, VPS Hosting, Dedicated Server or any other web hosting services, we’ve got you Everything covered!
         </p>
     </div>
 
@@ -875,23 +1006,23 @@ include ('inc/customer-reviews.php');
                 
             </div>
             <div class="accordion-item faq-items">
-                <h2 class="accordion-header" id="flush-headingSix1">
+                <h2 class="accordion-header" id="flush-headingSix">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#flush-collapseSix1" aria-expanded="false" aria-controls="flush-collapseFour">
+                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
                         Are YouStable's hosting plans suitable for individuals with no technical expertise?
 
                     </button>
                 </h2>
-                <div id="flush-collapseSix1" class="accordion-collapse collapse" aria-labelledby="flush-headingSix1"
+                <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix"
                     data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">Yes, With our fully managed web hosting services in India, you can effortlessly handle and maintain your website, even if you lack technical expertise. Focus on your content while we take care of the technicalities for you.</div>
                 </div>
                 
             </div>
             <div class="accordion-item faq-items">
-                <h2 class="accordion-header" id="flush-headingSix2">
+                <h2 class="accordion-header" id="flush-headingSix">
                     <button class="accordion-button acc-purple-bg collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#flush-collapseSix2" aria-expanded="false" aria-controls="flush-collapseFour">
+                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseFour">
                         Do you offer a money-back Guaranteed?
 
                     </button>

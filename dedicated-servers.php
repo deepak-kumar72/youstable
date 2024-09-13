@@ -123,8 +123,10 @@ include('inc/header.php');
   section.review-content {
     margin: 70px 0;
   }
+
   .choose-country-btn3 {
-  border-radius: 0px 50px 50px 0px !important;}
+    border-radius: 0px 50px 50px 0px !important;
+  }
 
   @media screen and (max-width: 768px) {
     img.dedicated-server-hero {
@@ -146,12 +148,14 @@ include('inc/header.php');
         <div class="banner-left-content margin-top dedicated-margin">
           <p class="experience">Powerful Dedicated Servers</p>
           <h1 class="Banner-Heading padding-heading robust">High-Power Servers
-          Ideal for Indian Businesses </h1>
-          <p class="Banner-title p-0">Experience peak performance and security with affordable Dedicated Server Hosting in India. Full Root Access, unlimited storage, and top-tier security for your data!</p>
+            Ideal for Indian Businesses </h1>
+          <p class="Banner-title p-0">Experience peak performance and security with affordable Dedicated Server Hosting
+            in India. Full Root Access, unlimited storage, and top-tier security for your data!</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img
-                  src="assets/img/newImages/Premium-Latest-Hardware.svg" alt="tick" class="tick-square"> 24/7/365 Customer Support</li>
+                  src="assets/img/newImages/Premium-Latest-Hardware.svg" alt="tick" class="tick-square"> 24/7/365
+                Customer Support</li>
               <li class="purple-text_dark color-black-1"><img src="assets/img/newImages/DDoS-Protection.svg" alt="tick"
                   class="tick-square"> Hassle-Free Migrations</li>
             </ul>
@@ -226,8 +230,9 @@ include('inc/header.php');
   <div class="container">
     <div class="text-center">
       <h2 class="server-heading shared-heading-plan">What if we say you are getting all in one here?</h2>
-      <p class="server-title">What makes you choose to host? The rich quality, enough quantity, reasonable prices and extraordinary features?
-      What if we say you are getting all in one here?
+      <p class="server-title">What makes you choose to host? The rich quality, enough quantity, reasonable prices and
+        extraordinary features?
+        What if we say you are getting all in one here?
       </p>
     </div>
 
@@ -366,65 +371,80 @@ include('inc/header.php');
                       class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
                 </tr>
                 <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
-                          <td>28</td>
-                          <td>128GB DDR4</td>
-                          <td>960GB SSD</td>
-                          <td>10 TB/1Gbps</td>
+                  <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
+                  <td>28</td>
+                  <td>128GB DDR4</td>
+                  <td>960GB SSD</td>
+                  <td>10 TB/1Gbps</td>
 
-                          <td class="indian-host-price">₹15999/mo<p class="actual-prize m-0">₹21332/Mo</p></td>
-                          <td class="usa-host-price">$192.03/mo<p class="actual-prize m-0">$255.97/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=349" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
-                          <td>28</td>
-                          <td>256GB DDR4</td>
-                          <td>1.92TB SSD</td>
-                          <td>10 TB/1Gbps</td>
+                  <td class="indian-host-price">₹15999/mo<p class="actual-prize m-0">₹21332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$192.03/mo<p class="actual-prize m-0">$255.97/Mo</p>
+                  </td>
 
-                           <td class="indian-host-price">₹18999/mo<p class="actual-prize m-0">₹25332/Mo</p></td>
-                          <td class="usa-host-price">$228.03/mo<p class="actual-prize m-0">$303.96/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=350" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">AMD EPYC 7313-3.0Ghz</td>
-                          <td>16</td>
-                          <td>64GB DDR4</td>
-                          <td>1.92TB SSD</td>
-                          <td>10 TB/1Gbps</td>
-                          
-                           <td class="indian-host-price">₹24999/mo<p class="actual-prize m-0">₹33332/Mo</p></td>
-                          <td class="usa-host-price">$300.05/mo<p class="actual-prize m-0">$399.96/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=351" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">AMD EPYC 7543-2.8Ghz</td>
-                          <td>32</td>
-                          <td>128GB DDR4</td>
-                          <td>1.92TB SSD</td>
-                          <td>10 TB/1Gbps</td>
+                  <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=349"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">E5-2680v4-3.2Ghz</td>
+                  <td>28</td>
+                  <td>256GB DDR4</td>
+                  <td>1.92TB SSD</td>
+                  <td>10 TB/1Gbps</td>
 
-                           <td class="indian-host-price">₹27999/mo<p class="actual-prize m-0">₹33332/Mo</p></td>
-                          <td class="usa-host-price">$336.06/mo<p class="actual-prize m-0">$447.96/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=352" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">2X AMD EPYC 7543-2.8Ghz</td>
-                          <td>64</td>
-                          <td>256GB DDR4</td>
-                          <td>1.92TB SSD</td>
-                          <td>10 TB/1Gbps</td>
+                  <td class="indian-host-price">₹18999/mo<p class="actual-prize m-0">₹25332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$228.03/mo<p class="actual-prize m-0">$303.96/Mo</p>
+                  </td>
 
-                           <td class="indian-host-price">₹37999/mo<p class="actual-prize m-0">₹50665/Mo</p></td>
-                          <td class="usa-host-price">$456.08/mo<p class="actual-prize m-0">$607.94/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=353" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
+                  <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=350"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">AMD EPYC 7313-3.0Ghz</td>
+                  <td>16</td>
+                  <td>64GB DDR4</td>
+                  <td>1.92TB SSD</td>
+                  <td>10 TB/1Gbps</td>
+
+                  <td class="indian-host-price">₹24999/mo<p class="actual-prize m-0">₹33332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$300.05/mo<p class="actual-prize m-0">$399.96/Mo</p>
+                  </td>
+
+                  <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=351"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">AMD EPYC 7543-2.8Ghz</td>
+                  <td>32</td>
+                  <td>128GB DDR4</td>
+                  <td>1.92TB SSD</td>
+                  <td>10 TB/1Gbps</td>
+
+                  <td class="indian-host-price">₹27999/mo<p class="actual-prize m-0">₹33332/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$336.06/mo<p class="actual-prize m-0">$447.96/Mo</p>
+                  </td>
+
+                  <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=352"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">2X AMD EPYC 7543-2.8Ghz</td>
+                  <td>64</td>
+                  <td>256GB DDR4</td>
+                  <td>1.92TB SSD</td>
+                  <td>10 TB/1Gbps</td>
+
+                  <td class="indian-host-price">₹37999/mo<p class="actual-prize m-0">₹50665/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$456.08/mo<p class="actual-prize m-0">$607.94/Mo</p>
+                  </td>
+
+                  <td><a href="https://www.youstable.com/manage/order.php?currency=2&a=add&pid=353"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
 
               </tbody>
             </table>
@@ -548,42 +568,54 @@ include('inc/header.php');
                 </tr>
 
                 <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
-                          <td>2x 12 cores - 2.20GHz</td>
-                          <td>128GB DDR4</td>
-                          <td>2x480GB SSD</td>
-                          <td>10 TB</td>
+                  <td class="purple-color-server">2x Intel 12-Core Xeon Silver 4214</td>
+                  <td>2x 12 cores - 2.20GHz</td>
+                  <td>128GB DDR4</td>
+                  <td>2x480GB SSD</td>
+                  <td>10 TB</td>
 
-                           <td class="indian-host-price">₹10,694/mo<p class="actual-prize m-0">₹14259/Mo</p></td>
-                          <td class="usa-host-price">$134.0/mo<p class="actual-prize m-0">$171.10/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-2" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
-                          <td>2x 16 cores - 2.30GHz</td>
-                          <td>128GB DDR4</td>
-                          <td>2x960GB SSD</td>
-                          <td>10 TB</td>
+                  <td class="indian-host-price">₹10,694/mo<p class="actual-prize m-0">₹14259/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$134.0/mo<p class="actual-prize m-0">$171.10/Mo</p>
+                  </td>
 
-                          <td class="indian-host-price">₹14,000/mo<p class="actual-prize m-0">₹18667/Mo</p></td>
-                          <td class="usa-host-price">$170.0/mo<p class="actual-prize m-0">$223.99/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-3" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <tr class="border-white country-server-specs top-specs">
-                          <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
-                          <td>2x 24 cores - 2.80GHz</td>
-                          <td>128GB DDR4</td>
-                          <td>2x960GB SSD</td>
-                          <td>10 TB</td>
+                  <td><a
+                      href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-2"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">2x Intel 16-Core Xeon Gold 5218</td>
+                  <td>2x 16 cores - 2.30GHz</td>
+                  <td>128GB DDR4</td>
+                  <td>2x960GB SSD</td>
+                  <td>10 TB</td>
 
-                          <td class="indian-host-price">₹14,250/mo<p class="actual-prize m-0">₹19000/Mo</p></td>
-                          <td class="usa-host-price">$173.0/mo<p class="actual-prize m-0">$227.9/Mo</p></td>
-                          
-                          <td><a href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-4" class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
-                        </tr>
-                        <!-- <tr class="border-white country-server-specs top-specs">
+                  <td class="indian-host-price">₹14,000/mo<p class="actual-prize m-0">₹18667/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$170.0/mo<p class="actual-prize m-0">$223.99/Mo</p>
+                  </td>
+
+                  <td><a
+                      href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-3"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <tr class="border-white country-server-specs top-specs">
+                  <td class="purple-color-server">2x AMD 24-Core EPYC 7402</td>
+                  <td>2x 24 cores - 2.80GHz</td>
+                  <td>128GB DDR4</td>
+                  <td>2x960GB SSD</td>
+                  <td>10 TB</td>
+
+                  <td class="indian-host-price">₹14,250/mo<p class="actual-prize m-0">₹19000/Mo</p>
+                  </td>
+                  <td class="usa-host-price">$173.0/mo<p class="actual-prize m-0">$227.9/Mo</p>
+                  </td>
+
+                  <td><a
+                      href="https://www.youstable.com/manage/index.php?rp=/store/dedicated-servers/xeon-e3-1230-intel-quad-core-xeon-e3-1230-4"
+                      class="link-color-black" target="_self"><button class="buy-now-btn">Buy Now</button></a></td>
+                </tr>
+                <!-- <tr class="border-white country-server-specs top-specs">
                           <td class="purple-color-server">2x Intel Deca-Core Xeon E5-2630v4</td>
                           <td>2x 10 cores - 2.20GHz</td>
                           <td>64GB DDR4</td>
@@ -666,7 +698,7 @@ include('inc/header.php');
     <div class="right-cols-awesome">
       <div class="text-center">
         <h2 class="ay_heading">Why choose YouStable for your Dedicated
-        Server Hosting?</span></h2>
+          Server Hosting?</span></h2>
         <p class="server-title title_sides_width pb-3">We offer a lot more than what you are expecting!
         </p>
       </div>
@@ -677,7 +709,8 @@ include('inc/header.php');
               <img src="assets/img/call-center-copy-2.png" alt="ssd-storage">
               <div class="border-box">
                 <h5 class="ay-heading">24/7 on-site Tech Support</h5>
-                <p class="ay-title dedicate-content">The dedicated team of YouStable is prepared to resolve any issue, whether it arises beforehand or afterwards, with its high-quality 24/7 technical support.</p>
+                <p class="ay-title dedicate-content">The dedicated team of YouStable is prepared to resolve any issue,
+                  whether it arises beforehand or afterwards, with its high-quality 24/7 technical support.</p>
               </div>
             </div>
           </div>
@@ -686,7 +719,8 @@ include('inc/header.php');
               <img src="assets/img/CONTROL-1.png" alt="ssl-certificate">
               <div class="border-box">
                 <h5 class="ay-heading">Maximum Control</h5>
-                <p class="ay-title dedicate-content">With YouStable's user-friendly client portal and API, you have the ability to manage your entire hosting infrastructure effortlessly from a single interface.</p>
+                <p class="ay-title dedicate-content">With YouStable's user-friendly client portal and API, you have the
+                  ability to manage your entire hosting infrastructure effortlessly from a single interface.</p>
               </div>
             </div>
           </div>
@@ -695,7 +729,8 @@ include('inc/header.php');
               <img src="assets/img/115803-1.png" alt="speed-web-server">
               <div class="border-box">
                 <h5 class="ay-heading">99.95% Uptime </h5>
-                <p class="ay-title dedicate-content">YouStable's dedicated server comes with Multiple Indian Data Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
+                <p class="ay-title dedicate-content">YouStable's dedicated server comes with Multiple Indian Data
+                  Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
               </div>
             </div>
           </div>
@@ -793,9 +828,12 @@ include('inc/header.php');
 
         <div class="col-md-6 available-cols">
           <h2>Available Add-ons for your Dedicated Server</h2>
-          <p class="server-title server-title-width my-0 enhance">Improve your server by incorporating these software add-ons and upgrades.<br>
+          <p class="server-title server-title-width my-0 enhance">Improve your server by incorporating these software
+            add-ons and upgrades.<br>
 
-You can easily add or remove all upgrades and addons by sending an email to our sales team. There will be no downtime during the upgrade process. The only condition is that the addon must remain on your account for a minimum of 30 days.
+            You can easily add or remove all upgrades and addons by sending an email to our sales team. There will be no
+            downtime during the upgrade process. The only condition is that the addon must remain on your account for a
+            minimum of 30 days.
           </p>
         </div>
       </div>
@@ -805,176 +843,163 @@ You can easily add or remove all upgrades and addons by sending an email to our 
 
 
 <section class="performance-sec plans">
-    <div class="container">
-        <div class="text-center">
-            <h2 class="Banner-Heading">User-Friendly GUI Control Panels</h2>
-            <p class="server-title server-title-width mt-0 mt-p">No expertise in the command line interface? No worries!
-                We provide top-notch control panels that stand out in the market. With these tools, you can effortlessly
-                manage and monitor your Bare Metal dedicated server.</p>
-        </div>
-
-        <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
-            <div class="col-lg-3 quality-standard">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link active teb-bg-purple" id="pills-home-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
-                        aria-selected="true">
-                        <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/nvme-ssd-1.svg" alt="migration"></span>FcPanel</li>
-                    </button>
-                </p>
-            </div>
-            <div class="col-lg-3 quality-standard">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link teb-bg-purple" id="pills-profile-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
-                        aria-selected="false">
-                        <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/optimized-servers.svg" alt="migration"></span>DirectAdmin
-                        </li>
-                    </button>
-                </p>
-            </div>
-            <div class="col-lg-3 quality-standard">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link teb-bg-purple" id="pills-contact-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
-                        aria-selected="false">
-                        <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/advanced-control-panel.svg"
-                                    alt="migration"></span>CyberPanel
-                        </li>
-                    </button>
-                </p>
-            </div>
-            <div class="col-lg-3 quality-standard">
-                <p class="nav-item" role="presentation">
-                    <button class="nav-link teb-bg-purple" id="pills-uptime-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-uptime" type="button" role="tab" aria-controls="pills-uptime"
-                        aria-selected="false">
-                        <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/guaranteed-uptime.svg" alt="migration"></span>CentOs Web
-                            Panel</li>
-                    </button>
-                </p>
-            </div>
-        </div>
-
-        <div class="tab-content" id="pills-tabContent">
-            <div class="tab-pane fade show active border tab-titles" id="pills-home" role="tabpanel"
-                aria-labelledby="pills-home-tab">
-                <h5 class="heading-servers m-0">
-                    cPanel Control Panel Pricing</h5>
-                <div class="server-title py-2 m-0 mt-2">
-                    <table class="table table-striped table-bordered">
-                        <thead>
-                            <tr>
-                                <th scope="col">User</td>
-                                <th scope="col">Price</td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Single user (1 Domain)</td>
-                                <td> ₹1271+GST/monthly</td>
-                            </tr>
-                            <tr>
-                                <td>5 Users (5 Domain)</td>
-                                <td>₹1987+GST/monthly</td>
-                            </tr>
-                            <tr>
-                                <td>30 Users (30 Domain)</td>
-                                <td>₹2861+GST/monthly</td>
-                            </tr>
-                            <tr>
-                                <td>100 Users (100 Domain)</td>
-                                <td>₹4214+GST/monthly</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="tab-pane fade border tab-titles" id="pills-profile" role="tabpanel"
-                aria-labelledby="pills-profile-tab">
-                <h5 class="heading-servers m-0">DirectAdmin Control Panel Price</h5>
-                <div class="server-title py-2 m-0 mt-2">
-                    <table class="table table-striped table-bordered ">
-                        <thead>
-                            <tr>
-                                <th scope="col">User</td>
-                                <th scope="col">Price</td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Single user (10 Domain)</td>
-                                <td> ₹159+GST/month</td>
-                            </tr>
-                            <tr>
-                                <td>2 Users (20 Domain)</td>
-                                <td>₹398+GST/month</td>
-                            </tr>
-                            <tr>
-                                <td>10 Users (50 Domain)</td>
-                                <td> ₹1193+GST/month</td>
-                            </tr>
-                            <tr>
-                                <td>Unlimited Users (Unlimited Domain)</td>
-                                <td>₹2306+GST/month</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="tab-pane fade border tab-titles" id="pills-contact" role="tabpanel"
-                aria-labelledby="pills-contact-tab">
-                <h5 class="heading-servers m-0">CyberPanel Control Panel Pricing</h5>
-                <div class="server-title py-2 m-0 mt-2">
-                    <table class="table table-striped table-bordered ">
-                        <thead>
-                            <tr>
-                                <th scope="col">User</td>
-                                <th scope="col">Price</td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Unlimited users</td>
-                                <td>Free</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="tab-pane fade border tab-titles" id="pills-uptime" role="tabpanel"
-                aria-labelledby="pills-uptime-tab">
-                <h5 class="heading-servers m-0">CentOs Control Panel Pricing</h5>
-                <div class="server-title py-2 m-0 mt-2">
-                    <table class="table table-striped table-bordered">
-                        <thead>
-                            <tr>
-                                <th scope="col">User</td>
-                                <th scope="col">Price</td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Unlimited users</td>
-                                <td> Free</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
+  <div class="container">
+    <div class="text-center">
+      <h2 class="Banner-Heading">User-Friendly GUI Control Panels</h2>
+      <p class="server-title server-title-width mt-0 mt-p">No expertise in the command line interface? No worries!
+        We provide top-notch control panels that stand out in the market. With these tools, you can effortlessly
+        manage and monitor your Bare Metal dedicated server.</p>
     </div>
+
+    <div class="row nav nav-pills mb-3 tab-four-heads" id="pills-tabs" role="tablist">
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link active teb-bg-purple" id="pills_tab_1" data-bs-toggle="pill"
+            data-bs-target="#FcPanel_tab" type="button" role="tab" aria-controls="FcPanel_tab" aria-selected="true">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/nvme-ssd-1.svg"
+                  alt="migration"></span>FcPanel</li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills_tab_2" data-bs-toggle="pill"
+            data-bs-target="#DirectAdmin_tab" type="button" role="tab" aria-controls="DirectAdmin_tab"
+            aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/optimized-servers.svg"
+                  alt="migration"></span>DirectAdmin
+            </li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills_tab_3" data-bs-toggle="pill" data-bs-target="#CyberPanel_tab"
+            type="button" role="tab" aria-controls="CyberPanel_tab" aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img
+                  src="assets/img/newImages/advanced-control-panel.svg" alt="migration"></span>CyberPanel
+            </li>
+          </button>
+        </p>
+      </div>
+      <div class="col-lg-3 quality-standard">
+        <p class="nav-item" role="presentation">
+          <button class="nav-link teb-bg-purple" id="pills_tab_4" data-bs-toggle="pill" data-bs-target="#CentOs_tab"
+            type="button" role="tab" aria-controls="CentOs_tab" aria-selected="false">
+            <li class="color-black-1"><span class="text-dark dot"><img src="assets/img/newImages/guaranteed-uptime.svg"
+                  alt="migration"></span>CentOs Web
+              Panel</li>
+          </button>
+        </p>
+      </div>
+    </div>
+
+    <div class="tab-content" id="pills-tabContent">
+      <div class="tab-pane fade show active border tab-titles" id="FcPanel_tab" role="tabpanel"
+        aria-labelledby="pills_tab_1">
+        <h5 class="heading-servers m-0">
+          cPanel Control Panel Pricing</h5>
+        <div class="server-title py-2 m-0 mt-2">
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th scope="col">User</td>
+                <th scope="col">Price</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Single user (1 Domain)</td>
+                <td> ₹1271+GST/monthly</td>
+              </tr>
+              <tr>
+                <td>5 Users (5 Domain)</td>
+                <td>₹1987+GST/monthly</td>
+              </tr>
+              <tr>
+                <td>30 Users (30 Domain)</td>
+                <td>₹2861+GST/monthly</td>
+              </tr>
+              <tr>
+                <td>100 Users (100 Domain)</td>
+                <td>₹4214+GST/monthly</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="DirectAdmin_tab" role="tabpanel" aria-labelledby="pills_tab_2">
+        <h5 class="heading-servers m-0">DirectAdmin Control Panel Price</h5>
+        <div class="server-title py-2 m-0 mt-2">
+          <table class="table table-striped table-bordered ">
+            <thead>
+              <tr>
+                <th scope="col">User</td>
+                <th scope="col">Price</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Single user (10 Domain)</td>
+                <td> ₹159+GST/month</td>
+              </tr>
+              <tr>
+                <td>2 Users (20 Domain)</td>
+                <td>₹398+GST/month</td>
+              </tr>
+              <tr>
+                <td>10 Users (50 Domain)</td>
+                <td> ₹1193+GST/month</td>
+              </tr>
+              <tr>
+                <td>Unlimited Users (Unlimited Domain)</td>
+                <td>₹2306+GST/month</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="CyberPanel_tab" role="tabpanel" aria-labelledby="pills_tab_3">
+        <h5 class="heading-servers m-0">CyberPanel Control Panel Pricing</h5>
+        <div class="server-title py-2 m-0 mt-2">
+          <table class="table table-striped table-bordered ">
+            <thead>
+              <tr>
+                <th scope="col">User</td>
+                <th scope="col">Price</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Unlimited users</td>
+                <td>Free</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="tab-pane fade border tab-titles" id="CentOs_tab" role="tabpanel" aria-labelledby="pills_tab_4">
+        <h5 class="heading-servers m-0">CentOs Control Panel Pricing</h5>
+        <div class="server-title py-2 m-0 mt-2">
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th scope="col">User</td>
+                <th scope="col">Price</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Unlimited users</td>
+                <td> Free</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-
-
-
-
-
-
 <!--Review section-->
 <section class="hosting-rating hosting-review">
   <div class="container">
@@ -1027,7 +1052,10 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Dedicated Server Hosting refers to the situation where the business owner who purchased the hosting owns and is provided with the entire (physical) server. The owner has complete authority over the server and can personalize and expand it according to their requirements, maximizing its potential while enjoying complete autonomy and privacy.
+          <div class="accordion-body">Dedicated Server Hosting refers to the situation where the business owner who
+            purchased the hosting owns and is provided with the entire (physical) server. The owner has complete
+            authority over the server and can personalize and expand it according to their requirements, maximizing its
+            potential while enjoying complete autonomy and privacy.
           </div>
         </div>
       </div>
@@ -1041,7 +1069,9 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">One of the key advantages of a dedicated server is the exceptional resource capacity it offers for hosting and managing your website. With a dedicated server, you have access to unlimited resources, enabling you to effortlessly attract and handle any amount of web traffic you desire.
+          <div class="accordion-body">One of the key advantages of a dedicated server is the exceptional resource
+            capacity it offers for hosting and managing your website. With a dedicated server, you have access to
+            unlimited resources, enabling you to effortlessly attract and handle any amount of web traffic you desire.
           </div>
         </div>
       </div>
@@ -1055,7 +1085,10 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">The ideal choice for your website will vary based on factors such as your website's characteristics, future plans, needs, and requirements. If your website experiences significant traffic and contains a large amount of content, and you desire to enhance its scalability, dedicated servers would be the most suitable option for you. </div>
+          <div class="accordion-body">The ideal choice for your website will vary based on factors such as your
+            website's characteristics, future plans, needs, and requirements. If your website experiences significant
+            traffic and contains a large amount of content, and you desire to enhance its scalability, dedicated servers
+            would be the most suitable option for you. </div>
         </div>
       </div>
 
@@ -1068,7 +1101,10 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">The fundamental distinction between a VPS (Virtual Private Server) and a dedicated server lies in their resource allocation. VPS servers have relatively constrained resources, whereas dedicated servers offer unlimited resources. This abundance of resources enables dedicated servers to make your website exceptionally fast on the internet.
+          <div class="accordion-body">The fundamental distinction between a VPS (Virtual Private Server) and a dedicated
+            server lies in their resource allocation. VPS servers have relatively constrained resources, whereas
+            dedicated servers offer unlimited resources. This abundance of resources enables dedicated servers to make
+            your website exceptionally fast on the internet.
           </div>
         </div>
       </div>
@@ -1081,7 +1117,9 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes! You have the convenience of seamlessly transitioning your VPS services to Dedicated by reaching out to YouStable's customer support. Just get in touch with them, request the upgrade, and patiently await the processing of your request. Your services will be upgraded swiftly and efficiently.
+          <div class="accordion-body">Yes! You have the convenience of seamlessly transitioning your VPS services to
+            Dedicated by reaching out to YouStable's customer support. Just get in touch with them, request the upgrade,
+            and patiently await the processing of your request. Your services will be upgraded swiftly and efficiently.
           </div>
         </div>
       </div>
@@ -1094,7 +1132,9 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseFive1" class="accordion-collapse collapse" aria-labelledby="flush-headingFive1"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, We offer various GUI-based control panel options like DirectAdmin, cPanel, and more. These panels allow you to effortlessly manage and maintain your website, as well as its associated resources!
+          <div class="accordion-body">Yes, We offer various GUI-based control panel options like DirectAdmin, cPanel,
+            and more. These panels allow you to effortlessly manage and maintain your website, as well as its associated
+            resources!
           </div>
         </div>
       </div>
@@ -1107,7 +1147,8 @@ include('inc/customer-reviews.php');
         </h2>
         <div id="flush-collapseFive2" class="accordion-collapse collapse" aria-labelledby="flush-headingFive2"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">Yes, We provide you services with unmetered resources that means you can anytime upgrade to as much resources as you want without any restrictions or interruptions.
+          <div class="accordion-body">Yes, We provide you services with unmetered resources that means you can anytime
+            upgrade to as much resources as you want without any restrictions or interruptions.
           </div>
         </div>
       </div>
